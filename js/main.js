@@ -9,9 +9,11 @@
     var fn = {
 
                 // Launch Functions
-                Launch: function () {
+            Launch: function () {
                     fn.MenuSticky();
-                    fn.Navigation();
+                    fn.MainSliderAlign();
+                    fn.MainSlider();
+                    fn.Slider();
                 },
 
                 // Sticky Menu
@@ -40,6 +42,46 @@
                     easing: 'swing'
                 });
             },
+
+        // Align Slider Horizontally
+        MainSliderAlign: function () {
+            var imageWidth, widthFix, container = $('.header-bg');
+            function centerImage() {
+                imageWidth = container.find('img').width();
+                widthFix = imageWidth / 2;
+                container.find('img').css('margin-left', -widthFix);
+            }
+            $(window).on("load resize", centerImage);
+        },
+
+
+
+        // Main FlexSlider
+        MainSlider: function () {
+            $(window).load(function () {
+                $('.main-slider').flexslider({
+                    noCSS: true,
+                    touch: false,
+                    controlNav: false,
+                    directionNav: false,
+                    animation: "fade",
+                    start: function () {
+                        $('#preloader').addClass('ready');
+                    }
+                });
+            });
+        },
+
+        // FlexSlider
+        Slider: function () {
+            $('.flexslider').flexslider({
+                noCSS: true,
+                touch: false,
+                directionNav: false,
+                animation: "fade"
+            });
+        },
+
 
             };
 

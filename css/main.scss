@@ -5,13 +5,13 @@
 @import "//maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css";
 
 /*Color*/
-$primary-color: #434B58;
-$pc-one: #8D98AD;
-$pc-one-light: lighten( $pc-one, 17% );
-$pc-two-light: lighten( $pc-one, 28% );
-$second-color: #DA7B25;
-$third-color: #3E742A;
-$third-color-light: lighten( $third-color, 60% );
+$primary-dark: #434B58;
+$primary: #8D98AD;
+$primary-light: lighten( $primary, 17% );
+$primary-lighter: lighten( $primary, 28% );
+$secondary: #DA7B25;
+$tertiary: #3E742A;
+$tertiary-light: lighten( $tertiary, 60% );
 
 /*Font*/
 $roboto: 'Roboto', sans-serif;

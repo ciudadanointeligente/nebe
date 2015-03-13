@@ -1,14 +1,31 @@
 body {
 	font: 100% $roboto;
-	color: $primary-color;
+	color: $primary-dark;
 	height: 20000px;
 	-webkit-font-smoothing: antialiased;
     text-shadow: rgba(0,0,0,.01) 0 0 1px;
+    font-size: 14px
+}
+
+h1, h2, h3, h4, h5 {
+	font-family: $raleway;
+	font-weight: 700;
+}
+
+.small {
+	color: $primary;
+}
+
+
+/*Header*/
+
+.navbar-brand h3 {
+	margin: 0;
 }
 
 .nav-bar {
 	/*background-color: rgba( $third-color, .3 );*/
-	background-color: $pc-one-light;
+	background-color: $primary-light;
 	a{
 		color: rgba( #FFF, .5 );
 			&:hover{
@@ -19,12 +36,11 @@ body {
 	}
 }
 
-/*Menu*/
-
 #header {
 	position: relative;
-	/*margin-bottom: -100px;*/
-	/*overflow: hidden;*/
+	margin-bottom: -100px;
+	overflow: hidden;
+	color: $primary-lighter;
 }
 
 .header-panel {
@@ -50,6 +66,7 @@ body {
 	-moz-animation: bounceInDown 0.5s;
 	-webkit-animation: bounceInDown 0.5s;
 	animation: bounceInDown 0.5s;
+	background: $primary-light;
 }
 
 .header-menu.fixed {
@@ -60,14 +77,6 @@ body {
 
 .header-menu > .box {
 	min-height: 75px;
-}
-
-.header-menu.sticky > .box {
-	padding-top: 0;
-	padding-bottom: 0;
-	border-top-left-radius: 0;
-	border-top-right-radius: 0;
-	border-bottom: 1px solid #5D9999;
 }
 
 .header-bg {
@@ -87,5 +96,80 @@ body {
 }
 
 #menu .box {
-  background-color: $pc-one-light;
+  background-color: $primary-light;
+}
+
+.header-cta {
+  position: absolute;
+  width: 100%;
+  padding: 0 15px;
+  z-index: 50;
+  bottom: 150px;
+}
+
+.header-bg {
+  position: relative;
+  height: 750px;
+  overflow: hidden;
+}
+
+#preloader {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  background: #efefef;
+  z-index: 45;
+}
+
+.preloader {
+  position: relative;
+  width: 12px;
+  height: 12px;
+  top: 46%;
+  top: -webkit-calc(50% - 6px);
+  top: calc(50% - 6px);
+  left: 46%;
+  left: -webkit-calc(50% - 6px);
+  left: calc(50% - 6px);
+  border-radius: 12px;
+  -webkit-transform-origin: 50% 50%;
+  transform-origin: 50% 50%;
+  -webkit-animation: preloader 1s ease-in-out infinite;
+  animation: preloader 1s ease-in-out infinite;
+}
+
+.slides, .flex-control-nav, .flex-direction-nav {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.slides, .flex-control-nav, .flex-direction-nav {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+#preloader.ready {
+  display: none;
+}
+
+.main-slider .slides img {
+  position: absolute;
+  width: 100%;
+  min-width: 1200px;
+  left: 50%;
+}
+
+/*Content*/
+
+.content {
+	position: relative;
+	padding: 0 15px;
+	z-index: 50;
+	background: #FFF;
+	
+	section {
+		padding: 50px 0;
+	}
 }
