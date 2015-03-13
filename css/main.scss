@@ -1,0 +1,24 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+@charset "utf-8";
+@import "//maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css";
+
+/*Color*/
+$primary-color: #434B58;
+$pc-one: #8D98AD;
+$pc-one-light: lighten( $pc-one, 17% );
+$pc-two-light: lighten( $pc-one, 28% );
+$second-color: #DA7B25;
+$third-color: #3E742A;
+$third-color-light: lighten( $third-color, 60% );
+
+/*Font*/
+$roboto: 'Roboto', sans-serif;
+$raleway: 'Raleway', sans-serif;
+
+
+// Import partials from `sass_dir` (defaults to `_sass`)
+@import
+        "base"
+;

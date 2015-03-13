@@ -1,0 +1,33 @@
+<head>
+
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width initial-scale=1">
+
+	<title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
+	<meta name="description" content="{{ site.description }}">
+
+	<meta property="og:title" content="{{ site.title }}" />
+	<meta property="og:type" content="website" />
+	<meta property="og:url" content="{{ site.baseurl }}" />
+	<meta property="og:image" content="{{ site.baseurl }}/img/og-img.png" />
+
+	<!-- twitter card -->
+	<meta name="twitter:card" content="summary">
+	<meta name="twitter:site" content="{{ site.twitter_username }}">
+	<meta name="twitter:title" content="{{ site.title }}">
+	<meta name="twitter:description" content="{{ site.description }}">
+	<meta name="twitter:creator" content="{{ site.twitter_username }}">
+	<meta name="twitter:image" content="{{ site.baseurl }}/img/og-img.png">
+
+	<!-- Latest compiled and minified CSS -->
+	<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/{{ site.bootstrap_version }}/css/bootstrap.min.css">
+	<link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
+	<link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+	<link href="{{ site.baseurl }}/css/animate.min.css" rel="stylesheet" media="screen">
+
+	<!-- Fonts -->
+	<link href='//fonts.googleapis.com/css?family=Roboto:400,100,700' rel='stylesheet' type='text/css'>
+	<link href='//fonts.googleapis.com/css?family=Raleway:700' rel='stylesheet' type='text/css'>
+
+</head>
