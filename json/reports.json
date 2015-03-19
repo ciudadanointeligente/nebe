@@ -1,0 +1,21 @@
+---
+layout: null
+---
+[
+	{% assign counter=1 %}
+	{% assign nro_reports = site.reports | size %}
+	{% for report in site.reports %}
+	{
+		"title": "{{report.title}}",
+		"description": "{{report.description}}",
+		"type": "{{report.type}}",
+		"location-lat": "{{report.location-lat}}",
+		"location-lng": "{{report.location-lng}}"
+	}
+	{% if counter != nro_reports %}
+		,
+	{% endif %}
+	{% assign counter=counter | plus:1 %}
+
+	{% endfor %}
+]

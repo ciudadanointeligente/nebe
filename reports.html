@@ -1,0 +1,15 @@
+---
+layout: default
+---
+<div class="container" ng-controller="ReportsListCtrl">
+	<fieldset>
+		<label for="query">Búsqueda</label>
+		<input id="query" ng-model="query" placeholder="">
+	</fieldset>
+	<ul class="list-unstyled">
+		<li ng-repeat="report in reports | filter:query">
+			<a href="[[report.url]]">[[report.title]]</a>
+			<p class="small"><i class="fa fa-map-marker"></i> [[report.location-lat]],[[report.location-lng]]</p>
+		</li>
+	</ul>
+</div>

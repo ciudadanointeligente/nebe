@@ -1,7 +1,11 @@
+html, body {
+	height: 100%;
+}
+
 body {
 	font: 100% $roboto;
 	color: $primary-dark;
-	height: 20000px;
+	/*height: 20000px;*/
 	-webkit-font-smoothing: antialiased;
     text-shadow: rgba(0,0,0,.01) 0 0 1px;
     font-size: 14px
@@ -38,7 +42,7 @@ h1, h2, h3, h4, h5 {
 
 #header {
 	position: relative;
-	margin-bottom: -100px;
+	/*margin-bottom: -100px;*/
 	overflow: hidden;
 	color: $primary-lighter;
 }
@@ -171,5 +175,18 @@ h1, h2, h3, h4, h5 {
 	
 	section {
 		padding: 50px 0;
+		width: 100%;
+		height: 100%; 
+	}
+}
+
+.monitor {
+	blockquote {
+		font-family: $raleway;
+		font-weight: 700;
+		footer {
+			color: $primary;
+			font-size: 85%;
+		}
 	}
 }

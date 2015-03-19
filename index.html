@@ -5,15 +5,20 @@ layout: default
 	
 	<section class="monitor">
 		<div class="container">
-		<div class="row">
-			<div class="col-md-8">
-				<h4>" LOREM IPSUM DOLOR SIT AMET, CONSECTETUR ADIPISCING ELIT, SED DO EIUSMOD TEMPOR INCIDIDUNT UT LABORE ET DOLORE MAGNA ALIQUA. UT ENIM AD MINIM VENIAM, QUIS NOSTRUD EXERCITATION ULLAMCO LABORIS NISI UT ALIQUIP EX EA COMMODO CONSEQUAT "</h4>
-				<p class="small">John Doe, monitor en tal parte de la selva. 12 de Enero 2015</p>
+			{% for exp in site.experiences limit:1 %}
+			<div class="row">
+				<div class="col-md-8">
+					<blockquote>
+						<p>{{ exp.testimony | capitalize }}</p>
+						<footer>{{ exp.told_by }}</footer>
+					</blockquote>
+					<!-- <p class="small">John Doe, monitor en tal parte de la selva. 12 de Enero 2015</p> -->
+				</div>
+				<div class="col-md-4">
+					<img src="{{ exp.picture }}">
+				</div>
 			</div>
-			<div class="col-md-4">
-				<img src="">
-			</div>
-		</div>
+			{% endfor %}
 		</div>  
 	</section>
 
