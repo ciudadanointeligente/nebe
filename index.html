@@ -6,20 +6,28 @@ layout: default
 	<section class="monitor">
 		<div class="container">
 		<div class="row">
-			<div class="col-md-8">
+			<div class="col-md-6">
 				<h4>" LOREM IPSUM DOLOR SIT AMET, CONSECTETUR ADIPISCING ELIT, SED DO EIUSMOD TEMPOR INCIDIDUNT UT LABORE ET DOLORE MAGNA ALIQUA. UT ENIM AD MINIM VENIAM, QUIS NOSTRUD EXERCITATION ULLAMCO LABORIS NISI UT ALIQUIP EX EA COMMODO CONSEQUAT "</h4>
 				<p class="small">John Doe, monitor en tal parte de la selva. 12 de Enero 2015</p>
 			</div>
-			<div class="col-md-4">
+			<div class="col-md-6">
 				<img src="">
+				<a href="" class="btn btn-default">Ver todos los reportes</a>
+				<a href="" class="btn btn-primary">Ver reporte</a>
 			</div>
 		</div>
 		</div>  
 	</section>
-
-	<section class="report-map"></section>
-	<section class="doc-preview"></section>
-	<section class="who-we-are"></section>
-	<section class="stats"></section>
-
 </div>
+
+	<section class="report-map">
+		{% include map.html %}
+	</section>
+	<section class="doc-preview"></section>
+	<section class="who-we-are">
+		<div class="container">
+			<h2 class="text-center">Quiénes somos</h2>
+			<h4 class="bajada text-width">Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</h4>
+		</div>
+	</section>
+	<section class="stats"></section>

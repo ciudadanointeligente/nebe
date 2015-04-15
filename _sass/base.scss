@@ -10,14 +10,71 @@ body {
 h1, h2, h3, h4, h5 {
 	font-family: $raleway;
 	font-weight: 700;
+  text-transform: uppercase;
+}
+
+.monitor h4 {
+  color: $tertiary;
+}
+
+h4.bajada {
+  color: $primary-light;
+  text-align: center;
 }
 
 .small {
 	color: $primary;
 }
 
+section .container {
+  padding: 60px 0;
+}
+
+.text-width {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+/*Buttons*/
+
+.btn {
+  text-transform: uppercase;
+  font-family: $raleway;
+  transition: all 0.5s;
+  -moz-transition: all 0.5s;
+  -webkit-transition: all 0.5s;
+  -o-transition: all 0.5s;
+}
+
+.btn-default {
+  color: $secondary;
+  background-color: #fff;
+  border: 2px solid $secondary;
+}
+
+.btn-default.active, .btn-default.focus, .btn-default:active, .btn-default:focus, .btn-default:hover, .open>.dropdown-toggle.btn-default {
+  color: $secondary-dark;
+  background-color: $primary-lighter;
+  border-color: $secondary-dark;
+}
+
+.btn-primary {
+  background-color: $secondary;
+  border: 2px solid $secondary;
+  color: #fff;
+}
+
+.btn-primary.active, .btn-primary.focus, .btn-primary:active, .btn-primary:focus, .btn-primary:hover, .open>.dropdown-toggle.btn-primary {
+  color: #fff;
+  background-color: $secondary-dark;
+  border-color: $secondary-dark;
+}
 
 /*Header*/
+
+nav {
+  color: #fff;
+}
 
 .navbar-brand h3 {
 	margin: 0;
@@ -34,6 +91,22 @@ h1, h2, h3, h4, h5 {
 				    font-weight: bold;
 			}
 	}
+}
+
+.navbar-brand {
+  padding: 12px 0px;
+}
+
+.navbar-nav {
+  float: right;
+}
+
+.navbar-nav>li>a {
+  color: #fff;
+}
+
+.nav>li>a:focus, .nav>li>a:hover {
+  background-color: $secondary;
 }
 
 #header {
@@ -67,6 +140,7 @@ h1, h2, h3, h4, h5 {
 	-webkit-animation: bounceInDown 0.5s;
 	animation: bounceInDown 0.5s;
 	background: $primary-light;
+  background: $secondary;
 }
 
 .header-menu.fixed {
@@ -93,6 +167,7 @@ h1, h2, h3, h4, h5 {
 	height: 100%;
 	content: "";
 	z-index: 40;
+  background: url(http://2015.abrelatam.org/images/bg.png) repeat;
 }
 
 #menu .box {
@@ -104,7 +179,9 @@ h1, h2, h3, h4, h5 {
   width: 100%;
   padding: 0 15px;
   z-index: 50;
-  bottom: 150px;
+  top: 180px;
+  text-align: center;
+  color: #FFF;
 }
 
 .header-bg {
@@ -172,4 +249,11 @@ h1, h2, h3, h4, h5 {
 	section {
 		padding: 50px 0;
 	}
+}
+
+/*Map*/
+
+#map { 
+  position:absolute; top:100px; bottom:0; width:100%;
+  z-index: 100; 
 }
