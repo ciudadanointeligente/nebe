@@ -2,7 +2,7 @@
 layout: post
 title: "Trámite de licencia ambiental para el Proyecto de Sísmica 3D Bloque XX-Tarija Oeste-Bloque Bereti PNANMI Aguaragüe"
 date: 2003-01-01
-categories: report
+categories: reporte
 author: Marco Octavio Ribera Arismendi
 ---
 
