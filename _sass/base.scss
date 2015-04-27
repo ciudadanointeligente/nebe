@@ -1,10 +1,9 @@
 body {
 	font: 100% $roboto;
 	color: $primary-dark;
-	height: 20000px;
 	-webkit-font-smoothing: antialiased;
-    text-shadow: rgba(0,0,0,.01) 0 0 1px;
-    font-size: 14px
+  text-shadow: rgba(0,0,0,.01) 0 0 1px;
+  font-size: 14px
 }
 
 h1, h2, h3, h4, h5 {
@@ -279,4 +278,13 @@ nav {
   padding-right: 0px;
   padding-left: 0px;
   margin-bottom: -3px;
+}
+
+
+/*Footer*/
+
+.site-footer {
+  background: $primary-dark;
+  color: $primary-light;
+  padding: 15px 0;
 }
