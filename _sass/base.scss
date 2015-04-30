@@ -74,6 +74,13 @@ section .container {
   border-color: $secondary-dark;
 }
 
+.fa-chevron-down {
+  color: #fff;
+  background: $secondary;
+  padding: 16px;
+  border-radius: 30px;
+}
+
 /*Labels*/
 
 .label-default {
