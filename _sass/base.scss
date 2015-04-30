@@ -267,7 +267,7 @@ nav {
   margin: -70px 0 -146px;
 }
 
-.monitor h3 {
+#monitor h3 {
   color: $tertiary;
 }
 
@@ -276,6 +276,22 @@ nav {
 #map { 
   position:absolute; top:100px; bottom:0; width:100%;
   z-index: 100; 
+}
+
+/*Doc preview*/
+
+#doc-preview h3 {
+  color: $tertiary;
+  margin-top: 80px;
+}
+
+#doc-preview .text-right {
+  margin: 100px 0 10px;
+}
+
+#doc-preview {
+  background: url(../img/documents.png) center no-repeat;
+  border-bottom: 1px solid $primary-lighter;
 }
 
 /*About us*/
