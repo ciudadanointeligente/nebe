@@ -2,32 +2,45 @@
 layout: default
 ---
 <div class="content">
-	
-	<section class="monitor">
+	<section id="monitor">
 		<div class="container">
 		<div class="row">
 			<div class="col-md-6">
-				<h4>" LOREM IPSUM DOLOR SIT AMET, CONSECTETUR ADIPISCING ELIT, SED DO EIUSMOD TEMPOR INCIDIDUNT UT LABORE ET DOLORE MAGNA ALIQUA. UT ENIM AD MINIM VENIAM, QUIS NOSTRUD EXERCITATION ULLAMCO LABORIS NISI UT ALIQUIP EX EA COMMODO CONSEQUAT "</h4>
+				<h3><i class="fa fa-quote-left"></i> LOREM IPSUM DOLOR SIT AMET, CONSECTETUR ADIPISCING ELIT, SED DO EIUSMOD TEMPOR INCIDIDUNT UT LABORE ET DOLORE MAGNA ALIQUA. UT ENIM AD MINIM VENIAM, QUIS NOSTRUD EXERCITATION ULLAMCO LABORIS NISI UT ALIQUIP EX EA COMMODO CONSEQUAT <i class="fa fa-quote-right"></i></h3>
 				<p class="small">John Doe, monitor en tal parte de la selva. 12 de Enero 2015</p>
 			</div>
 			<div class="col-md-6">
-				<img src="">
-				<a href="" class="btn btn-default">Ver todos los reportes</a>
-				<a href="" class="btn btn-primary">Ver reporte</a>
+				<div class="monitor-img">
+					<img src="{{ site.baseurl }}/img/monitor-1.png">
+				</div>
+				<div class="text-right">
+					<a href="" class="btn btn-default">Ver todos los reportes</a>
+					<a href="" class="btn btn-primary">Ver reporte</a>
+				</div>
 			</div>
 		</div>
 		</div>  
 	</section>
 </div>
 
-	<section class="report-map">
+	<section id="report-map">
 		{% include map.html %}
 	</section>
 
-	<section class="doc-preview">
+	<section id="doc-preview">
+		<div class="container">
+			<div class="text-width text-center">
+				<h3><i class="fa fa-quote-left"></i> LOREM IPSUM DOLOR SIT AMET, CONSECTETUR ADIPISCING ELIT, SED DO EIUSMOD TEMPOR INCIDIDUNT UT LABORE ET DOLORE MAGNA ALIQUA. UT ENIM AD MINIM VENIAM, QUIS NOSTRUD ALIQUIP EX EA COMMODO CONSEQUAT <i class="fa fa-quote-right"></i></h3>
+				<p class="small">Nombre del documento ” Juan Pérez.</p>
+				<div class="text-right">
+					<a href="" class="btn btn-default">Ver todos los documentos</a>
+					<a href="" class="btn btn-primary">Ver documento</a>
+				</div>
+			</div>
+		</div>
 	</section>
 	
-	<section class="who-we-are">
+	<section id="about-us">
 		<div class="container">
 			<h2 class="text-center">Quiénes somos</h2>
 			<h4 class="bajada text-width">Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</h4>
@@ -35,7 +48,7 @@ layout: default
 		{% include about-us.html %}
 	</section>
 
-	<section class="stats">
+	<section id="stats">
 		<div class="container">
 			<h2 class="text-center">Estadísticas</h2>
 			<h4 class="bajada text-width">Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</h4>
