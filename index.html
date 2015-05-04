@@ -40,12 +40,16 @@ layout: default
 	<section id="doc-preview">
 		<div class="container">
 			<div class="text-width text-center">
-				<h3><i class="fa fa-quote-left"></i> LOREM IPSUM DOLOR SIT AMET, CONSECTETUR ADIPISCING ELIT, SED DO EIUSMOD TEMPOR INCIDIDUNT UT LABORE ET DOLORE MAGNA ALIQUA. UT ENIM AD MINIM VENIAM, QUIS NOSTRUD ALIQUIP EX EA COMMODO CONSEQUAT <i class="fa fa-quote-right"></i></h3>
-				<p class="small">Nombre del documento ” Juan Pérez.</p>
-				<div class="text-right">
-					<a href="" class="btn btn-default">Ver todos los documentos</a>
-					<a href="" class="btn btn-primary">Ver documento</a>
-				</div>
+	    {% for post in site.posts %}
+		    {% if post.categories contains 'documento' and post.tags contains 'destacado' %}
+          <h3><i class="fa fa-quote-left"></i> {{ post.content | strip_html | truncatewords:40}} <i class="fa fa-quote-right"></i></h3>
+          <p class="small">{% if post.author %}{{ post.title }}{% endif %}, {% if post.author %}{{ post.author }}{% endif %}</p>
+						<div class="text-right">
+							<a href="{{ site.baseurl }}/documents.html" class="btn btn-default">Ver todos los documentos</a>
+							<a href="{{ BASE_PATH }}{{ post.link }}" class="btn btn-primary">Ver documento</a>
+						</div>
+	      {% endif %}
+	    {% endfor %}
 			</div>
 		</div>
 	</section>
