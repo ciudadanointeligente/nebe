@@ -3,8 +3,9 @@ layout: post
 published: true
 highlighted: true
 title: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.'
+description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.'
 author: FEDIQUEP
-date: 31-01-2015
+published_at: 2015-01-31T00:00:00
 country: Perú
 main_image: "/img/monitor-1.png"
 mapbox-lat: -2.569
