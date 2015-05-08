@@ -27,7 +27,7 @@ layout: page
     <ul class="posts">
       <li ng-repeat="report in reports | filter:searchDocs">
         <h5 class="report-title"><a href="{{ site.baseurl }}[[ report.permalink ]]">[[ report.title ]]</a></h5>
-        <p class="small">[[ report.published_at | date:'medium' ]]</p>
+        <p class="small">[[ format_date(report.published_at) | date:'longDate' ]]</p>
         [[ report.description ]]
         <p class="small text-right">[[ report.author ]]</p>
       </li>
