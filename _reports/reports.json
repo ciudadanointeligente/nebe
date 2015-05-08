@@ -1,0 +1,23 @@
+---
+layout: null
+---
+{
+    "reports": [
+    	{% for report in site.reports %}
+    		{% if report.title %}
+        {
+            "title": "{{ report.title }}",
+            "description": "{{ report.description }}",
+            "author": "{{ report.author }}",
+            "published_at": "{{ report.published_at }}",
+            "country": "{{ report.country }}",
+            "main_image": "{{ report.main_image }}",
+            "mapbox-lat": {{ report.mapbox-lat }},
+            "mapbox-long": {{ report.mapbox-long }},
+            "mapbox-zoom": {{ report.mapbox-zoom }},
+            "permalink": "{{ site.baseurl }}{{ report.url }}"
+
+        }{% if forloop.index > 1 %},{% endif%}{% endif%}
+        {% endfor %}
+    ]
+}
