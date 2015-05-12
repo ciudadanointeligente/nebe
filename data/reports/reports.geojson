@@ -1,0 +1,21 @@
+---
+---
+[
+	{% for report in site.reports %}
+    	{% if report.published %}
+	{
+		"type": "Feature",
+		"geometry": {
+		"type": "Point",
+		"coordinates": [ {{ report.long }}, {{ report.lat }} ]
+	},
+		"properties": {
+			"title": "{{ report.title }}",
+			"description": "{{ report.description }}",
+			"marker-color": "#DA7B25",
+			"marker-size": "large"
+		}
+	}{% if forloop.index < forloop.length %},{% endif%}
+		{% endif%}
+    {% endfor %}
+]

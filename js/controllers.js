@@ -6,7 +6,7 @@ var arkakApp = angular.module('arkakApp', [], function($interpolateProvider) {
 arkakApp.controller("ReportsCtrl", function($scope, $http){
 	$scope.reports = [];
 
-	$http.get('/reports/reports.json')
+	$http.get('/data/reports/reports.json')
 		.success(function(data){
 			$scope.reports = data.reports;
 		})

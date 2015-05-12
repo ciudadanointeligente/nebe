@@ -22,6 +22,11 @@ header_slide_3: "/img/home04.jpg"
 mapbox-map: 'jgarrido.m42eof6c'
 mapbox-token: 'pk.eyJ1IjoiamdhcnJpZG8iLCJhIjoiOVhrQ2ZwMCJ9.eItLrt9DzG1YNCbNZ0hhDg'
 
+#reports
+reports-zoom: 8
+reports-lat: '-2.234'
+reports-lng: '-77,656'
+
 #collections
 collections:
   reports:

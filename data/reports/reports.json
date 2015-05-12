@@ -12,9 +12,9 @@ layout: null
             "published_at": "{{ report.published_at | date_to_xmlschema }}",
             "country": "{{ report.country }}",
             "main_image": "{{ report.main_image }}",
-            "mapbox-lat": {{ report.mapbox-lat }},
-            "mapbox-long": {{ report.mapbox-long }},
-            "mapbox-zoom": {{ report.mapbox-zoom }},
+            "mapbox-lat": {{ report.lat }},
+            "mapbox-long": {{ report.long }},
+            "mapbox-zoom": {{ report.zoom }},
             "permalink": "{{ site.baseurl }}{{ report.url }}"
 
         }{% if forloop.index > 1 %},{% endif%}{% endif%}
