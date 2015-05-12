@@ -1,0 +1,18 @@
+---
+---
+{
+	"investigations": [
+		{% for investigation in site.investigations %}
+    		{% if investigation.published %}
+    	{
+    		"title" : "{{ investigation.title }}",
+    		"description" : "{{ investigation.description }}",
+    		"date" : "{{ investigation.date | date_to_xmlschema }}",
+    		"author" : "{{ investigation.author }}",
+    		"link" : "{{ investigation.link }}",
+    		"url" : "{{ site.baseurl }}{{ investigation.url }}"
+    	}{% if forloop.index < forloop.length %},{% endif%}
+    		{% endif %}
+    	{% endfor %}
+	]
+}
