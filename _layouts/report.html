@@ -1,0 +1,20 @@
+---
+layout: page
+---
+<div class="reports-map">
+  <img src="//api.tiles.mapbox.com/v4/{{ site.mapbox-map }}/pin-m+DA7B25({{ page.long }},{{ page.lat }})/{{ page.long }},{{ page.lat }},{{ page.zoom }}/1280x350.png?access_token={{ site.mapbox-token }}" class="img-responsive" style="width: 100%">
+</div>
+
+<div class="container">
+  <div class="post">
+    <header class="post-header">
+      <h3 class="post-title">{{ page.title }}</h3>
+      <p class="small">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
+    </header>
+
+    <article class="post-content">
+      {{ content }}
+    </article>
+
+  </div>
+</div>
