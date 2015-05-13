@@ -1,44 +1,12 @@
 <div class="row">
-  <div class="col-md-4 col-sm-6">
-    <iframe width='100%' height='350px' frameBorder='0' src='https://a.tiles.mapbox.com/v4/camargozzini.m1f61g44/attribution.html?access_token=pk.eyJ1IjoiY2FtYXJnb3p6aW5pIiwiYSI6InhXRjdLamcifQ.Gdafit2TZ0SSH_LS0dt2qg'></iframe>
+  {% for comunity in site.comunities %}
+    {% if comunity.published %}
+  <div class="col-md-4 comunity-map-{{ comunity.id }}" style="background: url('//api.tiles.mapbox.com/v4/{{ site.mapbox-map }}/geojson(%7B%22type%22%3A%22Feature%22%2C%22properties%22%3A%7B%22stroke-width%22%3A4%2C%22stroke%22%3A%22%23ff4444%22%2C%22stroke-opacity%22%3A0.5%7D%2C%22geometry%22%3A%7B%22type%22%3A%22LineString%22%2C%22coordinates%22%3A%5B{{ comunity.polygon | cgi_escape }}%5D%7D%7D)/{{ comunity.lat-lng }},7/650x300.png?access_token={{ site.mapbox-token }}') no-repeat center center;">
     <div class="us-text">
-      <h4>Nombre Comunidad</h4>
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+      <h4>{{ comunity.name }}</h4>
+      <p>{{ comunity.description }}</p>
     </div>
   </div>
-  <div class="col-md-4 col-sm-6">
-    <iframe width='100%' height='350px' frameBorder='0' src='https://a.tiles.mapbox.com/v4/camargozzini.m1f61g44/attribution.html?access_token=pk.eyJ1IjoiY2FtYXJnb3p6aW5pIiwiYSI6InhXRjdLamcifQ.Gdafit2TZ0SSH_LS0dt2qg'></iframe>
-    <div class="us-text">
-      <h4>Nombre Comunidad</h4>
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-    </div>
-  </div>
-  <div class="col-md-4 col-sm-6">
-    <iframe width='100%' height='350px' frameBorder='0' src='https://a.tiles.mapbox.com/v4/camargozzini.m1f61g44/attribution.html?access_token=pk.eyJ1IjoiY2FtYXJnb3p6aW5pIiwiYSI6InhXRjdLamcifQ.Gdafit2TZ0SSH_LS0dt2qg'></iframe>
-    <div class="us-text">
-      <h4>Nombre Comunidad</h4>
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-    </div>
-  </div>
-  <div class="col-md-4 col-sm-6">
-    <iframe width='100%' height='350px' frameBorder='0' src='https://a.tiles.mapbox.com/v4/camargozzini.m1f61g44/attribution.html?access_token=pk.eyJ1IjoiY2FtYXJnb3p6aW5pIiwiYSI6InhXRjdLamcifQ.Gdafit2TZ0SSH_LS0dt2qg'></iframe>
-    <div class="us-text">
-      <h4>Nombre Comunidad</h4>
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-    </div>
-  </div>
-  <div class="col-md-4 col-sm-6">
-    <iframe width='100%' height='350px' frameBorder='0' src='https://a.tiles.mapbox.com/v4/camargozzini.m1f61g44/attribution.html?access_token=pk.eyJ1IjoiY2FtYXJnb3p6aW5pIiwiYSI6InhXRjdLamcifQ.Gdafit2TZ0SSH_LS0dt2qg'></iframe>
-    <div class="us-text">
-      <h4>Nombre Comunidad</h4>
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-    </div>
-  </div>
-  <div class="col-md-4 col-sm-6">
-    <iframe width='100%' height='350px' frameBorder='0' src='https://a.tiles.mapbox.com/v4/camargozzini.m1f61g44/attribution.html?access_token=pk.eyJ1IjoiY2FtYXJnb3p6aW5pIiwiYSI6InhXRjdLamcifQ.Gdafit2TZ0SSH_LS0dt2qg'></iframe>
-    <div class="us-text">
-      <h4>Nombre Comunidad</h4>
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-    </div>
-  </div>
+    {% endif %}
+  {% endfor %}
 </div>

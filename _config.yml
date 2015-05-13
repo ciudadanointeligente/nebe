@@ -33,3 +33,5 @@ collections:
     output: true
   investigations:
     output: true
+  comunities:
+    output: true

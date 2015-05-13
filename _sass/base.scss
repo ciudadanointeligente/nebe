@@ -327,11 +327,11 @@ nav {
 /*About us*/
 
 .us-text {
-  position: absolute;
+  /*position: absolute;*/
   bottom: 0px;
   left: 0;
   padding: 20px;
-  background: rgba( $primary-dark, .8 );
+  background: rgba( $primary-dark, .4 );
   color: $primary-lighter;
   text-align: center;
   margin: 30px;
