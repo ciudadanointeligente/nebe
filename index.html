@@ -41,8 +41,8 @@ layout: default
 <section id="doc-preview">
 	<div class="container">
 		<div class="text-width text-center">
-		    {% for post in site.posts %}
-			    {% if post.categories contains 'documento' and post.tags contains 'destacado' %}
+		    {% for post in site.investigations %}
+			    {% if post.highlighted and post.published %}
 	          		<h3>
 	          			<i class="fa fa-quote-left"></i> {{ post.content | strip_html | truncatewords:40}} <i class="fa fa-quote-right"></i>
 	          		</h3>
@@ -53,13 +53,14 @@ layout: default
 	          		</p>
 					<div class="text-right">
 						<a href="{{ site.baseurl }}/documents.html" class="btn btn-default">Ver todos los documentos</a>
-						<a href="{{ BASE_PATH }}{{ post.link }}" class="btn btn-primary">Ver documento</a>
+						<a href="{{ BASE_PATH }}{{ post.link }}" class="btn btn-primary">Descargar documento</a>
 					</div>
 		      {% endif %}
 		    {% endfor %}
 		</div>
 	</div>
 </section>
+
 <div class="section-arrow">
 	<a href="#about-us"><i class="fa fa-chevron-down fa-2x"></i></a> 
 </div>
