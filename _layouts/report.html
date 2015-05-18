@@ -1,6 +1,10 @@
 ---
 layout: page
 ---
+{% capture words %}
+  {{ page.content | number_of_words }}
+{% endcapture %}
+
 <div class="reports-map">
   <img src="//api.tiles.mapbox.com/v4/{{ site.mapbox-map }}/pin-m+DA7B25({{ page.long }},{{ page.lat }})/{{ page.long }},{{ page.lat }},{{ page.zoom }}/1280x300.png?access_token={{ site.mapbox-token }}" class="img-responsive" style="width: 100%">
 </div>
@@ -9,7 +13,10 @@ layout: page
   <div class="post">
     <header class="post-header">
       <h3 class="post-title">{{ page.title }}</h3>
-      <p class="small">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
+      <p class="small">
+        {{ page.published_at | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}
+        • Tiempo de lectura : {{ words | plus: 250 | divided_by: 180 | append: " minuto(s)" }}
+      </p>
     </header>
 
     <article class="post-content">
