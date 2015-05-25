@@ -39,7 +39,7 @@
 		<div class="container">
 			<div class="row">
 				<div class="blk col-md-8 col-md-offset-2">
-					<h1>{{ site.header_txt }}</h1>
+					<h1>{{ site.header.txt }}</h1>
 					<a href="#monitor"><i class="fa fa-chevron-down fa-2x"></i></a>
 				</div>
 			</div>
@@ -53,9 +53,9 @@
 		<div class="main-slider" id="main-slider">
 			<!--== Main Slider ==-->
 			<ul class="slides">
-				<li><img src="{{ site.baseurl }}{{ site.header_slide_1 }}"/></li>
-				<li><img src="{{ site.baseurl }}{{ site.header_slide_2 }}"/></li>
-				<li><img src="{{ site.baseurl }}{{ site.header_slide_3 }}"/></li>
+				{% for slide in site.header.slide %}
+				<li><img src="{{ slide }}"/></li>
+				{% endfor %}
 			</ul>
 		</div>
 	</div>

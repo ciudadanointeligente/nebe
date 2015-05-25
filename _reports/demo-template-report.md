@@ -9,7 +9,7 @@ published_at: 2015-01-31T00:00:00
 country: Perú
 main_image: "/img/monitor-1.png"
 lat: -2.569
-long: -77.344
+lng: -77.344
 zoom: 8
 ---
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod

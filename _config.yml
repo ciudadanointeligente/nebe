@@ -13,19 +13,25 @@ google_analytics: "UA-60671039-1"
 markdown: kramdown
 
 # main page
-header_txt: "LOREM IPSUM DOLOR SIT AMET, CONSECTETUR ADIPISCING ELIT, SED DO EIUSMOD TEMPOR."
-header_slide_1: "/img/home01.jpg"
-header_slide_2: "/img/home02.jpg"
-header_slide_3: "/img/home04.jpg"
-
-#mapbox
-mapbox-map: 'jgarrido.m42eof6c'
-mapbox-token: 'pk.eyJ1IjoiamdhcnJpZG8iLCJhIjoiOVhrQ2ZwMCJ9.eItLrt9DzG1YNCbNZ0hhDg'
+header:
+  txt: "LOREM IPSUM DOLOR SIT AMET, CONSECTETUR ADIPISCING ELIT, SED DO EIUSMOD TEMPOR."
+  slide: ["/img/home01.jpg","/img/home02.jpg","//i.imgur.com/jXh99iH.jpg"]
 
 #reports
-reports-zoom: 8
-reports-lat: '-2.234'
-reports-lng: '-77,656'
+reports:
+  zoom: 8
+  lat: '-2.234'
+  lng: '-77,656'
+
+#documents
+dokuments :
+  image : '/img/home02.jpg'
+
+#mapbox
+mapbox:
+  map: 'jgarrido.m42eof6c'
+  token: 'pk.eyJ1IjoiamdhcnJpZG8iLCJhIjoiOVhrQ2ZwMCJ9.eItLrt9DzG1YNCbNZ0hhDg'
+
 
 #collections
 collections:
