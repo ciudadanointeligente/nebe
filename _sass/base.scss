@@ -207,7 +207,18 @@ nav {
 	height: 100%;
 	content: "";
 	z-index: 40;
-  background: url(http://2015.abrelatam.org/images/bg.png) repeat;
+  background: url(../img/bg.png) repeat;
+}
+
+.reports-map:before {
+  top: 0;
+  position: absolute;
+  display: block;
+  width: 100%;
+  height: 100%;
+  content: "";
+  z-index: 40;
+  background: url(../img/bg.png) repeat;
 }
 
 #menu .box {
@@ -380,6 +391,7 @@ input.form-control {
 .reports-map {
   /*padding-top: 50px;*/
   margin-bottom: 40px;
+  position: relative
 }
 
 section#reports {
