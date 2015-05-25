@@ -361,12 +361,12 @@ input.form-control {
   margin-bottom: 10px;
 }
 
-ul.posts {
+/*ul.posts {
   list-style: none;
   -webkit-padding-start: 0px;
-}
+}*/
 
-.posts li {
+#posts li {
   border-bottom: 2px solid $primary-light;
   padding-bottom: 20px;
   margin-bottom: 30px;
@@ -378,7 +378,7 @@ ul.posts {
 }
 
 section#reports {
-  padding-top: 50px;
+  /*padding-top: 50px;*/
 }
 
 /*Documents*/

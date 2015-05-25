@@ -19,7 +19,7 @@ header:
 
 #reports
 reportes:
-  zoom: 8
+  zoom: 3
   lat: '-2.234'
   lng: '-77,656'
 
