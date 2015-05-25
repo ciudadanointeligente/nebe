@@ -18,7 +18,7 @@ header:
   slide: ["/img/home01.jpg","/img/home02.jpg","//i.imgur.com/jXh99iH.jpg"]
 
 #reports
-reports:
+reportes:
   zoom: 8
   lat: '-2.234'
   lng: '-77,656'

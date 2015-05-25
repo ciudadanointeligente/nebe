@@ -34,9 +34,9 @@ layout: page
 </section>
 
 <script>
-L.mapbox.accessToken = '{{ site.mapbox-token }}';
-var map = L.mapbox.map('map-reports', '{{ site.mapbox-map }}')
-    .setView([ {{ site.reports-lat }}, {{ site.reports-lng }} ], {{ site.reports-zoom }});
+L.mapbox.accessToken = '{{ site.mapbox.token }}';
+var map = L.mapbox.map('map-reports', '{{ site.mapbox.map }}')
+    .setView([ {{ site.reportes.lat }}, {{ site.reportes.lng }} ], {{ site.reportes.zoom }});
 
 var featureLayer = L.mapbox.featureLayer()
     .loadURL('/data/reports/reports.geojson')

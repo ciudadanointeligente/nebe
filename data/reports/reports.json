@@ -13,11 +13,13 @@ layout: null
             "country": "{{ report.country }}",
             "main_image": "{{ report.main_image }}",
             "mapbox-lat": {{ report.lat }},
-            "mapbox-long": {{ report.long }},
+            "mapbox-long": {{ report.lng }},
             "mapbox-zoom": {{ report.zoom }},
             "permalink": "{{ site.baseurl }}{{ report.url }}"
 
-        }{% if forloop.index > 1 %},{% endif%}{% endif%}
+        }
+                {% if forloop.index < forloop.length %},{% endif%}
+            {% endif%}
         {% endfor %}
     ]
 }

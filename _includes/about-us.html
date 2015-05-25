@@ -6,7 +6,7 @@
       {% if mod == 0 %}
         </div><div class="row">
       {% endif %}
-  <div class="col-md-4" style="background: url('//api.tiles.mapbox.com/v4/{{ site.mapbox-map }}/geojson(%7B%22type%22%3A%22Feature%22%2C%22properties%22%3A%7B%22stroke-width%22%3A4%2C%22stroke%22%3A%22%23ff4444%22%2C%22stroke-opacity%22%3A0.5%7D%2C%22geometry%22%3A%7B%22type%22%3A%22LineString%22%2C%22coordinates%22%3A%5B{{ comunity.polygon | cgi_escape }}%5D%7D%7D)/{{ comunity.lat-lng }},7/650x300.png?access_token={{ site.mapbox-token }}') no-repeat center center;">
+  <div class="col-md-4" style="background: url('//api.tiles.mapbox.com/v4/{{ site.mapbox.map }}/geojson(%7B%22type%22%3A%22Feature%22%2C%22properties%22%3A%7B%22stroke-width%22%3A4%2C%22stroke%22%3A%22%23ff4444%22%2C%22stroke-opacity%22%3A0.5%7D%2C%22geometry%22%3A%7B%22type%22%3A%22LineString%22%2C%22coordinates%22%3A%5B{{ comunity.polygon | cgi_escape }}%5D%7D%7D)/{{ comunity.lat-lng }},7/650x300.png?access_token={{ site.mapbox.token }}') no-repeat center center;">
     <div class="us-text">
       <h4>{{ comunity.name }}</h4>
       <p>{{ comunity.description }}</p>

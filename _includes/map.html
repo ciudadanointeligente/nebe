@@ -2,9 +2,9 @@
 <div id="map-reports" style="width:100%; height: 500px;"></div>
 
 <script>
-L.mapbox.accessToken = '{{ site.mapbox-token }}';
-var map = L.mapbox.map('map-reports', '{{ site.mapbox-map }}')
-    .setView([ {{ site.reports-lat }}, {{ site.reports-lng }} ], 4);
+L.mapbox.accessToken = '{{ site.mapbox.token }}';
+var map = L.mapbox.map('map-reports', '{{ site.mapbox.map }}')
+    .setView([ {{ site.reportes.lat }}, {{ site.reportes.lng }} ], 4);
 
 var featureLayer = L.mapbox.featureLayer()
     .loadURL('/data/reports/reports.geojson')

@@ -165,7 +165,7 @@ nav {
 .header-menu {
 	position: absolute;
     width: 100%;
-    margin-top: 50px;
+    /*margin-top: 50px;*/
     padding: 0 15px;
     z-index: 55;
 }
@@ -178,6 +178,9 @@ nav {
 	animation: bounceInDown 0.5s;
 	background: $primary-light;
   background: $secondary;
+  h3 a {
+    color: #FFF;
+  }
 }
 
 .header-menu.fixed {
