@@ -1,12 +1,15 @@
 ---
 layout: page
 ---
+{% capture words %}
+  {{ page.content | number_of_words }}
+{% endcapture %}
 
 <div class="container inside-investigation">
   <div class="post">
     <header class="post-header">
       <h3 class="post-title">{{ page.title }}</h3>
-      <p class="small">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
+      <p class="small">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %} • Tiempo de lectura : {{ words | plus: 250 | divided_by: 180 | append: " minuto(s)" }}</p>
     </header>
 
     <article class="post-content">

@@ -8,12 +8,12 @@ layout: page
       <img src="{{ site.dokuments.image }}">
   </div>
   <div class="container" ng-controller="InvestigationsCtrl">
-    <div class="text-width">
+    
       <div class="row">
-        <div class="col-md-9">
+        <div class="col-md-7">
           <h2>Documentos</h2>
         </div>
-        <div class="col-lg-3">
+        <div class="col-md-5">
           <div class="input-group">
             <input type="text" class="form-control" placeholder="Buscar reportes" ng-model="searchInvestigations">
             <span class="input-group-btn">
@@ -23,7 +23,7 @@ layout: page
         </div><!-- /.col-lg-6 -->
       </div>
 
-      <ul class="posts">
+      <ul id="posts" class="list-unstyled">
           <li ng-repeat="investigation in investigations | filter:searchInvestigations">
             <h5 class="post-title"><a href="[[ investigation.url ]]">[[ investigation.title ]]</a></h5> 
             <p class="small">[[ format_date(investigation.date) ]]</p>
@@ -31,6 +31,6 @@ layout: page
             <p class="small text-right"><a href="[[ investigation.link ]]" target="_blank"><i class="fa fa-download"></i></a> [[ investigation.author ]]</p>
           </li>
       </ul>
-    </div>
+    
   </div>
 </section>
