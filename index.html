@@ -1,39 +1,41 @@
 ---
 layout: default
 ---
-<div class="content">
-	<section id="monitor">
-		<div class="container">
-			<div class="row">
-		    {% for report in site.reports | limit:1 %}
-			    {% if report.highlighted %}
-				<div class="col-md-6">
-					<h3><i class="fa fa-quote-left"></i> {{ report.content | strip_html | truncatewords:40}} <i class="fa fa-quote-right"></i></h3>
-					<p class="small">{% if report.author %}{{ report.author }}{% endif %}, {{ report.published_at | date_to_string }}</p>
-				</div>
-				<div class="col-md-6">
-					<div class="monitor-img">
-						<img src="{{ report.main_image }}">
-					</div>
-					<div class="text-right">
-						<a href="{{ site.baseurl }}/reports.html" class="btn btn-default">Ver todos los reportes</a>
-						<a href="{{ site.baseurl }}{{ report.url }}" class="btn btn-primary">Ver reporte</a>
-					</div>
-				</div>
-		      {% endif %}
-		    {% endfor %}
+{% if site.reports.size %}
+<section id="monitor">
+	<div class="container">
+		<div class="row">
+	    {% for report in site.reports | limit:1 %}
+		    {% if report.highlighted %}
+			<div class="col-md-6">
+				<h3><i class="fa fa-quote-left"></i> {{ report.content | strip_html | truncatewords:40}} <i class="fa fa-quote-right"></i></h3>
+				<p class="small">{% if report.author %}{{ report.author }}{% endif %}, {{ report.published_at | date_to_string }}</p>
 			</div>
-		</div> 
-	</section>
-	<div class="section-arrow">
-		<a href="#report-map"><i class="fa fa-chevron-down fa-2x"></i></a> 
-	</div>
+			<div class="col-md-6">
+				<div class="monitor-img">
+					<img src="{{ report.main_image }}">
+				</div>
+				<div class="text-right">
+					<a href="/reports.html" class="btn btn-default">Ver todos los reportes</a>
+					<a href="{{ site.baseurl }}{{ report.url }}" class="btn btn-primary">Ver reporte</a>
+				</div>
+			</div>
+	      {% endif %}
+	    {% endfor %}
+		</div>
+	</div> 
+</section>
+
+<div class="section-arrow">
+	<a href="#report-map"><i class="fa fa-chevron-down fa-2x"></i></a> 
 </div>
 
 <section id="report-map">
 	{% include map.html %}
 </section>
+{% endif %}
 
+{% if site.investigations.size %}
 <div class="section-arrow">
 	<a href="#doc-preview"><i class="fa fa-chevron-down fa-2x"></i></a> 
 </div>
@@ -41,7 +43,7 @@ layout: default
 <section id="doc-preview">
 	<div class="container">
 		<div class="text-width text-center">
-		    {% for post in site.investigations %}
+		    {% for post in site.investigations | limit: 1 %}
 			    {% if post.highlighted and post.published %}
 	          		<h3>
 	          			<i class="fa fa-quote-left"></i> {{ post.content | strip_html | truncatewords:40}} <i class="fa fa-quote-right"></i>
@@ -60,7 +62,9 @@ layout: default
 		</div>
 	</div>
 </section>
+{% endif %}
 
+{% if site.comunities.size %}
 <div class="section-arrow">
 	<a href="#about-us"><i class="fa fa-chevron-down fa-2x"></i></a> 
 </div>
@@ -73,6 +77,7 @@ layout: default
 		{% include about-us.html %}
 	</div>
 </section>
+{% endif %}
 
 <div class="section-arrow">
 	<a href="#stats"><i class="fa fa-chevron-down fa-2x"></i></a> 

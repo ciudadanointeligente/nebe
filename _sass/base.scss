@@ -149,7 +149,7 @@ nav {
 
 #header {
 	position: relative;
-	margin-bottom: -100px;
+	/*margin-bottom: 25px;*/
 	overflow: hidden;
 	color: $primary-lighter;
 }
@@ -209,6 +209,10 @@ nav {
 	content: "";
 	z-index: 40;
   background: url(../img/bg.png) repeat;
+}
+
+#monitor {
+  padding: 25px 0px;
 }
 
 .reports-map:before {
