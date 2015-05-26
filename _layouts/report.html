@@ -10,6 +10,12 @@ layout: page
 </div>
 
 <div class="container">
+  <ul class="breadcrumb">
+    <li><a href="/">Inicio</a></li>
+    <li><a href="/reports.html">Reportes</a></li>
+    <li class="current">{{ page.title | truncatewords: 8 | downcase | capitalize }}</li>
+  </ul>
+
   <div class="post">
     <header class="post-header">
       <h3 class="post-title">{{ page.title }}</h3>

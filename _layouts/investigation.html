@@ -10,6 +10,12 @@ layout: page
       <img src="{{ site.dokuments.image }}">
   </div>
   <div class="container inside-investigation">
+    <ul class="breadcrumb">
+      <li><a href="/">Inicio</a></li>
+      <li><a href="/documents.html">Investigaciones</a></li>
+      <li class="current">{{ page.title | truncatewords: 8 | downcase | capitalize }}</li>
+    </ul>
+
     <div class="post">
       <header class="post-header">
         <h3 class="post-title">{{ page.title }}</h3>
