@@ -302,6 +302,10 @@ nav {
 	}
 }
 
+.img-content {
+  padding: 10px;
+}
+
 /*Monitor*/
 
 .monitor-img {
@@ -412,6 +416,10 @@ section#reports {
 
 .inside-investigation {
   padding-top: 50px;
+}
+
+.investigation-content-menu a:hover {
+  color: #FFF;
 }
 
 /*Graphs*/
