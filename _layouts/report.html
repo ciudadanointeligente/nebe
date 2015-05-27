@@ -5,34 +5,36 @@ layout: page
   {{ page.content | number_of_words }}
 {% endcapture %}
 
-<div class="reports-map">
-  <img src="//api.tiles.mapbox.com/v4/{{ site.mapbox.map }}/pin-m+DA7B25({{ page.lng }},{{ page.lat }})/{{ page.lng }},{{ page.lat }},{{ page.zoom }}/1280x300.png?access_token={{ site.mapbox.token }}" class="img-responsive" style="width: 100%">
-</div>
-
-<div class="container">
-  <ul class="breadcrumb">
-    <li><a href="/">Inicio</a></li>
-    <li><a href="/reports.html">Reportes</a></li>
-    <li class="current">{{ page.title | truncatewords: 8 | downcase | capitalize }}</li>
-  </ul>
-
-  <div class="post">
-    <header class="post-header">
-      <h3 class="post-title">{{ page.title }}</h3>
-      <p class="small">
-        {{ page.published_at | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}
-        • Tiempo de lectura : {{ words | plus: 250 | divided_by: 180 | append: " minuto(s)" }}
-      </p>
-    </header>
-
-    <article class="post-content">
-      {{ content }}
-    </article>
-
-    <div id="footer">
-      <!-- Go to www.addthis.com/dashboard to customize your tools -->
-      <div class="addthis_sharing_toolbox"></div>
-    </div>
-
+<section>
+  <div class="reports-map">
+    <img src="//api.tiles.mapbox.com/v4/{{ site.mapbox.map }}/pin-m+DA7B25({{ page.lng }},{{ page.lat }})/{{ page.lng }},{{ page.lat }},{{ page.zoom }}/1280x300.png?access_token={{ site.mapbox.token }}" class="img-responsive" style="width: 100%">
   </div>
-</div>
+
+  <div class="container">
+    <ul class="breadcrumb">
+      <li><a href="/">Inicio</a></li>
+      <li><a href="/reports.html">Reportes</a></li>
+      <li class="current">{{ page.title | truncatewords: 8 | downcase | capitalize }}</li>
+    </ul>
+
+    <div class="post">
+      <header class="post-header">
+        <h3 class="post-title">{{ page.title }}</h3>
+        <p class="small">
+          {{ page.published_at | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}
+          • Tiempo de lectura : {{ words | plus: 250 | divided_by: 180 | append: " minuto(s)" }}
+        </p>
+      </header>
+
+      <article class="post-content">
+        {{ content }}
+      </article>
+
+      <div id="footer">
+        <!-- Go to www.addthis.com/dashboard to customize your tools -->
+        <div class="addthis_sharing_toolbox"></div>
+      </div>
+
+    </div>
+  </div>
+</section>
