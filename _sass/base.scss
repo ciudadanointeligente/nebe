@@ -437,6 +437,10 @@ section#reports {
   margin: 70px 0;
 }
 
+.sticky-footer {
+  width: auto;
+}
+
 /*Footer*/
 
 .site-footer {
@@ -444,7 +448,7 @@ section#reports {
   color: $primary-light;
   padding: 15px 0;
   margin-top: 40px;
-  position: relative;
+  position: absolute;
   width: 100%;
   bottom: 0;
 }
