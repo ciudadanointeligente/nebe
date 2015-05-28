@@ -26,6 +26,10 @@ reportes:
 #documents
 dokuments :
   image : '/img/home02.jpg'
+press :
+  image : '//farm8.staticflickr.com/7441/12142574495_2741fd4e92_o.jpg'
+news :
+  image : '//farm4.staticflickr.com/3831/12127101124_f361434c19_o.jpg'
 
 #mapbox
 mapbox:

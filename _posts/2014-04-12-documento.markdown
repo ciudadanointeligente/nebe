@@ -1,8 +1,12 @@
 ---
 layout: post
 title: "SITUACION DEL CONFLICTO PETROLERO EN EL NORTE DE LA PAZ - BLOQUE LIQUIMUNI"
+description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat"
+image: //placehold.it/360x255
 date: 2011-08-01
-categories: documento
+categories: 
+  - blog
+  - reportajes
 tags: destacado
 author: Marco Octavio Ribera Arismendi, LIDEMA
 link: https://drive.google.com/open?id=0Bx_nCBHnu6IHTEFYemYyaWc1QU0&authuser=1

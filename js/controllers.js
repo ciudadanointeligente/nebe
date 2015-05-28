@@ -26,3 +26,31 @@ arkakApp.controller("InvestigationsCtrl", function($scope, $http){
 		})
 
 });
+
+arkakApp.controller("NewsCtrl", function($scope, $http){
+	$scope.news = [];
+
+	$http.get('/data/news/news.json')
+		.success(function(data){
+			$scope.news = data.news;
+		})
+
+	$scope.format_date = function(the_date){
+	 	return new Date(the_date).getTime();
+	 }
+
+});
+
+arkakApp.controller("CoveragesCtrl", function($scope, $http){
+	$scope.coverages = [];
+
+	$http.get('/data/coverages/coverages.json')
+		.success(function(data){
+			$scope.coverages = data.coverages;
+		})
+
+	$scope.format_date = function(the_date){
+	 	return new Date(the_date).getTime();
+	 }
+
+});
