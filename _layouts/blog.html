@@ -1,0 +1,59 @@
+---
+layout: page
+---
+{% capture words %}
+  {{ page.content | number_of_words }}
+{% endcapture %}
+
+<section>
+  <div class="docs-img">
+      <img src="{{ site.blog.image }}">
+  </div>
+  <div class="container inside-investigation">
+    <ul class="breadcrumb">
+      <li><a href="/">Inicio</a></li>
+      <li><a href="/press.html">Prensa</a></li>
+      <li class="current">{{ page.title | truncatewords: 8 | downcase | capitalize }}</li>
+    </ul>
+
+    <div class="post">
+      <header class="post-header">
+        <h3 class="post-title">{{ page.title }}</h3>
+        <p class="small">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %} • Tiempo de lectura : {{ words | plus: 250 | divided_by: 180 | append: " minuto(s)" }}</p>
+      </header>
+
+      <div class="row">
+        {% assign col = 12 %}
+        {% if page.chapters.size %}
+          {% assign col = 9 %}
+        {% endif %}
+
+        <div class="col-md-{{col}}">
+          <article class="post-content">
+            {{ content }}
+          </article>
+        </div>
+
+        {% if page.chapters.size %}
+        <div class="col-md-3">
+          <h5>Contenido</h5>
+          <ul class="nav nav-pills nav-stacked investigation-content-menu">
+            {% for chapter in page.chapters %}
+              <li>
+                <a href="#{{chapter.permalink}}">{{chapter.title}}</a>
+              </li>
+            {% endfor %}
+          </ul>
+        </div>
+        {% endif %}
+
+      </div>
+
+      <div id="footer">
+        <!-- Go to www.addthis.com/dashboard to customize your tools -->
+        <div class="addthis_sharing_toolbox"></div>
+      </div>
+
+    </div>
+  </div>
+</section>
