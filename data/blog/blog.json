@@ -1,0 +1,21 @@
+---
+layout: null
+---
+{
+    "posts": [
+    	{% for new in site.categories.blog %}
+    		{% if new.title %}
+        {
+            "title": "{{ new.title }}",
+            "description": "{{ new.description }}",
+            "author": "{{ new.author }}",
+            "date": "{{ new.date | date_to_xmlschema }}",
+            "country": "{{ new.country }}",
+            "permalink": "{{ site.baseurl }}{{ new.url }}"
+
+        }
+                {% if forloop.index < forloop.length %},{% endif%}
+            {% endif%}
+        {% endfor %}
+    ]
+}

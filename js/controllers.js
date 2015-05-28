@@ -54,3 +54,17 @@ arkakApp.controller("CoveragesCtrl", function($scope, $http){
 	 }
 
 });
+
+arkakApp.controller("PostsCtrl", function($scope, $http){
+	$scope.posts = [];
+
+	$http.get('/data/blog/blog.json')
+		.success(function(data){
+			$scope.posts = data.posts;
+		})
+
+	$scope.format_date = function(the_date){
+	 	return new Date(the_date).getTime();
+	 }
+
+});
