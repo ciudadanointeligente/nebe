@@ -1,0 +1,16 @@
+---
+---
+{
+	"chronologies": [
+		{% for chronology in site.chronologies %}
+    		{% if chronology.published %}
+    	{
+    		"title" : "{{ chronology.title }}",
+    		"description" : "{{ chronology.description }}",
+    		"author" : "{{ chronology.author }}",
+    		"permalink" : "{{ site.baseurl }}{{ chronology.url }}"
+    	}{% if forloop.index < forloop.length %},{% endif%}
+    		{% endif %}
+    	{% endfor %}
+	]
+}
