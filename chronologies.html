@@ -1,0 +1,39 @@
+---
+layout: page
+---
+<script src="/js/controllers.js"></script>
+
+<section id="news" ng-app="arkakApp">
+  <div class="docs-img">
+      <img src="{{ site.news.image }}">
+  </div>
+  <div class="container" ng-controller="NewsCtrl">
+    
+      <div class="row">
+        <div class="col-md-7">
+          <h2>Cronologías de conflictos</h2>
+        </div>
+        <div class="col-md-5">
+          <div class="input-group">
+            <input type="text" class="form-control" placeholder="Buscar cronología" ng-model="searchChronologies">
+            <span class="input-group-btn">
+              <button class="btn btn-primary" type="button"><i class="fa fa-search"></i></button>
+            </span>
+          </div><!-- /input-group -->
+        </div><!-- /.col-lg-6 -->
+      </div>
+
+      <div class="row">
+        <div class="col-md-12">
+          <ul id="news" class="list-unstyled">
+              <li ng-repeat="new in news | filter:searchChronologies">
+                <h5 class="report-title"><a href="[[ new.permalink ]]">[[ new.title ]]</a></h5> 
+                <p class="small">[[ format_date(new.date) | date:"dd 'de' MMMM, yyyy" ]]</p>
+                <p>[[ new.description ]]</p>
+                <p class="small text-right">&nbsp;</p>
+              </li>
+          </ul>
+        </div>
+      </div>
+  </div>
+</section>
