@@ -3,11 +3,11 @@ layout: page
 ---
 <script src="/js/controllers.js"></script>
 
-<section id="news" ng-app="arkakApp">
+<section id="chronologies" ng-app="arkakApp">
   <div class="docs-img">
-      <img src="{{ site.news.image }}">
+      <img src="{{ site.chronology.image }}">
   </div>
-  <div class="container" ng-controller="NewsCtrl">
+  <div class="container" ng-controller="ChronologiesCtrl">
     
       <div class="row">
         <div class="col-md-7">
@@ -26,10 +26,10 @@ layout: page
       <div class="row">
         <div class="col-md-12">
           <ul id="news" class="list-unstyled">
-              <li ng-repeat="new in news | filter:searchChronologies">
-                <h5 class="report-title"><a href="[[ new.permalink ]]">[[ new.title ]]</a></h5> 
-                <p class="small">[[ format_date(new.date) | date:"dd 'de' MMMM, yyyy" ]]</p>
-                <p>[[ new.description ]]</p>
+              <li ng-repeat="chronology in chronologies | filter:searchChronologies">
+                <h5 class="report-title"><a href="[[ chronology.permalink ]]">[[ chronology.title ]]</a></h5> 
+                <p class="small">[[ format_date(chronology.date) | date:"dd 'de' MMMM, yyyy" ]]</p>
+                <p>[[ chronology.description ]]</p>
                 <p class="small text-right">&nbsp;</p>
               </li>
           </ul>

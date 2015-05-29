@@ -68,3 +68,12 @@ arkakApp.controller("PostsCtrl", function($scope, $http){
 	 }
 
 });
+
+arkakApp.controller("ChronologiesCtrl", function($scope, $http){
+	$scope.chronologies = [];
+
+	$http.get('/data/chronologies/chronologies.json')
+		.success(function(data){
+			$scope.chronologies = data.chronologies;
+		})
+});

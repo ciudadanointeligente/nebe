@@ -32,6 +32,8 @@ news :
   image : '//farm4.staticflickr.com/3831/12127101124_f361434c19_o.jpg'
 blog :
   image : '//farm3.staticflickr.com/2894/12142944844_2a13eb2bbc_o.jpg'
+chronology :
+  image : '//farm4.staticflickr.com/3804/12142826193_328a7520ce_o.jpg'
 
 #mapbox
 mapbox:
@@ -46,4 +48,6 @@ collections:
   investigations:
     output: true
   comunities:
+    output: true
+  chronologies:
     output: true
