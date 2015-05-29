@@ -11,20 +11,55 @@ layout: null
     <pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
     <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
     <generator>Jekyll v{{ jekyll.version }}</generator>
+    {% for report in site.reports limit:10 %}
+        {% if report.published %}
+        <item>
+            <title>{{ report.title | xml_escape }}</title>
+            <description>{{ report.description | xml_escape }}</description>
+            <pubDate>{{ report.published_at | date_to_rfc822 }}</pubDate>
+            <link>{{ report.url | prepend: site.url }}</link>
+        </item>
+        {% endif %}
+    {% endfor %}
+
+    {% for investigation in site.investigations limit:10 %}
+        {% if investigation.published %}
+        <item>
+            <title>{{ investigation.title | xml_escape }}</title>
+            <description>{{ investigation.description | xml_escape }}</description>
+            <pubDate>{{ investigation.date | date_to_rfc822 }}</pubDate>
+            <link>{{ investigation.url | prepend: site.url }}</link>
+        </item>
+        {% endif %}
+    {% endfor %}
+
+    {% for chronology in site.chronologies limit:10 %}
+        {% if chronology.published %}
+        <item>
+            <title>{{ chronology.title | xml_escape }}</title>
+            <description>{{ chronology.description | xml_escape }}</description>
+            <pubDate>{{ chronology.date | date_to_rfc822 }}</pubDate>
+            <link>{{ chronology.url | prepend: site.url }}</link>
+        </item>
+        {% endif %}
+    {% endfor %}
+
     {% for post in site.posts limit:10 %}
-      <item>
-        <title>{{ post.title | xml_escape }}</title>
-        <description>{{ post.content | xml_escape }}</description>
-        <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
-        <link>{{ post.url | prepend: site.baseurl | prepend: site.url }}</link>
-        <guid isPermaLink="true">{{ post.url | prepend: site.baseurl | prepend: site.url }}</guid>
-        {% for tag in post.tags %}
-        <category>{{ tag | xml_escape }}</category>
-        {% endfor %}
-        {% for cat in post.categories %}
-        <category>{{ cat | xml_escape }}</category>
-        {% endfor %}
-      </item>
+        {% if post.published %}
+        <item>
+            <title>{{ post.title | xml_escape }}</title>
+            <description>{{ post.content | xml_escape }}</description>
+            <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
+            <link>{{ post.url | prepend: site.url }}</link>
+            <guid isPermaLink="true">{{ post.url | prepend: site.baseurl | prepend: site.url }}</guid>
+            {% for tag in post.tags %}
+            <category>{{ tag | xml_escape }}</category>
+            {% endfor %}
+            {% for cat in post.categories %}
+            <category>{{ cat | xml_escape }}</category>
+            {% endfor %}
+        </item>
+        {% endif %}
     {% endfor %}
   </channel>
 </rss>
