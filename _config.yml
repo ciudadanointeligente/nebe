@@ -14,7 +14,7 @@ markdown: kramdown
 
 # main page
 header:
-  txt: "LOREM IPSUM DOLOR SIT AMET, CONSECTETUR ADIPISCING ELIT, SED DO EIUSMOD TEMPOR."
+  txt: "Proyecto NEBE"
   slide: ["/img/home01.jpg","/img/home02.jpg","//i.imgur.com/jXh99iH.jpg"]
 
 #reports
