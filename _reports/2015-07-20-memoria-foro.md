@@ -76,3 +76,5 @@ los pueblos indígenas  de Bolivia y Ecuador en la construcción de los
 Estados Plurinacionales, lo que  será de interés tanto para los
 propios líderes indígenas, como para los actores  estatales,
 gubernamentales y no gubernamentales interesados en esta situación.
+
+[Descargar el documento completo en pdf](http://proyecto-nebe.org/upload/books/116/Foro_Derechos_Indigenas_y_Recursos_Naturales_Memoria_original.pdf)
