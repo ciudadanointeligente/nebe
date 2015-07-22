@@ -13,8 +13,8 @@ lng: -77.344
 zoom: 8
 ---
 
-El Foro *_“Recursos naturales y derechos indígenas: viejos y nuevos
-conflictos eco-territoriales”_* muestra los avatares del proceso de
+El Foro *“Recursos naturales y derechos indígenas: viejos y nuevos
+conflictos eco-territoriales”* muestra los avatares del proceso de
 construcción de un Estado Plurinacional, que involucra una
 transformación sustancial en la estructura estatal tradicional, y la
 dinámica que se configura en las relaciones Estado-sociedad civil
