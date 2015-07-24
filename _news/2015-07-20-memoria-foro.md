@@ -1,9 +1,9 @@
 ---
-layout: report
+layout: page
 published: true
 highlighted: true
 title: 'MEMORIA DEL FORO “RECURSOS NATURALES Y DERECHOS INDÍGENAS: VIEJOS Y NUEVOS CONFLICTOS ECO-TERRITORIALES” (RESUMEN)'
-description: 'Taller de carácter público organizado en el marco del proyecto Nacionalización de la Extracción en Bolivia y Ecuador (NEBE), el 3 y 4 de octubre de 2012.'
+description: 'Taller organizado en el marco del proyecto Nacionalización de la Extracción en Bolivia y Ecuador (NEBE), el 3 y 4 de octubre de 2012.'
 author: Proyecto NEBE
 published_at: 2015-07-20T02:43:00
 country: Bolivia y Ecuador

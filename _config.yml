@@ -51,3 +51,5 @@ collections:
     output: true
   chronologies:
     output: true
+  news:
+    output: true
