@@ -2,7 +2,7 @@
 layout: investigation
 highlighted: true
 published: true
-title: 'El Estado ha muerto, Viva el Estado: Reinsertando al Estado en la industria extractiva de oro en Zamora-Chinchipe, Ecuador (en inglés)' 
+title: 'El Estado ha muerto, Viva el Estado: Reinsertando al Estado en la industria extractiva de oro en Zamora-Chinchipe, Ecuador' 
 description: En este artículo, analizamos cómo la historia influye en el intento del régimen neo desarrollista de Ecuador en la regulación de la minería. Analizamos críticamente los marcos regulatorios neoliberales en comparación con el post-neoliberal.Además, se argumenta que las políticas post-neoliberales erróneamente aumentan la presencia del Estado en la economía como un sustituto a una regulación efectiva.
 date: 2015-07-21T00:00:00
 author: Cristian Melo, Carlos F. Mena, Colegio de Ciencias Biologicas y Ambientales, Universidad San Francisco de Quito; Murat Arsel, Lorenzo Pellegrini,  International Institute of Social Studies, Erasmus University Rotterdam
@@ -127,3 +127,5 @@ Las industrias generalmente crecen en un marco institucional de facto que reflej
 La gobernanza minera neoliberal privatizó los beneficios de la actividad, mientras que el país debió  hacer frente a sus consecuencias. La LM 405 representa un cambio radical de este estado de cosas. Creó un marco regulador que permite que los diferentes organismos del Estado - con diferentes áreas de especialización - influyan en cómo se debe hacer la actividad minera. 
 
 Sin embargo, la LM 045 apenas ofrece un guiño a la minería de subsistencia; como esta escala de la actividad no se ajusta al programa neo desarrollista que privilegia proyectos a gran escala intensivos en capital, que reportan grandes ingresos fiscales para el Estado. Esta falta de comprensión de la minería de subsistencia - y de la fuerza y la capacidad de recuperación de la gestión basada en la comunidad que la soporta - apunta a una cuestión más amplia con respecto al proyecto post-neoliberal que toma raíz en el Ecuador.
+
+[Descargar el documento completo en pdf, en inglés](http://www.iss.nl/fileadmin/ASSETS/iss/Documents/Research_and_projects/PER/NEBE/The_State_is_dead__Long_Live_the_State_full_WP.pdf)
