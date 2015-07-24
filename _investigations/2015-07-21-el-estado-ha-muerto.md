@@ -30,7 +30,7 @@ chapters:
 	</h4>
 </div>
 <div class="pull-right img-content">
-	<iframe src="https://a.tiles.mapbox.com/v4/lavivi.mpbgi07b/page.html?access_token=pk.eyJ1IjoibGF2aXZpIiwiYSI6IjA2Yjc4MzQ4Yzk4MzllN2UzMTIwMzFhMDI5ZWY5YTQzIn0.9R_ZmNfcLaYH0xmme91-1g#8/-4.524/-79.041"></iframe>
+	<img src="http://i.imgur.com/iVhnhxB.png" title="source: Zamora, Ecuador" />
 </div>
 Un apetito aparentemente insaciable por el oro se ha traducido en que el precio de este metal se haya elevado a alturas sin precedentes. La búsqueda de nuevas riquezas atrae a actores mineros de todas las escalas, desde los operadores artesanales locales hasta grandes corporaciones multinacionales que intensifican la extracción y amplían la frontera de oro (por ejemplo Muradian et al., en prensa). 
 
