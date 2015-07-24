@@ -2,30 +2,31 @@
 layout: investigation
 highlighted: true
 published: true
-title: 'El Estado ha muerto, Viva el Estado: Reinsertando al Estado en la industria extractiva de oro en Zamora-Chinchipe, Ecuador' (en inglés)
+title: 'El Estado ha muerto, Viva el Estado: Reinsertando al Estado en la industria extractiva de oro en Zamora-Chinchipe, Ecuador (en inglés)' 
 description: En este artículo, analizamos cómo la historia influye en el intento del régimen neo desarrollista de Ecuador en la regulación de la minería. Analizamos críticamente los marcos regulatorios neoliberales en comparación con el post-neoliberal.Además, se argumenta que las políticas post-neoliberales erróneamente aumentan la presencia del Estado en la economía como un sustituto a una regulación efectiva.
 date: 2015-07-21T00:00:00
 author: Cristian Melo, Carlos F. Mena, Colegio de Ciencias Biologicas y Ambientales, Universidad San Francisco de Quito; Murat Arsel, Lorenzo Pellegrini,  International Institute of Social Studies, Erasmus University Rotterdam
 link: http://www.iss.nl/fileadmin/ASSETS/iss/Documents/Research_and_projects/PER/NEBE/The_State_is_dead__Long_Live_the_State_full_WP.pdf
 chapters:
   - title: 'Introducción'
-    permalink: 'Sección I'
+    permalink: 'seccion-i'
   - title: 'La minería y sus escollos'
-    permalink: 'Sección II'
+    permalink: 'seccion-ii'
   - title: 'Zamora: la capital minera (oro) del Ecuador, 1980-2006'
-    permalink: 'Sección III'
+    permalink: 'seccion-iii'
   - title: 'Controlando la minería salvaje: El giro post-neoliberal y la Ley de Minería 045 del Ecuador, 2008-2012'
-    permalink: 'Sección IV'
+    permalink: 'seccion-iv'
   - title: 'Un nuevo concepto de minería, pero ¿Quién se queda atrás?'
-    permalink: 'Sección V'
-    - title: 'Conclusión'
+    permalink: 'seccion-v'
+  - title: 'Conclusión'
+    permalink: 'conclusion'
 --- 
 
-<a name="Introducción"></a>
+<a name="seccion-i"></a>
 
 <div class="page-header">
 	<h4>
-		Introducción <span><a href="#Introducción"><i class="fa fa-link"></i></a></span>
+		Introducción <span><a href="#seccion-i"><i class="fa fa-link"></i></a></span>
 	</h4>
 </div>
 <div class="pull-right img-content">
@@ -42,11 +43,11 @@ Luego, revisamos el marco regulatorio de la minería ecuatoriana, de la década 
 Por último, presentamos nuestras conclusiones, en las que podemos destacar cómo la evolución histórica genera puntos ciegos que presentan desafíos sin respuesta para el proyecto post-neoliberal del Estado ecuatoriano. La experiencia de Ecuador en la regulación de su industria minera ofrece un cristal a través del cual se pueden evaluar los retos y oportunidades de un intento de transición hacia un mundo post-neoliberal.
 
 
-<a name="Sección I"></a>
+<a name="seccion-ii"></a>
 
 <div class="page-header">
 	<h4>
-		La Minería y sus Escollos <span><a href="#Sección I"><i class="fa fa-link"></i></a></span>
+		La Minería y sus Escollos <span><a href="#seccion-ii"><i class="fa fa-link"></i></a></span>
 	</h4>
 </div>
 Las preocupaciones acerca de la minería han llevado a una comprensión general de los impactos de la actividad; en los países desarrollados han llevado a políticas y regulaciones destinadas a minimizar sus impactos, aunque éstas no necesariamente han sido eficaces.
@@ -59,11 +60,11 @@ La minería artesanal y de pequeña escala presenta un conjunto diferente de los
 
 Los recursos mineros a menudo causan conflictos internos, y éstos podrían superar a un país menos desarrollado con instituciones débiles. La abundancia de recursos naturales, como el petróleo o los metales, está vinculado a mayores riesgos de conflicto civil prolongado - lo que se conoce como la ‘maldición de los recursos’.
 
-<a name="Sección II"></a>
+<a name="seccion-iii"></a>
 
 <div class="page-header">
 	<h4>
-		Zamora: la capital minera (oro) del Ecuador, 1980-2006 <span><a href="#Sección II"><i class="fa fa-link"></i></a></span>
+		Zamora: la capital minera (oro) del Ecuador, 1980-2006 <span><a href="#seccion-iii"><i class="fa fa-link"></i></a></span>
 	</h4>
 </div>
 Zamora-Chinchipe (ZCH), con una superficie de 10.456 km² y una población de 91.376 habitantes, es étnicamente heterogénea, con una presencia de mestizos, Saraguros y Shuar. Debido a su paisaje, el clima templado, y la ubicación geográfica, esta región es un "hot-spot de biodiversidad por excelencia”. 
@@ -74,11 +75,11 @@ Este estudio recopiló datos de tres fuentes: literatura y documentos recogidos 
 
 Esta sección presenta ejemplos de las localidades mineras de San Luis y Nambija que destacan los efectos del debilitamiento del marco normativo en el marco de la minería de oro. 
 
-<a name="Sección III"></a>
+<a name="seccion-iv"></a>
 
 <div class="page-header">
 	<h4>
-		Controlando la minería salvaje: El giro post-neoliberal y la Ley de Minería 045 del Ecuador, 2008-2012 <span><a href="#Sección III"><i class="fa fa-link"></i></a></span>
+		Controlando la minería salvaje: El giro post-neoliberal y la Ley de Minería 045 del Ecuador, 2008-2012 <span><a href="#seccion-iv"><i class="fa fa-link"></i></a></span>
 	</h4>
 </div>
 Dado el legado de degradación social y ambiental de la minería – como lo ejemplifica Nambija - una de las prioridades declaradas del gobierno de Rafael Correa (elegido en 2006) era liberar al país de su legado neoliberal en lo que respecta a esta industria. 
@@ -97,11 +98,11 @@ Bajo el nuevo marco legal, la minería está sujeta a la Ley de Minería 045 (LM
 
 En esta sección, se analiza cómo la LM 045 y los Estatutos de la Minería establecieron un nuevo marco normativo - y contrastamos esto con las anteriores. En segundo lugar, se presenta el caso de la ciudad minera aluvial de oro de Yacuambi, mostrando cómo los mineros artesanales se esfuerzan por cumplir con los requisitos establecidos por la LM 045 - diseñados para regular la fiebre del oro, medianas o grandes empresas mineras; y cómo esta carga regulatoria amenaza los medios de subsistencia del pueblo.
 
-<a name="Sección IV"></a>
+<a name="seccion-v"></a>
 
 <div class="page-header">
 	<h4>
-		Un nuevo concepto de minería, pero ¿Quién se queda atrás? <span><a href="#Sección IV"><i class="fa fa-link"></i></a></span>
+		Un nuevo concepto de minería, pero ¿Quién se queda atrás? <span><a href="#seccion-v"><i class="fa fa-link"></i></a></span>
 	</h4>
 </div>
 <div class="pull-left img-content">
@@ -113,11 +114,11 @@ El segundo problema con la LM 045 es que establece una barra alta para todas las
 
 Nuestro trabajo de campo sugiere que el impacto de la LM 045 y los estatutos sobre la minería de subsistencia ha sido pasado por alto. La LM 045 y los estatutos de minería no abordan las necesidades o los impactos de la minería de subsistencia, sólo la regulan. Así, desde la perspectiva de la minería de subsistencia, el proyecto neo-desarrollista es tan insuficiente como el neoliberal al que reemplazó.
 
-<a name="Sección V"></a>
+<a name="conclusion"></a>
 
 <div class="page-header">
 	<h4>
-		Conclusiones <span><a href="#Sección V"><i class="fa fa-link"></i></a></span>
+		Conclusiones <span><a href="#conclusion"><i class="fa fa-link"></i></a></span>
 	</h4>
 </div>
 
