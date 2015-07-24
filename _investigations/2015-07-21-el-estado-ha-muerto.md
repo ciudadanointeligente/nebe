@@ -30,7 +30,7 @@ chapters:
 	</h4>
 </div>
 <div class="pull-right img-content">
-	<img src="http://i.imgur.com/oztaTC8.png" title="source: Zamora, Ecuador" />
+	<img src="http://i.imgur.com/oztaTC8.png" title="source: Zamora, Ecuador"/>
 </div>
 Un apetito aparentemente insaciable por el oro se ha traducido en que el precio de este metal se haya elevado a alturas sin precedentes. La búsqueda de nuevas riquezas atrae a actores mineros de todas las escalas, desde los operadores artesanales locales hasta grandes corporaciones multinacionales que intensifican la extracción y amplían la frontera de oro (por ejemplo Muradian et al., en prensa). 
 
@@ -106,7 +106,7 @@ En esta sección, se analiza cómo la LM 045 y los Estatutos de la Minería esta
 	</h4>
 </div>
 <div class="pull-left img-content">
-	<img alt="Area de estudio" class="img-responsive" src="https://a.tiles.mapbox.com/v4/lavivi.mpbgi07b/page.html?access_token=pk.eyJ1IjoibGF2aXZpIiwiYSI6IjA2Yjc4MzQ4Yzk4MzllN2UzMTIwMzFhMDI5ZWY5YTQzIn0.9R_ZmNfcLaYH0xmme91-1g#8/-4.524/-79.041">
+	<img src="http://i.imgur.com/oztaTC8.png" title="source: Zamora, Ecuador"/>
 </div>
 La ley minera ecuatoriana constituye un intento de hacer frente a la falta gobernanza de la minería en los últimos treinta años. Sin embargo, hay ciertas cuestiones que siguen sin resolverse. Tal como está escrita, la ley establece un marco regulatorio para una minería "responsable" - aunque es demasiado pronto para saber si las instituciones ecuatorianas podrán hacer cumplir sus propias leyes. 
 
