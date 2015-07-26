@@ -59,8 +59,7 @@ pública que anunció el gobierno.
 		El caso del Madidi, Pilón Lajas y el TIPNIS - Antecedentes
 	</h4>
 </div>
-<div class="pull-right img-content">
-<img src="http://i.imgur.com/rV17V4F.png" title="source: Madidi, Pilón Lajas y el TIPNIS"/>
+
 De acuerdo a reportes locales, la exploración sísmica 2D, indujo impactos ambientales 
 en los ecosistemas de las frágiles zonas de serranías subandinas, pero paralelamente 
 ocasionó un profundo debilitamiento de la organización indígena regional OPIM 
