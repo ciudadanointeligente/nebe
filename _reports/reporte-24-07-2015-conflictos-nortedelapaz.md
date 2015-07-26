@@ -54,7 +54,7 @@ al sitio de perforación, estos carecían de información sobre los planes de la
 petrolera y no fueron consultados, es decir no participaron en la supuesta consulta 
 pública que anunció el gobierno. 
 
-<div class="page-header">
+<div>
 	<h4>
 		El caso del Madidi, Pilón Lajas y el TIPNIS - Antecedentes
 	</h4>
@@ -69,8 +69,7 @@ favor y otras en contra del ingreso de la empresa, especialmente a partir de fig
 cooptativas prebendales, mediante la realización de obras menores (construcción de 
 sedes sociales, mejora de caminos, arreglo de plazas), aspecto que medió en la 
 deficiente consulta realizada. La multiplicidad de ofrecimientos “de desarrollo” por parte del gobierno, siguiendo la 
-línea que estuvo detrás de la sísmica 2D, y ahora con la perforación prevista, ha generado una profunda división de opiniones y posiciones entre las organizaciones y 
-liderazgos indígenas. 
+línea que estuvo detrás de la sísmica 2D, y ahora con la perforación prevista, ha generado una profunda división de opiniones y posiciones entre las organizaciones y liderazgos indígenas. 
 
 Un elemento concluyente es que al momento, la organización OPIM y las comunidades 
 Mosetenes que la conforman, todavía se encuentran profundamente divididas, con una 
