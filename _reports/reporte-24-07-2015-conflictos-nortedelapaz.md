@@ -54,7 +54,7 @@ al sitio de perforación, estos carecían de información sobre los planes de la
 petrolera y no fueron consultados, es decir no participaron en la supuesta consulta 
 pública que anunció el gobierno. 
 
-<div class="page-header">"
+<div class="page-header">
 	<h4>
 		El caso del Madidi, Pilón Lajas y el TIPNIS - Antecedentes
 	</h4>
