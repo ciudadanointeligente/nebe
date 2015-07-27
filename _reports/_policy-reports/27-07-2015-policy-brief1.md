@@ -1,0 +1,21 @@
+---
+layout: report
+published: true
+highlighted: true
+title: 'Informe de Politica: El Estado Plurinacional en Bolivia'
+description: 'El presente documento analiza las principales causas de los desafíos encontrados en la consolidación del Estado Plurinacional.'
+author: Maria Eugenia Bedoya Arias
+published_at: 2015-07-27T00:00:00
+country: Bolivia
+main_image: "/img/monitor-1.png"
+lat: -2.569
+lng: -77.344
+zoom: 8
+---
+
+En Bolivia intensas movilizaciones sociales llevaron desde el 2000 al inicio de profundas transformaciones en la participación política, social y económica del país. Sin embargo recientes nuevas protestas demuestran aún profundos problemas estructurales que persisten en sus leyes y economía.
+Este documento analiza las principales causas de las nuevas manifestaciones, especialmente a raíz de las luchas generadas por el control del gas natural. Este documento analiza brevemente las movilizaciones sociales; la importancia del sector de gas natural como base para la economía boliviana; los derechos indígenas y regímenes de propiedad, y el control sobre los ingresos y centralización en la distribución de los recursos. 
+
+El análisis realizado muestra que las competencias fiscales de los grupos indígenas continúan siendo limitadas, persistiendo una gran centralización en el control de recursos del estado; y que este patrón amenaza el proyecto plurinacional excluyendo la participación democrática de las naciones indígenas. A partir de esta conclusion, deduce algunas implicaciones y recomendaciones.
+
+[Descargar en pdf](http://www.iss.nl/uploads/media/1_Policy_Brief_Bolivia_Estado_Plurinacional-1_09.pdf)
