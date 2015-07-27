@@ -13,11 +13,8 @@ lng: -77.344
 zoom: 8 
 --- 
 
-<div>
-	<h4>
-		Breves antecedentes de las actividades petroleras en la zona
-	</h4>
-</div>
+*Breves antecedentes de las actividades petroleras en la zona*
+	
 	
 La región del Alto Beni estuvo sujeta a exploraciones petroleras hace más de 10
 años.  Varios años después, a fines del 2007, en medios oficiales se empezaba
@@ -74,11 +71,7 @@ carecían de información sobre los planes de la empresa  petrolera y no fueron
 consultados, es decir no participaron en la supuesta consulta  pública que
 anunció el gobierno.
 
-<div>
-	<h4>
-		El caso del Madidi, Pilón Lajas y el TIPNIS - Antecedentes
-	</h4>
-</div>
+*El caso del Madidi, Pilón Lajas y el TIPNIS - Antecedentes*
 
 De acuerdo a reportes locales, la exploración sísmica 2D, indujo impactos
 ambientales  en los ecosistemas de las frágiles zonas de serranías subandinas,
