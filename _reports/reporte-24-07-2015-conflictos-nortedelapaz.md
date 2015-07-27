@@ -3,7 +3,8 @@ layout: report
 published: true 
 highlighted: true 
 title: 'CONFLICTOS INDIGENAS-HIDROCARBUROS EN EL NORTE DE LA PAZ - Síntesis' 
-description: 'El informe entrega breves antecedentes de la actividad petrolera en la zona y analiza el caso del Madidi, Pilón Lajas y el TIPNIS; proporcionando antecedentes del conflicto que estas actividades generaron con la organización indígena regional OPIM (Organización del Pueblo Indígena Mosetene) y la CPILAP (Confederación de Pueblos Indígenas de La Paz), que agrupa a los pueblos indígenas Mosetene, Chimane, Leco, Tacana, entre otros.' author: Marco Octavio Ribera Arismendi, LIDEMA 
+description: 'El informe entrega breves antecedentes de la actividad petrolera en la zona y analiza el caso del Madidi, Pilón Lajas y el TIPNIS; proporcionando antecedentes del conflicto que estas actividades generaron con la organización indígena regional OPIM (Organización del Pueblo Indígena Mosetene) y la CPILAP (Confederación de Pueblos Indígenas de La Paz), que agrupa a los pueblos indígenas Mosetene, Chimane, Leco, Tacana, entre otros.' 
+author: Marco Octavio Ribera Arismendi, LIDEMA 
 published_at: 2015-07-24T00:00:00 
 country: Bolivia
 main_image: "/img/monitor-1.png" 
