@@ -23,7 +23,7 @@ Este artículo combina el estudio de caso del bloque Liquimuni en el Norte de La
 Se plantea la duda de que la alta legitimidad del gobierno de Evo Morales, basada en buena parte en las medidas de nacionalización, podría ser
 afectada por las actuales políticas de compensación y consulta, ya que están generando mayor resistencia por parte de grupos indígenas. 
 
-Se concluye que, en términos generales, los mecanismos de compensación y de consulta hancontribuido a una situación en la que la oposición ante los proyectos extractivos se ve fuertemente marginalizada y debilitada.
+Se concluye que, en términos generales, los mecanismos de compensación y de consulta han contribuido a una situación en la que la oposición ante los proyectos extractivos se ve fuertemente marginalizada y debilitada.
 
 A partir de esta lectura crítica surge la recomendación de fortalecer a los grupos y las comunidades indígenas en los procesos de consulta o en otros mecanismos políticos; considerando la problemática que genera que la consulta sea llevada a cabo por el Ministerio de Hidrocarburos y Energía, que es un
 actor con un fuerte interés en los propios procesos extractivos.
