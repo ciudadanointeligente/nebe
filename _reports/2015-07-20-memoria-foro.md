@@ -12,7 +12,6 @@ lat: -2.569
 lng: -77.344
 zoom: 8
 ---
-
 El Foro *“Recursos naturales y derechos indígenas: viejos y nuevos
 conflictos eco-territoriales”* muestra los avatares del proceso de
 construcción de un Estado Plurinacional, que involucra una
