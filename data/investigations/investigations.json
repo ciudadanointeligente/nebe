@@ -9,9 +9,7 @@
       "description" : "{{ investigation.description }}",
       "date" : "{{ investigation.date | date_to_xmlschema }}",
       "author" : "{{ investigation.author }}",
-      "link" : "{{ investigation.link }}",
-      "url" : "{{ site.baseurl }}{{ investigation.url }}",
-      "policy_brief" : {{ investigation.policy_brief }}
+      "link" : "{{ investigation.link }}"
     }{% if forloop.index < forloop.length %},{% endif%}
       {% endif %}
     {% endfor %}
