@@ -2,7 +2,7 @@
 layout: investigation
 published: true
 highlighted: true
-title: 'Informe de Politica: El Estado Plurinacional en Bolivia'
+title: 'El Estado Plurinacional en Bolivia: un proyecto indigena con limitadas facultades para los pueblos nativos'
 description: 'El presente documento analiza las principales causas de los desafíos encontrados en la consolidación del Estado Plurinacional.'
 author: Maria Eugenia Bedoya Arias
 date: 2015-07-27T00:00:00
