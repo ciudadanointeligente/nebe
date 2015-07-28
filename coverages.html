@@ -8,7 +8,7 @@ layout: page
       <img src="{{ site.news.image }}">
   </div>
   <div class="container" ng-controller="CoveragesCtrl">
-    
+
       <div class="row">
         <div class="col-md-7">
           <h2>Reportajes</h2>
@@ -27,24 +27,14 @@ layout: page
         <div class="col-md-12">
           <ul id="coverages" class="list-unstyled">
               <li ng-repeat="coverage in coverages | filter:searchCoverage">
-                <h5 class="report-title"><a href="[[ coverage.permalink ]]">[[ coverage.title ]]</a></h5> 
+                <h5 class="report-title"><a href="[[ coverage.permalink ]]">[[ coverage.title ]]</a></h5>
                 <p class="small">[[ format_date(coverage.date) | date:"dd 'de' MMMM, yyyy" ]]</p>
                 <p>[[ coverage.description ]]</p>
                 <p class="small text-right">&nbsp;</p>
               </li>
           </ul>
         </div>
-        <!-- <div class="col-md-3">
-          <ul class="list-unstyled">
-              <li ng-repeat="new in news | filter:searchNews">
-                <h5 class="post-title"><a href="[[ new.url ]]">[[ new.title ]]</a> <small>| [[ new.author ]]</small></h5> 
-                <p class="small">[[ format_date(new.date) ]]</p>
-                [[ new.description ]]
-              </li>
-          </ul>
-        </div> -->
       </div>
-      
-    
+
   </div>
 </section>
