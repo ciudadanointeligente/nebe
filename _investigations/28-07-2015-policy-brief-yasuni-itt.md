@@ -22,11 +22,8 @@ Como parte de los nuevos gobiernos de izquierda en América Latina, Ecuador ha m
 En conclusión, la propuesta de la iniciativa Yasuní-ITT:
 
 * Aumentó la tensión entre el gobierno y los grupos indígenas y medio-ambientalistas.
-
 * Incrementó la desconfianza debido a la inestabilidad política existente.
-
 * De un lado, se apropió de un discurso para evitar las emisiones de carbono a través de certificados; y del otro, los certificados de Yasuní-ITT adicionalmente se verían discriminados frente a los proyectos ya establecidos por REDD+.
-
 * Prevé mecanismos de gestión conjunta de los fondos, lo que es observado críticamente desde el punto de vista de la soberanía ecuatoriana.
 
 
