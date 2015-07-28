@@ -11,7 +11,7 @@
     		"author" : "{{ investigation.author }}",
     		"link" : "{{ investigation.link }}",
             "url" : "{{ site.baseurl }}{{ investigation.url }}",
-    		"policy_brief" : {{ site.baseurl }}{{ investigation.policy_brief }}
+    		"policy_brief" : {{ investigation.policy_brief }}
     	}{% if forloop.index < forloop.length %},{% endif%}
     		{% endif %}
     	{% endfor %}
