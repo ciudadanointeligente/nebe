@@ -10,7 +10,8 @@
     		"date" : "{{ investigation.date | date_to_xmlschema }}",
     		"author" : "{{ investigation.author }}",
     		"link" : "{{ investigation.link }}",
-    		"url" : "{{ site.baseurl }}{{ investigation.url }}"
+            "url" : "{{ site.baseurl }}{{ investigation.url }}",
+    		"policy_brief" : "{{ site.baseurl }}{{ investigation.policy_brief }}"
     	}{% if forloop.index < forloop.length %},{% endif%}
     		{% endif %}
     	{% endfor %}

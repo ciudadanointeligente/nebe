@@ -8,7 +8,7 @@ layout: page
       <img src="{{ site.dokuments.image }}">
   </div>
   <div class="container" ng-controller="InvestigationsCtrl">
-    
+
       <div class="row">
         <div class="col-md-7">
           <h2>Investigaciones</h2>
@@ -25,12 +25,12 @@ layout: page
 
       <ul id="posts" class="list-unstyled">
           <li ng-repeat="investigation in investigations | filter:searchInvestigations">
-            <h5 class="post-title"><a href="[[ investigation.url ]]">[[ investigation.title ]]</a></h5> 
+            <h5 class="post-title"><a href="[[ investigation.url ]]">[[ investigation.title ]]</a> <span ng-if="investigation.policy_brief" class="small label">policy brief</span></h5>
             <p class="small">[[ format_date(investigation.date) ]]</p>
             [[ investigation.description ]]
             <p class="small text-right"><a href="[[ investigation.link ]]" target="_blank"><i class="fa fa-download"></i></a> [[ investigation.author ]]</p>
           </li>
       </ul>
-    
+
   </div>
 </section>
