@@ -3,7 +3,7 @@ layout: report
 published: true
 highlighted: true
 title: 'CONFLICTOS INDIGENAS-HIDROCARBUROS EN EL NORTE DE LA PAZ - Síntesis'
-description: 'El informe entrega breves antecedentes de la actividad petrolera en la zona y examina el caso del Madidi, Pilón Lajas y el TIPNIS, exponiendo los antecedentes de los conflictos generados debido a estas actividades en estas zonas'
+description: 'El informe entrega breves antecedentes de la actividad petrolera en la zona y examina el caso del Madidi, Pilón Lajas y el TIPNIS, exponiendo los antecedentes de los conflictos generados debido a estas actividades en el área.'
 author: Marco Octavio Ribera Arismendi, LIDEMA
 published_at: 2015-07-24T00:00:00
 country: Bolivia
@@ -13,7 +13,7 @@ lng: -77.344
 zoom: 8
 ---
 
-_Breves antecedentes de las actividades petroleras en la zona_
+<b>Breves antecedentes de las actividades petroleras en la zona</b>
 
 La región del Alto Beni estuvo sujeta a exploraciones petroleras hace más de 10
 años.  Varios años después, a fines del 2007, en medios oficiales se empezaba
@@ -70,12 +70,8 @@ carecían de información sobre los planes de la empresa  petrolera y no fueron
 consultados, es decir no participaron en la supuesta consulta  pública que
 anunció el gobierno.
 
-_El caso del Madidi, Pilón Lajas y el TIPNIS - Antecedentes_
+<b>El caso del Madidi, Pilón Lajas y el TIPNIS - Antecedentes</b>
 
-</div>
-<div class="pull-right img-content">
-  <img src="http://i.imgur.com/rV17V4F.png" title="source: mapa-nortedelapaz"/>
-</div>
 De acuerdo a reportes locales, la exploración sísmica 2D, indujo impactos
 ambientales  en los ecosistemas de las frágiles zonas de serranías subandinas,
 pero paralelamente ocasionó un profundo debilitamiento de la organización
@@ -115,7 +111,7 @@ de la organización matriz. Sin embargo el elemento más determinante es sin
 duda, la estructura cultural, pues mientras la APG y sus capitanías
 corresponden a una sola cultura o nación -Guaraní- en  el caso del norte de La
 Paz, el movimiento indígena es un conglomerado de diversas culturas o etnias
-(Mosetenes, Lecos, Tacanas, etc.), no necesariamente con similares  visiones y
+(Mosetenes, Lecos, Tacanas, etc.), no necesariamente con similares visiones y
 niveles de fortaleza organizacional interna. También, se puede asumir en
 general, que existen liderazgos menos consolidados. En cuanto al tema de
 derivaciones económicas vía compensación de las operaciones petroleras, a
