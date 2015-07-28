@@ -2,8 +2,8 @@
 title: NEBE
 email: 'contacto@nebe.org'
 description: 'NEBE es un proyecto desarrollado por el ISS e Hivos de Holanda, Lidema de Bolivia y la Universidad San Francisco de Quito de Ecuador que se propone de estudiar los impactos de la nacionalización sobre los conflictos y la cooperación alrededor de las actividades extractivas en Bolivia y Ecuador.'
-baseurl: '//nebe.ciudadanointeligente.org' #the subpath of your site, e.g. /blog/
-url: '//nebe.ciudadanointeligente.org' #the base hostname & protocol for your site
+baseurl: '//nebe.ciudadanoi.org' #the subpath of your site, e.g. /blog/
+url: '//nebe.ciudadanoi.org' #the base hostname & protocol for your site
 twitter_username: '@proyectonebe'
 bootstrap_version: '3.3.2'
 jquery_version: '2.1.3'
