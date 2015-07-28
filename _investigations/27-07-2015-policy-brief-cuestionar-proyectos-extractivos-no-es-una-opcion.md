@@ -2,7 +2,7 @@
 layout: investigation
 published: true
 highlighted: true
-title: 'Cuestionar proyectos extractivos no es una opción (Síntesis)'
+title: 'Cuestionar proyectos extractivos no es una opción'
 description: 'El gobierno boliviano enfrenta dificultades al aplicar mecanismos de compensación y consulta. Este documento analiza sus implicaciones.'
 author: Isabella M. Radhuber
 date: 2015-07-27T00:00:00
