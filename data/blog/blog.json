@@ -3,8 +3,8 @@ layout: null
 ---
 {
     "posts": [
-    	{% for new in site.categories.blog %}
-    		{% if new.title %}
+      {% for new in site.categories.blog %}
+        {% if new.title %}
         {
             "title": "{{ new.title }}",
             "description": "{{ new.description }}",

@@ -4,16 +4,16 @@ html {
 }
 
 body {
-	font: 100% $roboto;
-	color: $primary-dark;
-	-webkit-font-smoothing: antialiased;
+  font: 100% $roboto;
+  color: $primary-dark;
+  -webkit-font-smoothing: antialiased;
   text-shadow: rgba(0,0,0,.01) 0 0 1px;
   font-size: 14px
 }
 
 h1, h2, h3, h4, h5 {
-	font-family: $raleway;
-	font-weight: 700;
+  font-family: $raleway;
+  font-weight: 700;
   text-transform: uppercase;
 }
 
@@ -33,7 +33,7 @@ a:focus, a:hover {
 }
 
 .small {
-	color: $primary;
+  color: $primary;
 }
 
 section .container {
@@ -119,20 +119,20 @@ nav {
 }
 
 .navbar-brand h3 {
-	margin: 0;
+  margin: 0;
 }
 
 .nav-bar {
-	/*background-color: rgba( $third-color, .3 );*/
-	background-color: $primary-light;
-	a{
-		color: rgba( #FFF, .5 );
-			&:hover{
-				text-decoration: none;
-				font: 20px/24px serif;
-				    font-weight: bold;
-			}
-	}
+  /*background-color: rgba( $third-color, .3 );*/
+  background-color: $primary-light;
+  a{
+    color: rgba( #FFF, .5 );
+      &:hover{
+        text-decoration: none;
+        font: 20px/24px serif;
+            font-weight: bold;
+      }
+  }
 }
 
 .navbar-brand {
@@ -152,23 +152,23 @@ nav {
 }
 
 #header {
-	position: relative;
-	/*margin-bottom: 25px;*/
-	overflow: hidden;
-	color: $primary-lighter;
+  position: relative;
+  /*margin-bottom: 25px;*/
+  overflow: hidden;
+  color: $primary-lighter;
 }
 
 .header-panel {
-	position: absolute;
-	width: 100%;
-	min-height: 100px;
-	top: 0;
-	margin-top: 50px;
-	z-index: 55;
+  position: absolute;
+  width: 100%;
+  min-height: 100px;
+  top: 0;
+  margin-top: 50px;
+  z-index: 55;
 }
 
 .header-menu {
-	position: absolute;
+  position: absolute;
     width: 100%;
     /*margin-top: 50px;*/
     padding: 0 15px;
@@ -176,12 +176,12 @@ nav {
 }
 
 .header-menu.sticky {
-	position: fixed;
-	margin: 0;
-	-moz-animation: bounceInDown 0.5s;
-	-webkit-animation: bounceInDown 0.5s;
-	animation: bounceInDown 0.5s;
-	background: $primary-light;
+  position: fixed;
+  margin: 0;
+  -moz-animation: bounceInDown 0.5s;
+  -webkit-animation: bounceInDown 0.5s;
+  animation: bounceInDown 0.5s;
+  background: $primary-light;
   background: $secondary;
   h3 a {
     color: #FFF;
@@ -189,29 +189,29 @@ nav {
 }
 
 .header-menu.fixed {
-	-moz-animation: bounceIn 0.5s;
-	-webkit-animation: bounceIn 0.5s;
-	animation: bounceIn 0.5s;
+  -moz-animation: bounceIn 0.5s;
+  -webkit-animation: bounceIn 0.5s;
+  animation: bounceIn 0.5s;
 }
 
 .header-menu > .box {
-	min-height: 75px;
+  min-height: 75px;
 }
 
 .header-bg {
-	position: relative;
-	height: 750px;
-	overflow: hidden;
+  position: relative;
+  height: 750px;
+  overflow: hidden;
 }
 
 .header-bg:before {
-	top: 0;
-	position: absolute;
-	display: block;
-	width: 100%;
-	height: 100%;
-	content: "";
-	z-index: 40;
+  top: 0;
+  position: absolute;
+  display: block;
+  width: 100%;
+  height: 100%;
+  content: "";
+  z-index: 40;
   background: url(../img/bg.png) repeat;
 }
 
@@ -301,14 +301,14 @@ nav {
 /*Content*/
 
 .content {
-	position: relative;
-	padding: 0 15px;
-	z-index: 50;
-	background: #FFF;
+  position: relative;
+  padding: 0 15px;
+  z-index: 50;
+  background: #FFF;
 
-	section {
-		padding: 50px 0;
-	}
+  section {
+    padding: 50px 0;
+  }
 }
 
 .img-content {

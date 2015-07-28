@@ -1,45 +1,45 @@
 <head>
 
-	<meta charset="utf-8">
-	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<meta name="viewport" content="width=device-width initial-scale=1">
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width initial-scale=1">
 
-	<title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
-	<meta name="description" content="{{ site.description }}">
+  <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
+  <meta name="description" content="{{ site.description }}">
 
-	<meta property="og:title" content="{{ site.title }}" />
-	<meta property="og:type" content="website" />
-	<meta property="og:url" content="{{ site.baseurl }}" />
-	<meta property="og:image" content="{{ site.baseurl }}/img/og-img.png" />
+  <meta property="og:title" content="{{ site.title }}" />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="{{ site.baseurl }}" />
+  <meta property="og:image" content="{{ site.baseurl }}/img/og-img.png" />
 
-	<!-- twitter card -->
-	<meta name="twitter:card" content="summary">
-	<meta name="twitter:site" content="{{ site.twitter_username }}">
-	<meta name="twitter:title" content="{{ site.title }}">
-	<meta name="twitter:description" content="{{ site.description }}">
-	<meta name="twitter:creator" content="{{ site.twitter_username }}">
-	<meta name="twitter:image" content="{{ site.baseurl }}/img/og-img.png">
+  <!-- twitter card -->
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:site" content="{{ site.twitter_username }}">
+  <meta name="twitter:title" content="{{ site.title }}">
+  <meta name="twitter:description" content="{{ site.description }}">
+  <meta name="twitter:creator" content="{{ site.twitter_username }}">
+  <meta name="twitter:image" content="{{ site.baseurl }}/img/og-img.png">
 
-	<!-- Latest compiled and minified CSS -->
-	<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/{{ site.bootstrap_version }}/css/bootstrap.min.css">
-	<link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
-	<link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
-	<link href="{{ site.baseurl }}/css/animate.min.css" rel="stylesheet" media="screen">
-	<link href="{{ site.baseurl }}/css/flexslider.css" rel="stylesheet" media="screen">
-	<link href='//api.tiles.mapbox.com/mapbox.js/v2.1.9/mapbox.css' rel='stylesheet' />
+  <!-- Latest compiled and minified CSS -->
+  <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/{{ site.bootstrap_version }}/css/bootstrap.min.css">
+  <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
+  <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+  <link href="{{ site.baseurl }}/css/animate.min.css" rel="stylesheet" media="screen">
+  <link href="{{ site.baseurl }}/css/flexslider.css" rel="stylesheet" media="screen">
+  <link href='//api.tiles.mapbox.com/mapbox.js/v2.1.9/mapbox.css' rel='stylesheet' />
 
-	<!-- Fonts -->
-	<link href='//fonts.googleapis.com/css?family=Roboto:400,100,700' rel='stylesheet' type='text/css'>
-	<link href='//fonts.googleapis.com/css?family=Raleway:700' rel='stylesheet' type='text/css'>
-	<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+  <!-- Fonts -->
+  <link href='//fonts.googleapis.com/css?family=Roboto:400,100,700' rel='stylesheet' type='text/css'>
+  <link href='//fonts.googleapis.com/css?family=Raleway:700' rel='stylesheet' type='text/css'>
+  <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
 
-	<script type="text/javascript" src="//code.jquery.com/jquery-latest.pack.js"></script>
-	<script src="//ajax.googleapis.com/ajax/libs/jquery/{{ site.jquery_version }}/jquery.min.js"></script>
-	<script src="//maxcdn.bootstrapcdn.com/bootstrap/{{ site.bootstrap_version }}/js/bootstrap.min.js"></script>
-	<script src='//api.tiles.mapbox.com/mapbox.js/v2.1.9/mapbox.js'></script>
-	<script src='//ajax.googleapis.com/ajax/libs/angularjs/1.3.15/angular.min.js'></script>
-	<script src="{{ site.baseurl }}/js/jquery.flexslider.js"></script>
-	<!-- Go to www.addthis.com/dashboard to customize your tools -->
-	<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-555260983d175bb8" async="async"></script>
-	
+  <script type="text/javascript" src="//code.jquery.com/jquery-latest.pack.js"></script>
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/{{ site.jquery_version }}/jquery.min.js"></script>
+  <script src="//maxcdn.bootstrapcdn.com/bootstrap/{{ site.bootstrap_version }}/js/bootstrap.min.js"></script>
+  <script src='//api.tiles.mapbox.com/mapbox.js/v2.1.9/mapbox.js'></script>
+  <script src='//ajax.googleapis.com/ajax/libs/angularjs/1.3.15/angular.min.js'></script>
+  <script src="{{ site.baseurl }}/js/jquery.flexslider.js"></script>
+  <!-- Go to www.addthis.com/dashboard to customize your tools -->
+  <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-555260983d175bb8" async="async"></script>
+
 </head>

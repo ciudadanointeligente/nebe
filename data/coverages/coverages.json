@@ -3,8 +3,8 @@ layout: null
 ---
 {
     "coverages": [
-    	{% for new in site.categories.reportajes %}
-    		{% if new.title %}
+      {% for new in site.categories.reportajes %}
+        {% if new.title %}
         {
             "title": "{{ new.title }}",
             "description": "{{ new.description }}",

@@ -26,12 +26,12 @@ chapters:
 <a name="seccion-i"></a>
 
 <div class="page-header">
-	<h4>
-		Introducción <span><a href="#seccion-i"><i class="fa fa-link"></i></a></span>
-	</h4>
+  <h4>
+    Introducción <span><a href="#seccion-i"><i class="fa fa-link"></i></a></span>
+  </h4>
 </div>
 <div class="pull-right img-content">
-	<img src="http://i.imgur.com/oztaTC8.png" title="source: Zamora, Ecuador"/>
+  <img src="http://i.imgur.com/oztaTC8.png" title="source: Zamora, Ecuador"/>
 </div>
 Un apetito aparentemente insaciable por el oro se ha traducido en que el precio de este metal se haya elevado a alturas sin precedentes. La búsqueda de nuevas riquezas atrae a actores mineros de todas las escalas, desde los operadores artesanales locales hasta grandes corporaciones multinacionales que intensifican la extracción y amplían la frontera de oro (por ejemplo Muradian et al., en prensa).
 
@@ -47,9 +47,9 @@ Por último, presentamos nuestras conclusiones, en las que podemos destacar cóm
 <a name="seccion-ii"></a>
 
 <div class="page-header">
-	<h4>
-		La Minería y sus Escollos <span><a href="#seccion-ii"><i class="fa fa-link"></i></a></span>
-	</h4>
+  <h4>
+    La Minería y sus Escollos <span><a href="#seccion-ii"><i class="fa fa-link"></i></a></span>
+  </h4>
 </div>
 Las preocupaciones acerca de la minería han llevado a una comprensión general de los impactos de la actividad; en los países desarrollados han llevado a políticas y regulaciones destinadas a minimizar sus impactos, aunque éstas no necesariamente han sido eficaces.
 
@@ -64,9 +64,9 @@ Los recursos mineros a menudo causan conflictos internos, y éstos podrían supe
 <a name="seccion-iii"></a>
 
 <div class="page-header">
-	<h4>
-		Zamora: la capital minera (oro) del Ecuador, 1980-2006 <span><a href="#seccion-iii"><i class="fa fa-link"></i></a></span>
-	</h4>
+  <h4>
+    Zamora: la capital minera (oro) del Ecuador, 1980-2006 <span><a href="#seccion-iii"><i class="fa fa-link"></i></a></span>
+  </h4>
 </div>
 Zamora-Chinchipe (ZCH), con una superficie de 10.456 km² y una población de 91.376 habitantes, es étnicamente heterogénea, con una presencia de mestizos, Saraguros y Shuar. Debido a su paisaje, el clima templado, y la ubicación geográfica, esta región es un "hot-spot de biodiversidad por excelencia”.
 
@@ -79,9 +79,9 @@ Esta sección presenta ejemplos de las localidades mineras de San Luis y Nambija
 <a name="seccion-iv"></a>
 
 <div class="page-header">
-	<h4>
-		Controlando la minería salvaje: El giro post-neoliberal y la Ley de Minería 045 del Ecuador, 2008-2012 <span><a href="#seccion-iv"><i class="fa fa-link"></i></a></span>
-	</h4>
+  <h4>
+    Controlando la minería salvaje: El giro post-neoliberal y la Ley de Minería 045 del Ecuador, 2008-2012 <span><a href="#seccion-iv"><i class="fa fa-link"></i></a></span>
+  </h4>
 </div>
 Dado el legado de degradación social y ambiental de la minería – como lo ejemplifica Nambija - una de las prioridades declaradas del gobierno de Rafael Correa (elegido en 2006) era liberar al país de su legado neoliberal en lo que respecta a esta industria.
 
@@ -92,7 +92,7 @@ La facción anti-minera de la Asamblea llego a proponer una prohibición permane
 El presidente de Ecuador enmarcó el debate sobre la minería en términos de desarrollo: ¿Cómo podemos escuchar a los fundamentalistas que dicen no a la minería? Vivimos sobre riquezas que pueden sacarnos del subdesarrollo, pero para estos fundamentalistas absurdos, no podemos extraer nuestro cobre, nuestro oro, o nuestra plata. (Rafael Correa, Manabí, 15 de julio de 2008)
 
 <blockquote>
-	¿Cómo podemos escuchar a los fundamentalistas que dicen no a la minería? Vivimos sobre riquezas que pueden sacarnos del subdesarrollo, pero para estos fundamentalistas absurdos, no podemos extraer nuestro cobre, nuestro oro, o nuestra plata. (Rafael Correa, Manabí, 15 de julio de 2008)
+  ¿Cómo podemos escuchar a los fundamentalistas que dicen no a la minería? Vivimos sobre riquezas que pueden sacarnos del subdesarrollo, pero para estos fundamentalistas absurdos, no podemos extraer nuestro cobre, nuestro oro, o nuestra plata. (Rafael Correa, Manabí, 15 de julio de 2008)
 </blockquote>
 
 Bajo el nuevo marco legal, la minería está sujeta a la Ley de Minería 045 (LM 045); el Estatuto General de Minería (Decreto 119), Estatutos de la Minería Artesanal y de Pequeña Escala (Decreto 120), y los Estatutos Ambientales Mineros (Decreto 121).
@@ -102,12 +102,12 @@ En esta sección, se analiza cómo la LM 045 y los Estatutos de la Minería esta
 <a name="seccion-v"></a>
 
 <div class="page-header">
-	<h4>
-		Un nuevo concepto de minería, pero ¿Quién se queda atrás? <span><a href="#seccion-v"><i class="fa fa-link"></i></a></span>
-	</h4>
+  <h4>
+    Un nuevo concepto de minería, pero ¿Quién se queda atrás? <span><a href="#seccion-v"><i class="fa fa-link"></i></a></span>
+  </h4>
 </div>
 <div class="pull-left img-content">
-	<img src="http://i.imgur.com/oztaTC8.png" title="source: Zamora, Ecuador"/>
+  <img src="http://i.imgur.com/oztaTC8.png" title="source: Zamora, Ecuador"/>
 </div>
 La ley minera ecuatoriana constituye un intento de hacer frente a la falta gobernanza de la minería en los últimos treinta años. Sin embargo, hay ciertas cuestiones que siguen sin resolverse. Tal como está escrita, la ley establece un marco regulatorio para una minería "responsable" - aunque es demasiado pronto para saber si las instituciones ecuatorianas podrán hacer cumplir sus propias leyes.
 
@@ -118,9 +118,9 @@ Nuestro trabajo de campo sugiere que el impacto de la LM 045 y los estatutos sob
 <a name="conclusion"></a>
 
 <div class="page-header">
-	<h4>
-		Conclusiones <span><a href="#conclusion"><i class="fa fa-link"></i></a></span>
-	</h4>
+  <h4>
+    Conclusiones <span><a href="#conclusion"><i class="fa fa-link"></i></a></span>
+  </h4>
 </div>
 
 Las industrias generalmente crecen en un marco institucional de facto que refleja sólo parcialmente el marco regulatorio; y la disonancia entre estos marcos ofrece una medida de la capacidad del Estado. En el caso de Ecuador, la minería de fiebre del oro aporta la prueba del colapso del Estado bajo el paradigma neoliberal. De hecho, el Estado mostró incapacidad para mantener el orden social y para garantizar la seguridad de sus ciudadanos.
