@@ -5,10 +5,10 @@ layout: page
 
 <section id="news" ng-app="arkakApp">
   <div class="docs-img">
-      <img src="{{ site.news.image }}">
+      <img src="{{ site.blog.image }}">
   </div>
   <div class="container" ng-controller="PostsCtrl">
-    
+
       <div class="row">
         <div class="col-md-7">
           <h2>Blog</h2>
@@ -27,7 +27,7 @@ layout: page
         <div class="col-md-12">
           <ul id="news" class="list-unstyled">
               <li ng-repeat="post in posts | filter:searchPosts">
-                <h5 class="report-title"><a href="[[ post.permalink ]]">[[ post.title ]]</a></h5> 
+                <h5 class="report-title"><a href="[[ post.permalink ]]">[[ post.title ]]</a></h5>
                 <p class="small">[[ format_date(post.date) | date:"dd 'de' MMMM, yyyy" ]]</p>
                 <p>[[ post.description ]]</p>
                 <p class="small text-right">&nbsp;</p>
@@ -35,7 +35,7 @@ layout: page
           </ul>
         </div>
       </div>
-      
-    
+
+
   </div>
 </section>
