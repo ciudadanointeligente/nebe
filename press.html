@@ -3,64 +3,64 @@ layout: page
 ---
 
 <section>
-	<div id="section-header">
-		<img src="{{ site.press.image }}">
-	</div>
-	<div class="container">
+  <div id="section-header">
+    <img src="{{ site.press.image }}">
+  </div>
+  <div class="container">
 
-		{% if site.categories.noticias.size %}
-		<div class="page-header blogs-title">
-			<h4>Noticias <small>| <a href="/news.html">ver más</a></small></h4>
-		</div>
-		<div class="row">
-			{% for post in site.categories.noticias | limit: 3 %}
-			<div class="col-md-4 category-news">
-				<img src="{{post.image}}" class="img-responsive">
-				<h4>{{post.title | truncate: 160}}</h4>
-				<ul class="list-inline date-news">
-					<li>Fecha: {{post.date | date: "%d de %B, %Y" | upcase }}</li>
-					<li>{% for c in post.categories %}<span class="label label-default">{{c | upcase }}</span> {% endfor %}</li>
-				</ul>
-				<p>{{post.description | truncate: 140}} <a href="{{ post.url }}" class="read-more">seguir leyendo <i class="fa fa-plus-square-o"></i></a></p>
-			</div>
-			{% endfor %}
-		</div>
-		{% endif %}
+    {% if site.categories.noticias.size %}
+    <div class="page-header blogs-title">
+      <h4>Noticias <small>| <a href="/news.html">ver más</a></small></h4>
+    </div>
+    <div class="row">
+      {% for post in site.categories.noticias | limit: 3 %}
+      <div class="col-md-4 category-news">
+        <img src="{{post.image}}" class="img-responsive">
+        <h4>{{post.title | truncate: 160}}</h4>
+        <ul class="list-inline date-news">
+          <li>Fecha: {{post.date | date: "%d de %B, %Y" | upcase }}</li>
+          <li>{% for c in post.categories %}<span class="label label-default">{{c | upcase }}</span> {% endfor %}</li>
+        </ul>
+        <p>{{post.description | truncate: 140}} <a href="{{ post.url }}" class="read-more">seguir leyendo <i class="fa fa-plus-square-o"></i></a></p>
+      </div>
+      {% endfor %}
+    </div>
+    {% endif %}
 
-		{% if site.categories.reportajes.size %}
-		<div class="page-header blogs-title">
-			<h4>Reportajes <small>| <a href="/coverages.html">ver más</a></small></h4>
-		</div>
-		<div class="row">
-			{% for post in site.categories.reportajes | limit: 3 %}
-			<div class="col-md-4 category-news">
-				<img src="{{post.image}}" class="img-responsive">
-				<h4>{{post.title | truncate: 160}}</h4>
-				<ul class="list-inline date-news">
-					<li>Fecha: {{post.date | date: "%d de %B, %Y" | upcase }}</li>
-					<li>{% for c in post.categories %}<span class="label label-default">{{c | upcase }}</span> {% endfor %}</li>
-				</ul>
-				<p>{{post.description | truncate: 140}} <a href="{{ post.url }}" class="read-more">seguir leyendo <i class="fa fa-plus-square-o"></i></a></p>
-			</div>
-			{% endfor %}
-		</div>
-		{% endif %}
+    {% if site.categories.reportajes.size %}
+    <div class="page-header blogs-title">
+      <h4>Reportajes <small>| <a href="/coverages.html">ver más</a></small></h4>
+    </div>
+    <div class="row">
+      {% for post in site.categories.reportajes | limit: 3 %}
+      <div class="col-md-4 category-news">
+        <img src="{{post.image}}" class="img-responsive">
+        <h4>{{post.title | truncate: 160}}</h4>
+        <ul class="list-inline date-news">
+          <li>Fecha: {{post.date | date: "%d de %B, %Y" | upcase }}</li>
+          <li>{% for c in post.categories %}<span class="label label-default">{{c | upcase }}</span> {% endfor %}</li>
+        </ul>
+        <p>{{post.description | truncate: 140}} <a href="{{ post.url }}" class="read-more">seguir leyendo <i class="fa fa-plus-square-o"></i></a></p>
+      </div>
+      {% endfor %}
+    </div>
+    {% endif %}
 
-		<!-- <div class="page-header blogs-title">
-			<h4>Blog <small>| <a href="/posts.html">ver más</a></small></h4>
-		</div>
-		<div class="row">
-			{% for post in site.categories.blog | limit: 3 %}
-			<div class="col-md-4 category-news">
-				<img src="{{post.image}}" class="img-responsive">
-				<h4>{{post.title | truncate: 160}}</h4>
-				<ul class="list-inline date-news">
-					<li>Fecha: {{post.date | date: "%d de %B, %Y" | upcase }}</li>
-					<li>{% for c in post.categories %}<span class="label label-default">{{c | upcase }}</span> {% endfor %}</li>
-				</ul>
-				<p>{{post.description | truncate: 140}} <a href="{{ post.url }}" class="read-more">seguir leyendo <i class="fa fa-plus-square-o"></i></a></p>
-			</div>
-			{% endfor %}
-		</div> -->
-	</div>
+    <!-- <div class="page-header blogs-title">
+      <h4>Blog <small>| <a href="/posts.html">ver más</a></small></h4>
+    </div>
+    <div class="row">
+      {% for post in site.categories.blog | limit: 3 %}
+      <div class="col-md-4 category-news">
+        <img src="{{post.image}}" class="img-responsive">
+        <h4>{{post.title | truncate: 160}}</h4>
+        <ul class="list-inline date-news">
+          <li>Fecha: {{post.date | date: "%d de %B, %Y" | upcase }}</li>
+          <li>{% for c in post.categories %}<span class="label label-default">{{c | upcase }}</span> {% endfor %}</li>
+        </ul>
+        <p>{{post.description | truncate: 140}} <a href="{{ post.url }}" class="read-more">seguir leyendo <i class="fa fa-plus-square-o"></i></a></p>
+      </div>
+      {% endfor %}
+    </div> -->
+  </div>
 </section>

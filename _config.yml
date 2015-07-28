@@ -1,4 +1,4 @@
-# Site settings
+# site settings
 title: NEBE
 email: contacto@nebe.org
 description: "NEBE es un proyecto desarrollado por el ISS e Hivos de Holanda, Lidema de Bolivia y la Universidad San Francisco de Quito de Ecuador que se propone de estudiar los impactos de la nacionalización sobre los conflictos y la cooperación alrededor de las actividades extractivas en Bolivia y Ecuador."
@@ -9,7 +9,7 @@ bootstrap_version: "3.3.2"
 jquery_version: "2.1.3"
 google_analytics: "UA-60671039-1"
 
-# Build settings
+# build settings
 markdown: kramdown
 
 # main page
@@ -17,13 +17,13 @@ header:
   txt: "Proyecto NEBE"
   slide: ["/img/home01.jpg","/img/home02.jpg","//i.imgur.com/jXh99iH.jpg"]
 
-#reports
+# reports
 reportes:
   zoom: 3
   lat: '-2.234'
   lng: '-77,656'
 
-#documents
+# documents
 dokuments :
   image : '/img/home02.jpg'
 press :
@@ -35,13 +35,12 @@ blog :
 chronology :
   image : '//farm4.staticflickr.com/3804/12142826193_328a7520ce_o.jpg'
 
-#mapbox
+# mapbox
 mapbox:
   map: 'jgarrido.m42eof6c'
   token: 'pk.eyJ1IjoiamdhcnJpZG8iLCJhIjoiOVhrQ2ZwMCJ9.eItLrt9DzG1YNCbNZ0hhDg'
 
-
-#collections
+# collections
 collections:
   reports:
     output: true
