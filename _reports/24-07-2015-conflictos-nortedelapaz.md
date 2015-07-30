@@ -4,6 +4,7 @@ published: true
 highlighted: true
 title: 'CONFLICTOS INDIGENAS-HIDROCARBUROS EN EL NORTE DE LA PAZ - Síntesis'
 description: 'El informe entrega breves antecedentes de la actividad petrolera en la zona y examina el caso del Madidi, Pilón Lajas y el TIPNIS, exponiendo los antecedentes de los conflictos generados debido a estas actividades en el área.'
+quote:'La actividad petrolera ha polarizado las posiciones al interior de las comunidades'
 author: Marco Octavio Ribera Arismendi, LIDEMA
 published_at: 2015-07-24T00:00:00
 country: Bolivia
