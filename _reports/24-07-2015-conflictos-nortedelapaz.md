@@ -72,6 +72,10 @@ anunció el gobierno.
 
 <b>El caso del Madidi, Pilón Lajas y el TIPNIS - Antecedentes</b>
 
+<div class="pull-right img-content">
+  <img src="http://i.imgur.com/rV17V4F.png" title="source: mapa-nortedelapaz"/>
+</div>
+
 De acuerdo a reportes locales, la exploración sísmica 2D, indujo impactos
 ambientales  en los ecosistemas de las frágiles zonas de serranías subandinas,
 pero paralelamente ocasionó un profundo debilitamiento de la organización
