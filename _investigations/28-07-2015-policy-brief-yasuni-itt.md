@@ -14,8 +14,7 @@ La iniciativa Yasuní-ITT es un proyecto para conservar las reservas de petróle
 
 Este informe presenta y contextualiza las actuales tensiones existentes alrededor del proyecto Yasuní-ITT, que se manifiestan en la configuración socio-económica de la relación Estado-sociedad, el discurso sobre la naturaleza y la posición del país a nivel internacional.
 
-Mientras políticas convencionales se enfocan en la generación de ingresos del Estado a partir de la extracción de recursos naturales, que supone una pérdida de ecosistemas y derechos de pueblos indígenas, la actual iniciativa Yasuní-ITT aspira a la superación de aquel dilema de “desarrollo versus
-conservación”.
+Mientras políticas convencionales se enfocan en la generación de ingresos del Estado a partir de la extracción de recursos naturales, que supone una pérdida de ecosistemas y derechos de pueblos indígenas, la actual iniciativa Yasuní-ITT aspira a la superación de aquel dilema de “desarrollo versus conservación”.
 
 Como parte de los nuevos gobiernos de izquierda en América Latina, Ecuador ha mostrado alternativas de cambio en el régimen de los recursos naturales al igual que propuestas para la conservación de la naturaleza. Las tensiones que vive el actual proyecto Yasuní-ITT se reflejan en los términos en los cuales se ha manejado los medios y objetivos.
 
@@ -25,7 +24,6 @@ En conclusión, la propuesta de la iniciativa Yasuní-ITT:
 * Incrementó la desconfianza debido a la inestabilidad política existente.
 * De un lado, se apropió de un discurso para evitar las emisiones de carbono a través de certificados; y del otro, los certificados de Yasuní-ITT adicionalmente se verían discriminados frente a los proyectos ya establecidos por REDD+.
 * Prevé mecanismos de gestión conjunta de los fondos, lo que es observado críticamente desde el punto de vista de la soberanía ecuatoriana.
-
 
 <blockquote>
   Como parte de los nuevos gobiernos de izquierda en América Latina, Ecuador ha mostrado alternativas de cambio en el régimen de los recursos naturales al igual que propuestas para la conservación de la naturaleza.
