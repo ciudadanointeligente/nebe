@@ -46,7 +46,7 @@ layout: default
         {% for post in site.investigations | limit: 1 %}
           {% if post.highlighted and post.published %}
                 <h3>
-                  <i class="fa fa-quote-left"></i> {{ post.content | strip_html | truncatewords:40}} <i class="fa fa-quote-right"></i>
+                  <i class="fa fa-quote-left"></i> {{ post.quote | strip_html | truncatewords:85}} <i class="fa fa-quote-right"></i>
                 </h3>
                 <p class="small">
                   {% if post.author %}
