@@ -8,8 +8,8 @@ author: Marco Octavio Ribera Arismendi, LIDEMA
 published_at: 2015-07-24T00:00:00
 country: Bolivia
 main_image: "/img/monitor-1.png"
-lat: -2.569
-lng: -77.344
+lat: -15.7997085
+lng: -67.2
 zoom: 8
 ---
 
