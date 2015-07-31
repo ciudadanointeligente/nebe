@@ -13,8 +13,8 @@ link: http://www.iss.nl/uploads/media/1_Policy_Brief_Bolivia_Estado_Plurinaciona
 En Bolivia intensas movilizaciones sociales llevaron desde el 2000 al inicio de profundas transformaciones en la participación política, social y económica del país. Sin embargo recientes nuevas protestas demuestran aún profundos problemas estructurales que persisten en sus leyes y economía.
 Este documento analiza las principales causas de las nuevas manifestaciones, especialmente a raíz de las luchas generadas por el control del gas natural.
 
-<div class="pull-right img-content">
-  <img alt="TIPNIS-marchers" class="img-responsive" src="http://i.imgur.com/y2oGHg9.png">
+<div class="pull-left img-content">
+  <img alt="TIPNIS-marchers" class="img-responsive" src="http://i.imgur.com/N9EFAZD.png">
 </div>
 Además, el artículo analiza brevemente las movilizaciones sociales; la importancia del sector de gas natural como base para la economía boliviana; los derechos indígenas y regímenes de propiedad, y el control sobre los ingresos y centralización en la distribución de los recursos.
 
