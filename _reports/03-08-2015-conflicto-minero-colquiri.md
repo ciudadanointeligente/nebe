@@ -2,7 +2,7 @@
 layout: report
 published: true
 highlighted: true
-title: 'El conflicto minero de Colquiri y las ambiguedades de la nacionalización.'
+title: 'El conflicto minero de Colquiri y las ambiguedades de la nacionalización - Síntesis'
 description: 'El reporte analiza el conflicto generado entre el estado boliviano, empresas privadas, mineros asalariados y mineros cooperativistas a raiz de la intención de nacionalizar la explotación minera del  estaño y zinc en la mina Colquiri.'
 author: Marco Octavio Ribera Arismendi, LIDEMA
 published_at: 2015-08-03T00:00:00
@@ -13,7 +13,7 @@ lng: -67.1258641
 zoom: 8
 ---
 <div class="pull-left img-content">
-  <img alt="Colquiri-location" class="img-responsive" src="http://i.imgur.com/TPG5R16.png>
+  <img alt="Colquiri-location" class="img-responsive" src="http://i.imgur.com/TPG5R16.png">
 </div>
 Colquiri es una población y centro minero situado en la provincia Inquisivi del departamento de La Paz, a unos 120 Km. de la ciudad del mismo nombre La Paz y a 70 Km. de la ciudad de Oruro. Conocido desde épocas coloniales como zona minera, en especial por el descubrimiento de plata, posteriormente a lo largo de varias décadas, la explotación se concentró en el estaño y zinc.
 
