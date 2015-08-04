@@ -9,7 +9,6 @@ author: Isabella M. Radhuber
 policy_brief: true
 link: http://www.iss.nl/uploads/media/3_Policy_brief_Ecuador_tensiones_en_la_Iniciativa_Yasuni_ITT_09.pdf
 ---
-
 La iniciativa Yasuní-ITT es un proyecto para conservar las reservas de petróleo en el subsuelo a cambio de compensaciones monetarias por parte de la comunidad internacional. Esto demuestra el dilema clásico entre la generación de recursos económicos por parte del Estado a través de la extracción y la conservación de bienes públicos, así como el respeto de los derechos de comunidades indígenas.
 
 Este informe presenta y contextualiza las actuales tensiones existentes alrededor del proyecto Yasuní-ITT, que se manifiestan en la configuración socio-económica de la relación Estado-sociedad, el discurso sobre la naturaleza y la posición del país a nivel internacional.

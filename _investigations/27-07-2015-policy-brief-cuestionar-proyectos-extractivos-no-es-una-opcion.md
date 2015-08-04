@@ -9,7 +9,6 @@ date: 2015-07-27T00:00:00
 policy_brief: true
 link: http://www.iss.nl/uploads/media/2_Policy_brief_Bolivia_Rol_de_la_compensacion_y_consulta_09.pdf
 ---
-
 Este artículo examina un aspecto clave que acompañó el proceso de nacionalización boliviano del 2006 y específicamente la institucionalización de los procesos de consulta para los pueblos indígenas afectados por las actividades hidrocarburíferas. En este sentido, aborda los cambios en las políticas de compensación y redistribución. Actualmente, se puede evidenciar cómo las condiciones marco debilitaron las oposiciones ante los proyectos de exploración y explotación de los recursos naturales. El artículo presente se enfoca en el proyecto de exploración hidrocarburífera en el Norte de La Paz, y demuestra cómo, en estas circunstancias, cuestionar proyectos extractivos “no es una opción”.
 
 Se analiza como el incremento de los ingresos del estado boliviano generados por la extraccion de los recursos naturales fueron acompañados tanto de una expansión de la frontera extractiva a nuevos territorios, como de una nueva política redistributiva de los beneficios provenientes de la extracción y por los procesos de consulta entre la población local. En este contexto, el artículo se enfoca en la expansión de la frontera extractiva a un nuevo territorio y analiza la interrelación entre las nuevas políticas redistributivas y los derechos indígenas.

@@ -9,7 +9,6 @@ date: 2015-07-27T00:00:00
 policy_brief: true
 link: http://www.iss.nl/uploads/media/1_Policy_Brief_Bolivia_Estado_Plurinacional-1_09.pdf
 ---
-
 En Bolivia intensas movilizaciones sociales llevaron desde el 2000 al inicio de profundas transformaciones en la participación política, social y económica del país. Sin embargo recientes nuevas protestas demuestran aún profundos problemas estructurales que persisten en sus leyes y economía.
 Este documento analiza las principales causas de las nuevas manifestaciones, especialmente a raíz de las luchas generadas por el control del gas natural.
 

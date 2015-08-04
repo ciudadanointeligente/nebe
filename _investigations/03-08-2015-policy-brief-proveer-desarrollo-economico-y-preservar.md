@@ -10,7 +10,6 @@ link: http://www.iss.nl/uploads/media/5_Policy_brief_Ecuador_Contradicciones_del
 policy_brief: true
 chapters:
 ---
-
 Con la presidencia de Rafael Correa (2007) el Estado se estableció como un actor central en la economía ecuatoriana, especialmente en las industrias extractivas. El proyecto Yasuní-ITT, que prevé dejar el petróleo en el subsuelo a cambio de compensaciones monetarias internacionales, muestra un intento por cambiar la relación con la naturaleza. Sin embargo, al mismo tiempo esta iniciativa muestra que no se ha podido incrementar y mejorar la participación de la sociedad civil.
 
 Se evidencia así una colisión entre los roles del Estado: de un lado está la provisión para un desarrollo socio-económico y de otro la iniciativa por preservar la naturaleza. Esto ha llevado a que el Estado en la actualidad tienda a aislar los agentes de la sociedad civil y abre el camino a un posible conflicto social de mayor intensidad.
