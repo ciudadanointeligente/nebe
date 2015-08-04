@@ -2,7 +2,7 @@
 layout: investigation
 highlighted: true
 published: true
-title: "Proveer desarrollo socioeconómico y preservar la naturaleza: identificando las contradicciones en el rol del Estado ecuatoriano"
+title: 'Proveer desarrollo socioeconómico y preservar la naturaleza: identificando las contradicciones en el rol del Estado ecuatoriano'
 description: El artículo se enfoca en la cambiante relación entre el estado ecuatoriano y la sociedad civil, examinando la nueva Constitución y el Proyecto Yasuní-ITT.
 date: 2015-08-0300:00:00
 author: Isabella M. Radhuber

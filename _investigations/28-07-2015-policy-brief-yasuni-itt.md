@@ -2,7 +2,7 @@
 layout: investigation
 highlighted: true
 published: true
-title: "Las Tensiones en la Iniciativa Yasuní-ITT"
+title: 'Las Tensiones en la Iniciativa Yasuní-ITT'
 description: Este informe analiza las actuales tensiones existentes alrededor del proyecto Yasuní-ITT (la propuesta de relación sociedad-naturaleza del gobierno ecuatoriano).
 date: 2015-07-28T00:00:00
 author: Isabella M. Radhuber

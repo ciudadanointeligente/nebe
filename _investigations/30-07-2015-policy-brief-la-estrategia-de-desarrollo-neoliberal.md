@@ -2,7 +2,7 @@
 layout: investigation
 highlighted: true
 published: true
-title: "La estrategia de desarrollo post-neoliberal, resultados parciales y desiguales: La Constitución Ecuatoriana y la Iniciativa Yasuní ITT"
+title: 'La estrategia de desarrollo post-neoliberal, resultados parciales y desiguales: La Constitución Ecuatoriana y la Iniciativa Yasuní ITT'
 description: El presente artículo se enfoca en el rol del Estado ecuatoriano y el rol de la naturaleza en la economía nacional. Concretamente, examina los resultados (parciales y desiguales) inscritos en la nueva Constitución y en la iniciativa Yasuní-ITT.
 date: 2015-07-30T00:00:00
 author: Isabella M. Radhuber

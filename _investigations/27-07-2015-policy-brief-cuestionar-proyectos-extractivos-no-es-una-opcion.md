@@ -2,8 +2,8 @@
 layout: investigation
 published: true
 highlighted: true
-title: "Cuestionar proyectos extractivos 'no es una opción': Un análisis acerca del rol de la compensación y la consulta"
-description: 'El gobierno boliviano enfrenta dificultades al aplicar mecanismos de compensación y consulta. Este documento analiza sus implicaciones.'
+title: 'Cuestionar proyectos extractivos "no es una opción": Un análisis acerca del rol de la compensación y la consulta'
+description: El gobierno boliviano enfrenta dificultades al aplicar mecanismos de compensación y consulta. Este documento analiza sus implicaciones.
 author: Isabella M. Radhuber
 date: 2015-07-27T00:00:00
 policy_brief: true
@@ -21,7 +21,6 @@ afectada por las actuales políticas de compensación y consulta, ya que están 
 
 Se concluye que, en términos generales, los mecanismos de compensación y de consulta han contribuido a una situación en la que la oposición ante los proyectos extractivos se ve fuertemente marginalizada y debilitada.
 
-A partir de esta lectura crítica surge la recomendación de fortalecer a los grupos y las comunidades indígenas en los procesos de consulta o en otros mecanismos políticos; considerando la problemática que genera que la consulta sea llevada a cabo por el Ministerio de Hidrocarburos y Energía, que es un
-actor con un fuerte interés en los propios procesos extractivos.
+A partir de esta lectura crítica surge la recomendación de fortalecer a los grupos y las comunidades indígenas en los procesos de consulta o en otros mecanismos políticos; considerando la problemática que genera que la consulta sea llevada a cabo por el Ministerio de Hidrocarburos y Energía, que es un actor con un fuerte interés en los propios procesos extractivos.
 
 [Descargar el documento completo en pdf](http://www.iss.nl/uploads/media/2_Policy_brief_Bolivia_Rol_de_la_compensacion_y_consulta_09.pdf)
