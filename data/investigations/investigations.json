@@ -3,7 +3,6 @@
 {
   "investigations": [
     {% for investigation in site.investigations %}
-      {% if investigation.published %}
     {
       "title" : "{{ investigation.title }}",
       "description" : "{{ investigation.description }}",
@@ -11,9 +10,9 @@
       "author" : "{{ investigation.author }}",
       "link" : "{{ investigation.link }}",
       "url" : "{{ site.baseurl }}{{ investigation.url }}",
-      "policy_brief" : {{ investigation.policy_brief }}
+      "policy_brief" : {{ investigation.policy_brief }},
+      "published" : {{ investigation.published }}
     }{% if forloop.index < forloop.length %},{% endif%}
-      {% endif %}
     {% endfor %}
   ]
 }

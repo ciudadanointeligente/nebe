@@ -24,7 +24,7 @@ layout: page
       </div>
 
       <ul id="posts" class="list-unstyled">
-          <li ng-repeat="investigation in investigations | filter:searchInvestigations">
+          <li ng-repeat="investigation in investigations | filter:searchInvestigations" ng-if="investigation.published">
             <h5 class="post-title"><a href="[[ investigation.url ]]">[[ investigation.title ]]</a> <span ng-if="investigation.policy_brief" class="small label">policy brief</span></h5>
             <p class="small">[[ format_date(investigation.date) ]]</p>
             [[ investigation.description ]]
