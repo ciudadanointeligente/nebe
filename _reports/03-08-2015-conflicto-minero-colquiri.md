@@ -30,3 +30,5 @@ Otro elemento importante del análisis se relaciona con la ambigüedad en el man
 Un aspecto que pudo ser claramente percibido, es la improvisación y la falta de capacidad de las autoridades del Gobierno, para manejar el conflicto. Estas contradicciones y falta de claridad, generaron malestar entre las partes y nutrieron el conflicto.
 
 En ningún momento del conflicto, se manifestaron los aspectos ambientales en términos del cumplimiento de medidas de prevención, control, remediación, ya sea por COMIBOL, la empresa privada, menos en relación a la cooperativa, donde la situación ambiental, es en general más crítica.
+
+[Descarga el documento completo en pdf](http://lidema.org.bo/documentosPIMA/CONFLICTO%20Minero%20de%20%20COLQUIRI%20y%20ambiguedades%20de%20al%20nacionalizacion.pdf)
