@@ -36,9 +36,13 @@ El artículo analiza los costos de generación versus los beneficios que podría
 Además, si existen expectativas de que algo de la energía producida se quede en la región del norte de La Paz y el Beni -en caso de quedar un remanente para la población local- sería una energía más cara que la que actualmente pagan los vecinos de Rurrenabaque o San Buenaventura, tal como está ocurriendo en el río Madeira en el Brasil.
 
 Finalmente, se analizan los posibles efectos ambientales, sociales, culturales y económicos de este megaproyecto:
+
 * Si se construye esta megarepresa, con una altura cercana a los 150 metros en el estrecho denominado El Bala, formaría un reservorio de agua que inundaría de más de 200.000 hectáreas (2.000 Km2) en los valles del los ríos Beni, Tuichi, Hondo y Quiquibey, los cuales desaparecerían bajo el agua.
+
 * Más de doscientas familias indígenas y campesinas de dichas zonas, serían expulsadas de sus bosques y tierras tradicionales, las cuales quedarían bajo el agua, al final de cuentas, sería una forma de genocidio.
+
 * Todas las actividades de ecoturismo que se desarrollan, o podrían desarrollarse en dichas zonas, quedarían eliminadas, así como los demás emprendimientos sostenibles.
+
 * Aguas abajo, la represa impediría el flujo natural del río Beni, y si bien se reduciría el riesgo de inundaciones, la represa y la modificación del curso del río afectarían la dinámica reproductiva de los peces, con la posible desaparición del recurso y la actividad de pesca en los siguientes años, ocasionando un considerable daño económico a la región.
 
 Tomando en cuenta todas estas consideraciones, se concluye, ya sería hora de que el gobierno asuma el principio precautorio, el cual establece que se deben asumir decisiones responsables de paralizar o no aprobar un proyecto (aun cuando no existan información concluyente de su gravedad) que puede ocasionar daños devastadores e irreversibles.
