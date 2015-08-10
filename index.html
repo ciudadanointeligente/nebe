@@ -53,9 +53,7 @@ layout: default
                   <i class="fa fa-quote-left"></i> {{ post.quote | strip_html | truncatewords:85}} <i class="fa fa-quote-right"></i>
                 </h3>
                 <p class="small">
-                  {% if post.author %}
-                    {{ post.title }}{% endif %}, {% if post.author %}{{ post.author }}
-                  {% endif %}
+                  {{ post.title }}{% if post.author %}, {{ post.author }}{% endif %}
                 </p>
           <div class="text-right">
             <a href="{{ site.baseurl }}/investigations.html" class="btn btn-default">Ver todos las investigaciones</a>
