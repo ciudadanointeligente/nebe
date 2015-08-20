@@ -1,7 +1,7 @@
 ---
 layout: investigation
 highlighted: false
-published: false
+published: true
 title: 'MINERÍA EN TIERRAS BAJAS: LA GRAN ECOREGIÓN DE GUARAYOS, CHIQUITANÍA, CHACO  Y PANTANAL – (Síntesis)'
 description: Este documento analiza la situación actual y los potenciales escenarios por impactos de la minería en tierras bajas, utilizando un enfoque eco regional y enfocándose específicamente en la gran ecorregión de Guarayos, Chiquitanía, Chaco y Pantanal.
 date: 2015-08-18T00:00:00
