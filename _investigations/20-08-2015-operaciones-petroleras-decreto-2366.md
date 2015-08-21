@@ -1,10 +1,9 @@
 ---
-layout: report
+layout: investigation
 published: true
 highlighted: true
 title: 'Operaciones petroleras en áreas protegidas-Decreto 2366.'
-description: El artículo examina la insuficiencia de los instrumentos legales ambientales en Bolivia, analizando
-los reglamentos que rigen la protección de las áreas protegidas, así como las nuevas leyes y propuestas de leyes que podrían afectar a las áreas protegidas en el país, particularmente el Decreto 2366.
+description: El artículo examina la insuficiencia de los instrumentos legales ambientales en Bolivia, analizando los reglamentos que rigen la protección de las áreas protegidas, así como las nuevas leyes y propuestas de leyes que podrían afectar a las áreas protegidas en el país, particularmente el Decreto 2366.
 date: 2015-08-20T00:00:00
 author: Marco Octavio Ribera Arismendi, LIDEMA
 link: https://www.dropbox.com/s/qee13lgypfxg2ab/Operaciones%2Bpetroleras%2Ben%2BAPS%2B-%2BDecreto%2B2366%2B.pdf?dl=0
