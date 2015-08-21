@@ -6,7 +6,7 @@ title: 'Proveer desarrollo socioeconómico y preservar la naturaleza: identifica
 description: El artículo se enfoca en la cambiante relación entre el estado ecuatoriano y la sociedad civil, examinando la nueva Constitución y el Proyecto Yasuní-ITT.
 quote: 'la Constitución destaca la centralidad de las cosmovisiones de los pueblos indígenas y la centralidad de la naturaleza, como parte del horizonte
 creado en este proceso que se denomina post-neoliberal'
-date: 2015-08-0300:00:00
+date: 2015-08-03T00:00:00
 author: Isabella M. Radhuber
 link: http://www.iss.nl/uploads/media/5_Policy_brief_Ecuador_Contradicciones_del_rol_de_estado_ecuatoriano_09.pdf
 policy_brief: true

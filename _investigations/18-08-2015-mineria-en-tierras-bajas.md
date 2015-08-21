@@ -9,7 +9,7 @@ author: Marco Octavio Ribera Arismendi, LIDEMA
 link: https://drive.google.com/open?id=0Bx_nCBHnu6IHTEFYemYyaWc1QU0&authuser=1
 policy_brief: false
 chapters:
-  - title:'El Enfoque Eco regional'
+  - title: 'El Enfoque Eco regional'
     permalink: 'seccion-i'
   - title: 'Características ecológicas de la gran región'
     permalink: 'seccion-ii'
@@ -33,7 +33,7 @@ chapters:
     permalink: 'seccion xi'
   - title: 'Amplificadores del impacto y riesgo de la minería'
     permalink: 'seccion xii'
-  ---
+---
 <a name="seccion i"></a>
 
 <div class="page-header">
