@@ -1,7 +1,7 @@
 ---
 layout: report
 published: true
-highlighted: false
+highlighted: true
 title: 'Operaciones petroleras en áreas protegidas-Decreto 2366.'
 description: El artículo examina la insuficiencia de los instrumentos legales ambientales en Bolivia, analizando
 los reglamentos que rigen la protección de las áreas protegidas, así como las nuevas leyes y propuestas de leyes que podrían afectar a las áreas protegidas en el país, particularmente el Decreto 2366.
