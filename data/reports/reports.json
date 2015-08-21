@@ -6,6 +6,7 @@ layout: null
     	{% for report in site.reports %}
     		{% if report.title %}
         {
+            "published": {{ report.published }},
             "title": "{{ report.title }}",
             "description": "{{ report.description }}",
             "author": "{{ report.author }}",

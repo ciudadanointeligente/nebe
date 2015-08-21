@@ -22,7 +22,7 @@ layout: page
     </div>
 
     <ul id="posts" class="list-unstyled">
-      <li ng-repeat="report in reports | filter:searchDocs">
+      <li ng-repeat="report in reports | filter:searchDocs" ng-if="report.published">
         <h5 class="report-title"><a href="[[ report.permalink ]]">[[ report.title ]]</a></h5>
         <p class="small">[[ format_date(report.published_at) | date:"dd 'de' MMMM, yyyy" ]]</p>
         [[ report.description ]]
