@@ -13,7 +13,7 @@ chapters:
 <div class="pull-right">
   <div class="img-content">
   <img alt="Morales-Correa" class="img-responsive" src="http://i.imgur.com/ha1wLcc.png">
-  <p>atributos: FOTO: Cancillería del Ecuador</p>
+  <p>Crédito_foto: Cancillería del Ecuador</p>
   </div>
 </div>
 Desde la elección de los líderes de tendencia izquierdista Morales en Bolivia y Correa en Ecuador, se han producido cambios muy controvertidos respecto al papel del Estado en las industrias extractivas de estos países. Si bien el contenido de estos cambios es diferente y se ha manifestado en diferentes escalas de tiempo y enfoques políticos, caen dentro del contexto de la rúbrica equívoca y políticamente cargada de la "nacionalización". En ambos países, el lugar que ocupan las industrias extractivas en el desarrollo socioeconómico ha sido reconocido como fundamental para comprender la naturaleza de los cambios en curso.
