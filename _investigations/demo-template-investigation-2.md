@@ -2,9 +2,9 @@
 layout: investigation
 highlighted: false
 published: false
-title: 'SITUACION DEL CONFLICTO PETROLERO EN EL NORTE DE LA PAZ - BLOQUE LIQUIMUNI'
-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-date: 2015-01-31T00:00:00
+title: 'MINERÍA EN TIERRAS BAJAS: LA GRAN ECOREGIÓN DE GUARAYOS, CHIQUITANÍA, CHACO  Y PANTANAL – (Síntesis)'
+description: Este documento analiza la situación actual y los potenciales escenarios por impactos de la minería en tierras bajas, utilizando un enfoque eco regional y enfocándose específicamente en la gran ecorregión de Guarayos, Chiquitanía, Chaco  y Pantanal.
+date: 2015-08-18T00:00:00
 author: Marco Octavio Ribera Arismendi, LIDEMA
 link: https://drive.google.com/open?id=0Bx_nCBHnu6IHTEFYemYyaWc1QU0&authuser=1
 policy_brief: false

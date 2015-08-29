@@ -6,6 +6,7 @@ title: 'El conflicto minero de Colquiri y las ambiguedades de la nacionalizació
 description: 'El reporte analiza el conflicto generado entre el estado boliviano, empresas privadas, mineros asalariados y mineros cooperativistas a raiz de la intención de nacionalizar la explotación minera del  estaño y zinc en la mina Colquiri.'
 author: Marco Octavio Ribera Arismendi, LIDEMA
 published_at: 2015-08-03T00:00:00
+created_at: septiembre 2012
 country: Bolivia
 main_image: "/img/monitor-1.png"
 lat: -17.386968
