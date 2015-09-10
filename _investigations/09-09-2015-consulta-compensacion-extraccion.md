@@ -1,6 +1,6 @@
 ---
 layout: investigation
-highlighted: true
+highlighted: false
 published: true
 title: 'Consulta, Compensación y Extracción en Bolivia después del 'giro a la izquierda': el caso de exploración de petróleo en el Norte del Departamento de La Paz (Resumen)'
 description: Este documento analiza un proyecto de exploración petrolera que tuvo lugar en el norte del departamento de La Paz. En particular, nos enfocamos en cómo los marcos de compensación y consulta debilitaron la oposición al proyecto.
