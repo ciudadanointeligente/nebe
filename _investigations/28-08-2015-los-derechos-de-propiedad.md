@@ -2,7 +2,7 @@
 layout: investigation
 highlighted: true
 published: true
-title: 'Los derechos de propiedad, la nacionalización y las industrias extractivas en Bolivia y Ecuador – (Síntesis)'
+title: 'Los derechos de propiedad, la nacionalización y las industrias extractivas en Bolivia y Ecuador (Resumen)'
 description: Desde la elección de los líderes de tendencia izquierdista Morales en Bolivia y Correa en Ecuador, se han producido cambios muy controvertidos respecto al papel del Estado en las industrias extractivas de estos países.
 date: 2015-08-28T00:00:00
 author: M. Arsel, C. Mena, L. Pellegrini, I. Radhuber, ISS / HIVOS / USFQ

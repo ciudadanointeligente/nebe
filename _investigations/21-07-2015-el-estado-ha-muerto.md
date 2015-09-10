@@ -2,7 +2,7 @@
 layout: investigation
 highlighted: true
 published: true
-title: 'El Estado ha muerto, Viva el Estado: Reinsertando al Estado en la industria extractiva de oro en Zamora-Chinchipe, Ecuador'
+title: 'El Estado ha muerto, Viva el Estado: Reinsertando al Estado en la industria extractiva de oro en Zamora-Chinchipe, Ecuador (Resumen)'
 description: En este artículo, se analiza cómo la historia influye en el intento del régimen neo desarrollista de Ecuador en la regulación de la minería, realizando un análisis crítico de los marcos regulatorios neoliberales en comparación con el post-neoliberal. Además, se argumenta que las políticas post-neoliberales erróneamente aumentan la presencia del Estado en la economía como un sustituto a una regulación efectiva
 quote: 'la minería de fiebre del oro aporta la prueba del colapso del Estado bajo el paradigma neoliberal'
 date: 2015-07-21T00:00:00

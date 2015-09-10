@@ -2,7 +2,7 @@
 layout: report
 published: true
 highlighted: false
-title: 'Megapesadilla - las megarepresas en el río Beni - Síntesis'
+title: 'Megapesadilla - las megarepresas en el río Beni (Resumen)'
 description: 'El reporte examina detalladamente el proyecto hidroeléctrico El Bala, su origen, posibles impactos socioambientales y económicos, y da cuenta de la posición adoptada por las comunidades que se verían afectadas por la construcción de la megarepresa.'
 author: Marco Octavio Ribera Arismendi, LIDEMA
 published_at: 2015-08-06T00:00:00

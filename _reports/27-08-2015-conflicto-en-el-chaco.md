@@ -2,7 +2,7 @@
 layout: report
 published: true
 highlighted: false
-title: 'Conflicto en el Chaco por  el decreto 2366 y división de la APG (Síntesis)'
+title: 'Conflicto en el Chaco por  el decreto 2366 y división de la APG (Resumen)'
 description: 'En este reporte, el autor muestra las implicancias de la aplicación del Decreto 2366 relativo a la explotación petrolera en áreas silvestres protegidas.'
 author: Marco Octavio Ribera Arismendi - LIDEMA
 published_at: 2015-08-27T00:00:00
