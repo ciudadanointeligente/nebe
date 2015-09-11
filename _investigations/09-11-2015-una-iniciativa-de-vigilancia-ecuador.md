@@ -18,4 +18,4 @@ Este programa se centra en la formación de miembros de la comunidad sobre como 
 
 Los procesos anteriores fueron pensados como una herramienta para el empoderamiento de las comunidades.
 
-<b><em>El documento original completo estará disponible para descarga próximamente.</b></em>
+<em>El documento original completo estará disponible para descarga próximamente.</em>
