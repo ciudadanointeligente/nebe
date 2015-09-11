@@ -2,7 +2,7 @@
 layout: investigation
 highlighted: false
 published: true
-title: 'Una iniciativa de vigilancia ambiental basada en la comunidad como una forma de empoderamiento de las personas a través de los conocimientos y de la validación de datos (Síntesis)'
+title: 'Una iniciativa de vigilancia ambiental basada en la comunidad como una forma de empoderamiento de las personas a través de los conocimientos y de la validación de datos (Resumen)'
 description: En este trabajo se hace hincapié en la importancia y los desafíos de la participación comunitaria en programas de monitoreo ambiental destinados a que las personas y comunidades tomen consciencia de la calidad del medio ambiente a través de la mejora de la educación.
 date: 2015-09-11T00:00:00
 author: Alexandra Guevara, Carolina Sampedro, Carlos Mena, USFQ
