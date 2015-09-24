@@ -1,14 +1,15 @@
 ---
+---
 layout: blog
-title: 'MEMORIA DEL FORO “RECURSOS NATURALES Y DERECHOS INDÍGENAS: VIEJOS Y NUEVOS CONFLICTOS ECO-TERRITORIALES” (RESUMEN)'
+title: 'MEMORIA DEL FORO “RECURSOS NATURALES Y DERECHOS INDÍGENAS: VIEJOS Y NUEVOS CONFLICTOS ECO-TERRITORIALES” (RESUMEN)''
 description: "Taller organizado en el marco del proyecto Nacionalización de la Extracción en Bolivia y Ecuador (NEBE), el 3 y 4 de octubre de 2012."
 image: //placehold.it/360x255
 date: 2003-01-01
 categories:
-  - reportajes
+  - noticias
   - blog
 tags: destacado
-author: Proyecto NEBE
+author:
 ---
 
 El Foro *“Recursos naturales y derechos indígenas: viejos y nuevos
@@ -68,4 +69,4 @@ poca efectividad de las medidas de mitigación de las  empresas y las
 malas prácticas de los gobiernos para acallar las protestas y  dividir
 las organizaciones.
 
-[Descargar el documento completo en pdf](https://www.dropbox.com/s/0f2y93n24s0dyre/Foro_Derechos_Indigenas_y_Recursos_Naturales_Memoria_original.pdf?dl=0)
+[Descargar el documento completo en pdf](http://proyecto-nebe.org/upload/books/116/Foro_Derechos_Indigenas_y_Recursos_Naturales_Memoria_original.pdf)
