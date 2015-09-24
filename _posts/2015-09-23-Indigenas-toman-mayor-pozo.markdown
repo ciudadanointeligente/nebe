@@ -24,7 +24,7 @@ El gobierno peruano firmó recientemente un contrato por dos años con la filial
 
 Un comunicado del Ministerio de Energía y Minas convocó a los representantes de las Comunidades de la Cuenca del río Corrientes y Pastaza a una mesa de trabajo. (El País)
 
-Este contenido sido publicado originalmente por [ERBOL](http://www.erbol.com.bo/noticia/indigenas/14092015/indigenas_toman_mayor_pozo_petrolero) el 14 de septiembre de 2015. Foto: [lamula.pe](https://consultape.lamula.pe/2015/09/17/pronunciamiento-al-5to-dia-de-movilizacion-pacifica-de-los-pueblos-achuar-y-quechua-del-corrientes-y-pastaza-junto-a-cuatro-comunidades-kichwas-frente-al-lote-192-ex-1ab/consultape/)
+Este contenido sido publicado originalmente por [ERBOL](http://www.erbol.com.bo/noticia/indigenas/14092015/indigenas_toman_mayor_pozo_petrolero) el 14 de septiembre de 2015. <b>Foto</b>: [lamula.pe](https://consultape.lamula.pe/2015/09/17/pronunciamiento-al-5to-dia-de-movilizacion-pacifica-de-los-pueblos-achuar-y-quechua-del-corrientes-y-pastaza-junto-a-cuatro-comunidades-kichwas-frente-al-lote-192-ex-1ab/consultape/)
 
 <span class="label label-default">Zona</span> Amazonia peruana.
 
