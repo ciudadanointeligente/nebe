@@ -5,7 +5,7 @@ description: "Taller organizado en el marco del proyecto Nacionalización de la 
 image: //placehold.it/360x255
 date: 2015-07-20
 categories:
-  - noticias
+  - reportajes
   - blog
 tags: destacado
 author: Proyecto NEBE
