@@ -1,5 +1,5 @@
 # site settings
-title: NEBE
+title: ARKAK
 email: 'contacto@nebe.org'
 description: 'NEBE es un proyecto desarrollado por el ISS e Hivos de Holanda, Lidema de Bolivia y la Universidad San Francisco de Quito de Ecuador que se propone de estudiar los impactos de la nacionalización sobre los conflictos y la cooperación alrededor de las actividades extractivas en Bolivia y Ecuador.'
 baseurl: '//nebe.ciudadanoi.org' #the subpath of your site, e.g. /blog/
@@ -14,7 +14,9 @@ markdown: kramdown
 
 # main page
 header:
-  txt: 'Proyecto NEBE'
+  txt: 'ARKAK SACHA'
+  welcome: '¡Bienvenidos al sitio web de ARKAK SACHA (Protector del Bosque)! Buscamos ser una herramienta que integre experiencias, herramientas e información útil para el trabajo que las comunidades hacen en términos de monitoreo socio ambiental en relación con las industrias extractivas. Para ello, difundimos los hallazgos de los estudios realizados en el marco del proyecto NEBE y los reportes de las propias comunidades, así como noticias y opiniones relacionadas con los conflictos entre comunidades y extractivismo. ¿Cómo nace NEBE? Desde el año 2011 el Instituto Internacional de Estudios Sociales de la Universidad Erasmus de Rotterdam (ISS/EUR) e HIVOS de Holanda, la Liga de Defensa del Medio Ambiente LIDEMA (Bolivia) y la Universidad San Francisco de Quito USFQ (Ecuador), a través del proyecto NEBE (Nacionalización de la Extracción en Bolivia y Ecuador) estudian los impactos, conflictos y cooperación que existen en torno a los recursos naturales en Bolivia y Ecuador. El proyecto cuenta con el apoyo de la Organización Holandesa de Investigación Científica - Programa de Investigación “Ciencia por el Desarrollo Global” (NWO/WOTRO) a través de un sub programa de conocimiento, investigación e innovación sobre el tema de Conflicto y Cooperación sobre Recursos Naturales en países en desarrollo [CoCooN por sus siglas en inglés). A partir del año 2014 se incorpora Perú en el proyecto y se amplían las áreas de investigación y acción.
+Esperamos que ARKAK SACHA sea el lugar donde ustedes encuentren herramientas y apoyo para el fortalecimiento de los sistemas de monitoreo socio ambiental indígena, así como la defensa e incidencia que las organizaciones realizan a nivel nacional, regional y global. No duden en contactarnos con sus preguntas o sugerencias.'
   slide: ['/img/home01.jpg','/img/home02.jpg','//i.imgur.com/jXh99iH.jpg']
 
 # reports
