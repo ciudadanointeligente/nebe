@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "Organizaciones indígenas se solidarizan y respaldan movilizaciones Achuar y Kichwa con relación al Lote 192"
-description: "La Organización Regional de los Pueblos Indígenas de la Amazonía Norte del Perú (ORPIAN-P) y el Consejo Machiguenga del Río Urubamba (COMARU) manifiestan en sendos comunicados su solidaridad y respaldo a las movilizaciones de los pueblos Achuar y Kichwa en torno al Lote 192.."
+description: "La Organización Regional de los Pueblos Indígenas de la Amazonía Norte del Perú (ORPIAN-P) y el Consejo Machiguenga del Río Urubamba (COMARU) manifiestan en sendos comunicados su solidaridad y respaldo a las movilizaciones de los pueblos Achuar y Kichwa en torno al Lote 192."
 image: http://i.imgur.com/vDkbJ3t.png
 date: 2015-09-24
 categories:

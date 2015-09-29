@@ -26,7 +26,7 @@ Por su parte, Pablo Fajardo, abogado de los demandantes, explicó que la resoluc
 
 Asimismo, Fajardo resaltó que en Canadá, Chevron mantiene activos más de 15 mil millones de dólares, lo que permitiría restaurar una de las zonas de mayor importancia para el equilibrio del ecosistema mundial.
 
-Este contenido sido publicado originalmente por [teleSUR](http://www.telesurtv.net/news/Corte-Suprema-de-Canada-falla-contra-Chevron-por-caso-en-Ecuador-20150904-0024.html)
+Fuente: [teleSUR](http://www.telesurtv.net/news/Corte-Suprema-de-Canada-falla-contra-Chevron-por-caso-en-Ecuador-20150904-0024.html)
 
 <span class="label label-default">Zona</span> Amazonia ecuatoriana.
 
