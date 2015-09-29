@@ -2,7 +2,7 @@
 layout: blog
 title: "Un Paso Más: Pueblos Indígenas hacen respetar su agenda frente al gobierno sobre el Lote 192"
 description: "Las comunidades indígenas movilizadas desde hace 15 días firmaron un acuerdo con el Gobierno y decidieron levantar su medida de lucha con dos condiciones."
-image: http://i.imgur.com/g1uIFMN.png
+image: http://i.imgur.com/E8q8gWV.png
 date: 2015-09-29
 categories:
   - noticias
