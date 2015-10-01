@@ -4,9 +4,7 @@ title: "Trámite de licencia ambiental para el Proyecto de Sísmica 3D Bloque XX
 description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat"
 image: //placehold.it/360x255
 date: 2003-01-01
-categories: 
-  - noticias
-  - blog
+categories:
 tags: destacado
 author: Marco Octavio Ribera Arismendi
 ---
