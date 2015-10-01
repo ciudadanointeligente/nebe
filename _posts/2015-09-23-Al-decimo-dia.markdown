@@ -6,6 +6,7 @@ image: http://i.imgur.com/MikLRjd.png
 date: 2015-09-24
 categories:
   - reportajes
+  - blog
 tags: destacado
 author: Mario Zúñiga, Tami Okamoto y Peter Rodríguez
 ---
