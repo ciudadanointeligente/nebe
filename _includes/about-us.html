@@ -1,16 +1,18 @@
 <div class="row">
   {% assign count = 0 %}
-  {% for comunity in site.comunities %}
-    {% if comunity.published %}
+  {% for community in site.communities %}
+    {% if community.published %}
       {% assign mod = count | modulo:3 %}
       {% if mod == 0 %}
         </div><div class="row">
       {% endif %}
   <div class="col-md-4">
-    <img src="//api.tiles.mapbox.com/v4/{{ site.mapbox.map }}/geojson(%7B%22type%22%3A%22Feature%22%2C%22properties%22%3A%7B%22stroke-width%22%3A4%2C%22stroke%22%3A%22%23ff4444%22%2C%22stroke-opacity%22%3A0.5%7D%2C%22geometry%22%3A%7B%22type%22%3A%22LineString%22%2C%22coordinates%22%3A%5B{{ comunity.polygon | cgi_escape }}%5D%7D%7D)/{{ comunity.lat-lng }},7/400x300.png?access_token={{ site.mapbox.token }}" class="img-responsive">
+    {% if community.website %}<a href="{{ community.website }}" target="_blank">{% endif %}
+    {% if community.image %}<img class="img-responsive" src="{{ community.image }}"></img>{% endif %}
+    {% if community.website %}</a>{% endif %}
     <div>
-      <h4>{{ comunity.name }}</h4>
-      <p>{{ comunity.description }}</p>
+      <h4>{{ community.name }}</h4>
+      <p>{{ community.description }}</p>
     </div>
   </div>
       {% assign count=count | plus:1 %}

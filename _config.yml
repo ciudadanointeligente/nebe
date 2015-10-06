@@ -47,7 +47,7 @@ collections:
     output: true
   investigations:
     output: true
-  comunities:
+  communities:
     output: true
   chronologies:
     output: true
