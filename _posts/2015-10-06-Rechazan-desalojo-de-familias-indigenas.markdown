@@ -26,7 +26,7 @@ Asimismo, pide al Estado canadiense a asegurarse “que las empresas registradas
 <b>El "desalojo”</b>
 
 <div class="pull-left img-content">
-  <img alt="Figura 1" class="img-responsive" src="http://i.imgur.com/MMYp9uj.png">
+  <img alt="Figura 1" class="img-responsive" src="http://i.imgur.com/RNAb2wa.png">
 </div>
 Los hechos se remontan al 30 de setiembre, en la parroquia Tundayme, cantón El Pangui, cuando 135 efectivos policiales antimotines ingresaron a la zona custodiando la maquinaria pesada que se usó para derribar las viviendas de las familias, todas ellas de nacionalidad Shuar.
 Uno de los primeros que informó sobre lo sucedido, fue Salvador Quishpe, prefecto de Zamora Chinchipe, cuando se encontraba camino al lugar ante la alerta por lo ocurrido.
