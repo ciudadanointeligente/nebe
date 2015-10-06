@@ -1,8 +1,10 @@
 ---
 ---
 [
+  {% assign cnt = 0 %}
   {% for report in site.reports %}
       {% if report.published %}
+      {% if cnt > 0 %},{% endif %}
   {
     "type": "Feature",
     "geometry": {
@@ -15,7 +17,8 @@
       "marker-color": "#DA7B25",
       "marker-size": "large"
     }
-  }{% if forloop.index < forloop.length %},{% endif%}
+  }
+      {% assign cnt=cnt | plus:1 %}
     {% endif%}
     {% endfor %}
 ]
