@@ -1,0 +1,29 @@
+---
+layout: blog
+title: "Andoas: Guerra y paz"
+description: "La decisión consensuada del pueblo Achuar y Quechua de la cuenca del río Corrientes y Pastaza que dio inicio a la última protesta pacífica que paralizó la producción de petróleo del lote 192 –70 mil barriles perdidos equivalente a 3,2 millones de dólares– durante 15 días, ha dado vida a la legendaria filosofía indígena de paz y guerra."
+image: http://i.imgur.com/jRzs2v7.png
+categories:
+  - blog
+tags: destacado
+author: Jorge Pérez Rubio*
+link: http://servindi.org/actualidad/140422#more-140422
+---
+
+Servindi, 30 de setiembre, 2015.- Los pueblos indígenas han heredado y practicado milenariamente la virtud de resolver las diferencias internas y con los pueblos vecinos a través del diálogo. El poder espiritual de las plantas medicinales como el tabaco, coca, toé y ayahuasca han hecho posible la transición de escenarios hostiles hacia prolongados periodos de entendimiento y construcción del bienestar común, a cuestas de líderes probos y con capacidades extraordinarias de hacer, como por ejemplo, que la abundancia de alimentos y razones cotidianas de vivir bien constituya el sino de una promisoria civilización amazónica.
+
+No obstante, se han librado innumerables y fatídicas guerras tradicionales entre pueblos indígenas originados por el desborde de la acción humana sobre la pertenencia territorial o por causa de una muerte espeluznante y cruel –sin haber quebrantado muchas veces la víctima el código de convivencia que el valor de la palabra ha encumbrado desde tiempos remotos– que uno hubiera perpetrado contra el miembro de otro territorio.
+
+La decisión consensuada del pueblo Achuar y Quechua de la cuenca del río Corrientes y Pastaza que dio inicio a la última protesta pacífica que paralizó la producción de petróleo del lote 192 –70 mil barriles perdidos equivalente a 3,2 millones de dólares– durante 15 días, ha dado vida a la legendaria filosofía indígena de paz y guerra.
+
+Líderes, lideresas, niños, jóvenes y ancianos –bajo la sombra hospitalaria de los árboles del Pastaza y sobre la pista tomada del aeródromo de Andoas– en momentos pertinentes hacían sensatas evaluaciones de los hechos, contingencias y desafíos de la jornada de protesta. Hacían remembranza e inculcaban a la lealtad de la regla de convivencia en momentos donde la vida pendía de una maniobra del gobierno peruano –más de medio centenar de agentes de la DINOES fuertemente armados habían llegado a la zona– y de la salvaguarda de la infraestructura pública y privada.
+
+Los pueblos indígenas Achuar y Quechua que se habían movilizado en el lote 192 para exigir al gobierno una real apertura de diálogo y consenso para la atención concreta de las justas e históricas demandas, tenían claro que se estaba desarrollando una guerra contra la arrogancia, indiferencia lacerante, prejuicios urbanos, codicia criminal y contra el atasco aposta del Estado orientado a la asfixia de la agenda y de la capacidad de los pueblos indígenas de resistir la inducida fragmentación organizativa, la devastación del empobrecimiento, hacer visible los daños tapados, enfatizar en la remediación y compensaciones sociales y denunciar los graves impactos ambientales y sociales ocasionado por la actividad petrolera en los últimos 45 años. La guerra contra la desigualdad y el bienestar asociado con la paz ha sido defendida en la figura de un horizonte sagrado.
+
+La claridad del realismo de la paz y bienestar que los pueblos indígenas sostienen en el lote 192 no está relacionado con el periodo post petrolero. El próximo periodo –libre de petróleo mal llevado– es concebido como una sucesión de momentos difíciles caracterizado por el incremento de la pobreza intrínsecamente vinculado con el hambre. La base de la seguridad alimentaria estropeada por la contaminación es actualmente el mayor peligro en curso y que no forma parte de ninguna iniciativa destinada a llevar adelante acciones definidas que permita remontar en un tiempo planificado la bulimia causado por el boom petrolero. Habrá importantes infraestructuras sociales –después de 75 años de irresponsable actividad petrolera– al servicio de gente hambrienta si desde la comunidad y las organizaciones indígenas no inician desde ahora el desarrollo de un proyecto alternativo y sostenible.
+
+Durante el diálogo –realizado en Andoas entre líderes indígenas y funcionarios del Estado que estuvo liderado por el ministro Von Hesse el pasado 24 de septiembre en el fuerte militar Tnte. López– se han dado mensajes mutuos de trascendental contenido que pusieron en alto relieve la imposibilidad de lograr la paz y el bienestar mientras la brecha de la extrema pobreza avance aritméticamente, mientras perdure en la sangre del Estado el virus del olvido, el desentendimiento, el engaño respecto de la inclusión de los derechos colectivos en la política pública. Por ejemplo, el Apu de FEDIQUEP dijo que si no hubiéramos paralizado la producción de petróleo en el lote 192 no hubieran acudido al pedido de diálogo. Este mensaje trae a la memoria las palabras de Saramago: “pues desde la aurora del mundo siempre los incendios atrajeron a los hombres”.
+
+Como abejas alrededor de una flor facundia de polen se mueven personas y empresas en el lote 192, de esta rebatiña los pueblos indígenas Achuar y Quechua del Corrientes y Pastaza deberán lograr, al final, un granero a pruebas de cualquier adversa coyuntura o del espectro de otra guerra.
+
+<b>*Jorge Pérez Rubio</b> es indígena del pueblo Murui (Huitoto) y desde julio de 2014 preside la Organización Nacional de Pueblos Indígenas del Oriente (ORPIO), base regional de la Asociación Interétnica de Desarrollo de la Selva Peruana (AIDESEP). [Blog personal](http://irapay.blogspot.com)
