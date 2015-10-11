@@ -1,7 +1,8 @@
 ---
 layout: page
 ---
-<script src="/js/controllers.js"></script>
+<script src="{{ site.baseurl }}/js/controllers.js"></script>
+<script src="{{ site.baseurl }}/js/dirPagination.js"></script>
 
 <section id="chronologies" ng-app="arkakApp">
   <div class="docs-img">
@@ -9,31 +10,30 @@ layout: page
   </div>
   <div class="container" ng-controller="ChronologiesCtrl">
     
-      <div class="row">
-        <div class="col-md-7">
-          <h2>Cronologías de conflictos</h2>
-        </div>
-        <div class="col-md-5">
-          <div class="input-group">
-            <input type="text" class="form-control" placeholder="Buscar cronología" ng-model="searchChronologies">
-            <span class="input-group-btn">
-              <button class="btn btn-primary" type="button"><i class="fa fa-search"></i></button>
-            </span>
-          </div><!-- /input-group -->
-        </div><!-- /.col-lg-6 -->
+    <div class="row">
+      <div class="col-md-7">
+        <h2>Cronologías de conflictos</h2>
       </div>
+      <div class="col-md-5">
+        <div class="input-group">
+          <input type="text" class="form-control" placeholder="Buscar cronología" ng-model="searchChronologies">
+          <span class="input-group-btn">
+            <button class="btn btn-primary" type="button"><i class="fa fa-search"></i></button>
+          </span>
+        </div><!-- /input-group -->
+      </div><!-- /.col-lg-6 -->
+    </div>
 
-      <div class="row">
-        <div class="col-md-12">
-          <ul id="news" class="list-unstyled">
-              <li ng-repeat="chronology in chronologies | filter:searchChronologies">
-                <h5 class="report-title"><a href="[[ chronology.permalink ]]">[[ chronology.title ]]</a></h5> 
-                <p class="small">[[ format_date(chronology.date) | date:"dd 'de' MMMM, yyyy" ]]</p>
-                <p>[[ chronology.description ]]</p>
-                <p class="small text-right">&nbsp;</p>
-              </li>
-          </ul>
-        </div>
-      </div>
+    <ul id="news" class="list-unstyled">
+      <li dir-paginate="chronology in chronologies | filter:searchChronologies | itemsPerPage: {{ site.itemsPerPage }}">
+        <h5 class="report-title"><a href="[[ chronology.permalink ]]">[[ chronology.title ]]</a></h5> 
+        <p class="small">[[ format_date(chronology.date) | date:"dd 'de' MMMM, yyyy" ]]</p>
+        <p>[[ chronology.description ]]</p>
+        <p class="small text-right">&nbsp;</p>
+      </li>
+    </ul>
+
+    <dir-pagination-controls template-url="js/dirPagination.tpl.html"></dir-pagination-controls>
+
   </div>
 </section>

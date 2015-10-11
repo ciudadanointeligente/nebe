@@ -1,4 +1,4 @@
-var arkakApp = angular.module('arkakApp', [], function($interpolateProvider) {
+var arkakApp = angular.module('arkakApp', ['angularUtils.directives.dirPagination'], function($interpolateProvider) {
   $interpolateProvider.startSymbol('[[');
   $interpolateProvider.endSymbol(']]');
 });

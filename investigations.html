@@ -1,7 +1,8 @@
 ---
 layout: page
 ---
-<script src="/js/controllers.js"></script>
+<script src="{{ site.baseurl }}/js/controllers.js"></script>
+<script src="{{ site.baseurl }}/js/dirPagination.js"></script>
 
 <section id="documents" ng-app="arkakApp">
   <div class="docs-img">
@@ -24,13 +25,15 @@ layout: page
       </div>
 
       <ul id="posts" class="list-unstyled">
-          <li ng-repeat="investigation in investigations | filter:searchInvestigations" ng-if="investigation.published">
-            <h5 class="post-title"><a href="[[ investigation.url ]]">[[ investigation.title ]]</a> <span ng-if="investigation.policy_brief" class="small label">policy brief</span></h5>
-            <p class="small">[[ format_date(investigation.date) ]]</p>
-            [[ investigation.description ]]
-            <p class="small text-right"><a href="[[ investigation.link ]]" target="_blank"><i class="fa fa-download"></i></a> [[ investigation.author ]]</p>
-          </li>
+        <li dir-paginate="investigation in investigations | filter:searchInvestigations | itemsPerPage: {{ site.itemsPerPage }}">
+          <h5 class="post-title"><a href="[[ investigation.url ]]">[[ investigation.title ]]</a> <span ng-if="investigation.policy_brief" class="small label">policy brief</span></h5>
+          <p class="small">[[ format_date(investigation.date) ]]</p>
+          [[ investigation.description ]]
+          <p class="small text-right"><a href="[[ investigation.link ]]" target="_blank"><i class="fa fa-download"></i></a> [[ investigation.author ]]</p>
+        </li>
       </ul>
+
+      <dir-pagination-controls template-url="js/dirPagination.tpl.html"></dir-pagination-controls>
 
   </div>
 </section>

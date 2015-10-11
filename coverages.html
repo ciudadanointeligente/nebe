@@ -1,7 +1,8 @@
 ---
 layout: page
 ---
-<script src="/js/controllers.js"></script>
+<script src="{{ site.baseurl }}/js/controllers.js"></script>
+<script src="{{ site.baseurl }}/js/dirPagination.js"></script>
 
 <section id="news" ng-app="arkakApp">
   <div class="docs-img">
@@ -23,18 +24,16 @@ layout: page
         </div><!-- /.col-lg-6 -->
       </div>
 
-      <div class="row">
-        <div class="col-md-12">
-          <ul id="coverages" class="list-unstyled">
-              <li ng-repeat="coverage in coverages | filter:searchCoverage">
-                <h5 class="report-title"><a href="[[ coverage.permalink ]]">[[ coverage.title ]]</a></h5>
-                <p class="small">[[ format_date(coverage.date) | date:"dd 'de' MMMM, yyyy" ]]</p>
-                <p>[[ coverage.description ]]</p>
-                <p class="small text-right">&nbsp;</p>
-              </li>
-          </ul>
-        </div>
-      </div>
+      <ul id="coverages" class="list-unstyled">
+        <li dir-paginate="coverage in coverages | filter:searchCoverage | itemsPerPage: {{ site.itemsPerPage }}">
+          <h5 class="report-title"><a href="[[ coverage.permalink ]]">[[ coverage.title ]]</a></h5>
+          <p class="small">[[ format_date(coverage.date) | date:"dd 'de' MMMM, yyyy" ]]</p>
+          <p>[[ coverage.description ]]</p>
+          <p class="small text-right">&nbsp;</p>
+        </li>
+      </ul>
+
+      <dir-pagination-controls template-url="js/dirPagination.tpl.html"></dir-pagination-controls>
 
   </div>
 </section>

@@ -12,6 +12,9 @@ google_analytics: 'UA-60671039-1'
 # build settings
 markdown: kramdown
 
+#pagination
+itemsPerPage: 5
+
 # main page
 header:
   txt: 'ARKAK SACHA'
