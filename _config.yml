@@ -56,3 +56,6 @@ collections:
     output: true
   news:
     output: true
+
+# blog
+disqus_shortname: 'arkak-sacha'
