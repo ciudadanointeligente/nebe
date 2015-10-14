@@ -59,3 +59,6 @@ collections:
 
 # blog
 disqus_shortname: 'arkak-sacha'
+
+# newsletter
+subscribe_form: '//docs.google.com/a/votainteligente.cl/forms/d/1HgaTV6PpTDVcGv12J8eCR1pylTQGcgnOnOfFY9VNdCQ/viewform'
