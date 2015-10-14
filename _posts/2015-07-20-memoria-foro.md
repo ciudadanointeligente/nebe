@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: 'MEMORIA DEL FORO “RECURSOS NATURALES Y DERECHOS INDÍGENAS: VIEJOS Y NUEVOS CONFLICTOS ECO-TERRITORIALES” (RESUMEN)'
+title: "MEMORIA DEL FORO 'RECURSOS NATURALES Y DERECHOS INDÍGENAS: VIEJOS Y NUEVOS CONFLICTOS ECO-TERRITORIALES' (RESUMEN)"
 description: "Taller organizado en el marco del proyecto Nacionalización de la Extracción en Bolivia y Ecuador (NEBE), el 3 y 4 de octubre de 2012."
 image: http://i.imgur.com/objXXdU.png
 date: 2015-07-20

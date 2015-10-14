@@ -1,11 +1,10 @@
 ---
 layout: blog
 title: "La extracción de minerales e hidrocarburos afecta a 200 pueblos indígenas latinoamericanos"
-description: 'La directora general de estudios socio demográficos y perspectiva de la Comisión Económica para América Latina y el Caribe (CEPAL), María de la Cruz Murada Troitiño, dijo que "lo que si hemos percibido también es un crecimiento en la criminalización". "Es necesario entender que no van en contra del desarrollo. Hay tensiones y no podemos negar, pero si podemos recobrar los estándares de pueblos indígenas", agregó.'
+description: "La directora general de estudios socio demográficos y perspectiva de la Comisión Económica para América Latina y el Caribe (CEPAL), María de la Cruz Murada Troitiño, dijo que 'lo que si hemos percibido también es un crecimiento en la criminalización'. 'Es necesario entender que no van en contra del desarrollo. Hay tensiones y no podemos negar, pero si podemos recobrar los estándares de pueblos indígenas', agregó."
 image: http://i.imgur.com/JqIFnPJ.png
 date: 2015-10-13
-categories:
-  -reportajes
+categories: reportajes
 tags: destacado
 author: XinHua
 link: http://www.americaeconomia.com/negocios-industrias/extraccion-de-minerales-e-hidrocarburos-afecta-200-pueblos-indigenas-latinoameri
