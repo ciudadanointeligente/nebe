@@ -3,8 +3,7 @@ layout: blog
 title: "Andoas: Guerra y paz"
 description: "La decisión consensuada del pueblo Achuar y Quechua de la cuenca del río Corrientes y Pastaza que dio inicio a la última protesta pacífica que paralizó la producción de petróleo del lote 192 –70 mil barriles perdidos equivalente a 3,2 millones de dólares– durante 15 días, ha dado vida a la legendaria filosofía indígena de paz y guerra."
 image: http://i.imgur.com/jRzs2v7.png
-categories:
-  - blog
+categories: blog
 tags: destacado
 author: Jorge Pérez Rubio*
 link: http://servindi.org/actualidad/140422#more-140422

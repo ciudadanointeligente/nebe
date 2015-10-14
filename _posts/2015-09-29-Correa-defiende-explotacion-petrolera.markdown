@@ -4,8 +4,7 @@ title: "El Presidente Rafael Correa defiende la explotación petrolera en la Ama
 description: "Agencia AFP-Naciones Unidas, Estados Unidos. Correa defendió ante la ONU la explotación de petróleo en la Amazonía ecuatoriana, pero expresó apego a los objetivos de la próxima cumbre contra el cambio climático."
 image: http://i.imgur.com/NGu4ykw.png
 date: 2015-09-29
-categories:
-  - noticias
+categories: noticias
 tags: destacado
 author: AFP
 ---

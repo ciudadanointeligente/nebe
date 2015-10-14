@@ -4,8 +4,7 @@ title: "Un Paso Más: Pueblos Indígenas hacen respetar su agenda frente al gobi
 description: "Las comunidades indígenas movilizadas desde hace 15 días firmaron un acuerdo con el Gobierno y decidieron levantar su medida de lucha con dos condiciones."
 image: http://i.imgur.com/OJCY0Fp.png
 date: 2015-09-29
-categories:
-  - noticias
+categories: noticias
 tags: destacado
 author: AIDESEP
 ---

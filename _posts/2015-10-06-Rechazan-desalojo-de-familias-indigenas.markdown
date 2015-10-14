@@ -4,8 +4,7 @@ title: "Rechazan desalojo de familias indígenas en provincia ecuatoriana Zamora
 description: "La Confederación de Nacionalidades Indígenas del Ecuador (CONAIE) y organizaciones civiles internacionales condenaron el desalojo de 13 familias indígenas efectuado por policías y guardias privados de la empresa Ecuacorriente S.A., en la provincia amazónica de Zamora Chinchipe."
 image: http://i.imgur.com/57OMR08.png
 date: 2015-10-06
-categories:
-  - noticias
+categories: noticias
 tags: destacado
 author: SERVINDI
 link: http://servindi.org/actualidad/140894#more-140894

@@ -4,8 +4,7 @@ title: "Corte de Canadá falla contra Chevron por caso en Ecuador"
 description: "Según el dictamen, los ecuatorianos pueden ejecutar la sentencia que exige el pago de nueve mil 500 millones de dólares a la empresa."
 image: http://i.imgur.com/dc7UAAk.png
 date: 2015-09-23
-categories:
-  - noticias
+categories: noticias
 tags: destacado
 author: TeleSURtv.net
 ---

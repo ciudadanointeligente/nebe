@@ -4,8 +4,7 @@ title: "Indígenas toman mayor pozo petrolero"
 description: "Grupos indígenas peruanos han ocupado las instalaciones del mayor pozo petrolero del país así como un aeródromo cercano para exigir al Gobierno que escuche sus reclamos contra la empresa concesionaria, a la que acusan de no respetar sus tierras y de contaminar la zona, dijo el domingo Carlos Sandi, presidente de la Federación de Comunidades Nativas del Corrientes [Feconaco](http://feconaco.org/)."
 image: http://i.imgur.com/0aD1ubS.png
 date: 2015-09-23
-categories:
-  - noticias
+categories: noticias
 tags: destacado
 author: erbol.com.bo
 ---

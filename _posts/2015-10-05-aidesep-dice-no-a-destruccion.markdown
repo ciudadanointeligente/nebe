@@ -4,8 +4,7 @@ title: 'AIDESEP dice no a destrucción de bosques por palma aceitera en la COP21
 description: 'Tras una larga jornada de trabajo de tres días del 29 de septiembre al 01 octubre, dirigentes indígenas acordaron que propuestas llevarán a la COP21, finalizando el taller “AIDESEP hacia la COP21: Propuestas y acciones” realizado en la ciudad de Tarapoto, que reunió a las nueve regionales que representan a toda la Amazonía del Perú.'
 image: http://i.imgur.com/zEAfiXe.png
 date: 2015-10-05
-categories:
-  - noticias
+categories: noticias
 tags: destacado
 author: Redaccion AIDESEP
 link: http://www.aidesep.org.pe/aidesep-dice-no-a-destruccion-de-bosques-por-palma-aceitera-en-la-cop21/
