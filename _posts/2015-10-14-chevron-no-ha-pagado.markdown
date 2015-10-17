@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: '26 años después, Chevron no ha pagado al Ecuador por el vertido de tóxicos'
-description: 'El 4 de septiembre, la Corte Suprema de Canadá dictaminó que a los indígenas de la Amazonía ecuatoriana se les permita usar los tribunales canadienses para tratar (la palabra clave es "tratar") de recolectar US $ 9 mil millones en daños por parte de Chevron que se otorgaron en el Ecuador. Los canadienses deben ahora contrarrestar la inevitable campaña de propaganda de Chevron mientras la batalla legal continúa.'
+description: "El 4 de septiembre, la Corte Suprema de Canadá dictaminó que a los indígenas de la Amazonía ecuatoriana se les permita usar los tribunales canadienses para tratar (la palabra clave es 'tratar') de recolectar US $ 9 mil millones en daños por parte de Chevron que se otorgaron en el Ecuador. Los canadienses deben ahora contrarrestar la inevitable campaña de propaganda de Chevron mientras la batalla legal continúa."
 image: http://i.imgur.com/kOolwWH.png
 date: 2015-10-14
 categories: blog
