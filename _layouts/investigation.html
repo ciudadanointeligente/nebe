@@ -31,6 +31,15 @@ layout: page
         <div class="col-md-{{col}}">
           <article class="post-content">
             {{ content }}
+
+            {% if page.link %}
+            <ul class="list-inline">
+              <li>
+                <a href="{{page.link}}">Descargar el artículo completo en pdf</a>
+              </li>
+              <li>(Nro de páginas: {{page.file_pages}} / Tamaño: {{page.file_size}})</li>
+            </ul>
+            {% endif %}
           </article>
         </div>
 

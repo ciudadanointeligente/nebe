@@ -7,6 +7,8 @@ description: Desde la elección de los líderes de tendencia izquierdista Morale
 date: 2015-08-28T00:00:00
 author: M. Arsel, C. Mena, L. Pellegrini, I. Radhuber, ISS / HIVOS / USFQ
 link: http://www.iss.nl/fileadmin/ASSETS/iss/Research_and_projects/PER/Arsel_mena_pellegrini_radhuber_2013.pdf
+file_size: 235Kb
+file_pages: 29
 policy_brief: false
 chapters:
 ---
@@ -25,6 +27,3 @@ Centrándose principalmente en el sector de los minerales, el capítulo demuestr
 Los autores proponen, entre otras conclusiones, que los numerosos conflictos que han surgido en Bolivia y Ecuador sobre las industrias extractivas – siendo la lucha continua contra la minería a gran escala en el sur de Ecuador y el camino Tipnis en Bolivia sólo dos ejemplos - no son simplemente conflictos sobre la preservación de la calidad ambiental o la distribución de las rentas económicas.
 
 La naturaleza cambiante y la importancia de los derechos colectivos de elección en estos nuevos regímenes hacen de éstos sitios de conflictos en los que la relación entre el Estado y la sociedad está siendo disputada. Por lo tanto, la nacionalización está transformando al Estado en sí y no solamente su relación con los procesos económicos.
-
-
-[Descargar el artículo completo en pdf]( http://www.iss.nl/fileadmin/ASSETS/iss/Research_and_projects/PER/Arsel_mena_pellegrini_radhuber_2013.pdf)
