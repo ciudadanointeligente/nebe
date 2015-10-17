@@ -1,8 +1,9 @@
 ---
 ---
+{% assign investigations = site.investigations | sort:"date" | reverse %}
 {
   "investigations": [
-    {% for investigation in site.investigations %}
+    {% for investigation in investigations %}
     {
       "title" : "{{ investigation.title }}",
       "description" : "{{ investigation.description }}",
