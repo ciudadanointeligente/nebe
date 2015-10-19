@@ -50,8 +50,12 @@ article.post-content p {
 }
 
 .blk {
+  h1 {
+    text-shadow: 1px 1px 1px #000;
+  }
   p {
     font-weight: bolder;
+    text-shadow: 1px 1px 1px #000;
   }
 }
 
