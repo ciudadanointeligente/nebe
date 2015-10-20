@@ -8,6 +8,7 @@ layout: null
         {
             "title": "{{ new.title }}",
             "description": "{{ new.description }}",
+            "image": "{{ new.image }}",
             "author": "{{ new.author }}",
             "date": "{{ new.date | date_to_xmlschema }}",
             "country": "{{ new.country }}",

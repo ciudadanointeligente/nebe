@@ -9,7 +9,7 @@ layout: page
       <img src="{{ site.news_article.image }}">
   </div>
   <div class="container" ng-controller="NewsCtrl">
-    
+
       <div class="row">
         <div class="col-md-7">
           <h2>Noticias</h2>
@@ -27,15 +27,22 @@ layout: page
       <div>
         <ul id="news" class="list-unstyled">
           <li dir-paginate="new in news | filter:searchNews | itemsPerPage: {{ site.itemsPerPage }}">
-            <h5 class="report-title"><a href="[[ new.permalink ]]">[[ new.title ]]</a></h5> 
-            <p class="small">[[ format_date(new.date) | date:"dd 'de' MMMM, yyyy" ]]</p>
-            <p>[[ new.description ]]</p>
-            <p class="small text-right">&nbsp;</p>
+            <div class="row">
+              <div class="col-md-3">
+                <img src="[[ new.image ]]" alt="[[ new.title ]]" class="img-responsive">
+              </div>
+              <div class="col-md-9">
+                <h5 class="report-title"><a href="[[ new.permalink ]]">[[ new.title ]]</a></h5>
+                <p class="small">[[ format_date(new.date) | date:"dd 'de' MMMM, yyyy" ]]</p>
+                <p>[[ new.description ]]</p>
+                <p class="small text-right">&nbsp;</p>
+              </div>
+            </div>
           </li>
         </ul>
       </div>
 
       <dir-pagination-controls template-url="js/dirPagination.tpl.html"></dir-pagination-controls>
-    
+
   </div>
 </section>
