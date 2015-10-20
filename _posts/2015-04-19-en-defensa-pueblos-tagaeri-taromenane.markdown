@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "En defensa a pueblos Tagaeri y Taromenane, emiten carta para impedir explotación petrolera en bloque 55"
-description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat"
+description: "A través de una carta abierta, varios líderes indígenas, personajes políticos y organizaciones sociales como los YASunidos piden al Gobierno Nacional paralizar la actividad petrolera en el bloque 55, más conocido como el “Campo Armadillo”. Los firmantes del documento sostienen que en dicha zona está comprobada la presencia de Tagaeri y Taromenane, pueblos no contactados."
 image: http://i.imgur.com/iTJFECE.png
 date: 2015-10-19
 categories: noticias
