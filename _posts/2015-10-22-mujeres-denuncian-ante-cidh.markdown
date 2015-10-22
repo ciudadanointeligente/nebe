@@ -2,7 +2,7 @@
 layout: blog
 title: "Mujeres denuncian ante la CIDH criminalización por el gobierno de Correa"
 description: "Una delegación de mujeres denunció la criminalización que sufren las defensoras y defensores de derechos humanos de pueblos indígenas y el ambiente en Ecuador el lunes 19 de octubre durante una audiencia temática de la Comisión Interamericana de Derechos Humanos (CIDH)."
-image: img//youtube.com/vi/GOm9O86cYOM/0.jpg
+image: http://i.imgur.com/z1OJMgD.jpg
 date: 2015-10-22
 categories: reportajes
 tags: destacado
@@ -26,7 +26,7 @@ Las defensoras esperan que su testimonio ayude a visibilizar cómo en el Ecuador
 La delegación presentó un panel integrado por mujeres y con el respaldo de una masiva marcha de miles de mujeres realizada en agosto de 2015 en defensa de sus comunidades y el medio ambiente.
 
 <div class="text-center">
-+	<iframe width="854" height="480" src="https://www.youtube.com/embed/GOm9O86cYOM" frameborder="0" allowfullscreen></iframe>
++	<iframe width="360" height="255" src="https://www.youtube.com/embed/GOm9O86cYOM" frameborder="0" allowfullscreen></iframe>
 +</div>
 
 <b>“Loca” y “vieja desquiciada”</b>
