@@ -2,7 +2,7 @@
 layout: blog
 title: "La serie periodística que reveló el comportamiento de las industrias extractivas en el Perú"
 description: "Libro electrónico ‘Excesos sin castigo’ reúne reportajes con evidencias y casos en la gran minería y el sector hidrocarburos"
-image: http://i.imgur.com/DGOIXx4.png
+image: http://i.imgur.com/VWN2Ueq.png
 date: 2015-10-26
 categories: noticias
 tags: destacado
