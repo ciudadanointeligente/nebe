@@ -1,0 +1,64 @@
+---
+layout: page
+---
+
+<section id="resources">
+  <div id="section-header">
+    <img src="{{ site.resource.image }}">
+  </div>
+  <div class="container">
+      <div class="page-header blogs-title">
+        <h4>Videos <!--<small>| <a href="/news.html">ver más</a></small>--></h4>
+      </div>
+      <div class="row">
+      {% for r in site.resources %}
+        {% if r.categorie == 'videos' %}
+        <div class="col-md-2 category-resources">
+          <img src="{{r.image}}" class="img-responsive">
+          <h5>{{r.title | truncate: 140}}</h5>
+          <ul class="list-inline">
+            <li><small>Duración: {{r.duration}}</small></li>
+          </ul>
+          <p>{{r.description | truncate: 140}} <a href="{{ r.link }}" class="read-more" target="_blank">ver video <i class="fa fa-plus-square-o"></i></a></p>
+        </div>
+        {% endif %}
+      {% endfor %}
+      </div>
+
+      <div class="page-header blogs-title">
+        <h4>Software <!--<small>| <a href="/news.html">ver más</a></small>--></h4>
+      </div>
+      <div class="row">
+      {% for r in site.resources %}
+        {% if r.categorie == 'software' %}
+        <div class="col-md-2 category-resources">
+          <img src="{{r.image}}" class="img-responsive">
+          <h5>{{r.title | truncate: 140}}</h5>
+          <p>{{r.description | truncate: 140}} <a href="{{ r.link }}" class="read-more" target="_blank">más información <i class="fa fa-plus-square-o"></i></a></p>
+        </div>
+        {% endif %}
+      {% endfor %}
+      </div>
+
+      <div class="page-header blogs-title">
+        <h4>Manuales <!--<small>| <a href="/news.html">ver más</a></small>--></h4>
+      </div>
+      <div class="row">
+      {% for r in site.resources %}
+        {% if r.categorie == 'manual' %}
+        <div class="col-md-2 category-resources">
+          <img src="{{r.image}}" class="img-responsive">
+          <h5>{{r.title | truncate: 140}}</h5>
+          <ul class="list-inline">
+            <li><small>{{r.format}}</small></li>
+            <li><small>{{r.nro_pages}} pgs</small></li>
+            <li><small>{{r.size}}</small></li>
+          </ul>
+          <p>{{r.description | truncate: 140}} <a href="{{ r.link }}" class="read-more">seguir leyendo <i class="fa fa-plus-square-o"></i></a></p>
+        </div>
+        {% endif %}
+      {% endfor %}
+      </div>
+
+  </div>
+</section>

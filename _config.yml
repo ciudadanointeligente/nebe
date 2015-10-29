@@ -38,6 +38,8 @@ blog:
   image: '//farm3.staticflickr.com/2894/12142944844_2a13eb2bbc_o.jpg'
 chronology:
   image: '//farm4.staticflickr.com/3804/12142826193_328a7520ce_o.jpg'
+resource:
+  image: '//c2.staticflickr.com/2/1317/1076132657_5ea0371ac0_o.jpg' #https://www.flickr.com/photos/aragao/1076132657/
 
 # mapbox
 mapbox:
@@ -55,6 +57,8 @@ collections:
   chronologies:
     output: true
   news:
+    output: true
+  resources:
     output: true
 
 # blog
