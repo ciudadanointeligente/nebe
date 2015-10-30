@@ -13,13 +13,13 @@ layout: page
       <div class="row">
       {% for r in site.resources %}
         {% if r.categorie == 'videos' %}
-        <div class="col-md-2 category-resources">
+        <div class="col-md-3 category-resources">
           <img src="{{r.image}}" class="img-responsive">
           <h5>{{r.title | truncate: 140}}</h5>
           <ul class="list-inline">
             <li><small>Duración: {{r.duration}}</small></li>
           </ul>
-          <p>{{r.description | truncate: 140}} <a href="{{ r.link }}" class="read-more" target="_blank">ver video <i class="fa fa-plus-square-o"></i></a></p>
+          <p>{{r.description}} <a href="{{ r.link }}" class="read-more" target="_blank">ver video <i class="fa fa-plus-square-o"></i></a></p>
         </div>
         {% endif %}
       {% endfor %}
@@ -31,10 +31,10 @@ layout: page
       <div class="row">
       {% for r in site.resources %}
         {% if r.categorie == 'software' %}
-        <div class="col-md-2 category-resources">
+        <div class="col-md-3 category-resources">
           <img src="{{r.image}}" class="img-responsive">
           <h5>{{r.title | truncate: 140}}</h5>
-          <p>{{r.description | truncate: 140}} <a href="{{ r.link }}" class="read-more" target="_blank">más información <i class="fa fa-plus-square-o"></i></a></p>
+          <p>{{r.description}} <a href="{{ r.link }}" class="read-more" target="_blank">más información <i class="fa fa-plus-square-o"></i></a></p>
         </div>
         {% endif %}
       {% endfor %}
@@ -46,7 +46,7 @@ layout: page
       <div class="row">
       {% for r in site.resources %}
         {% if r.categorie == 'manual' %}
-        <div class="col-md-2 category-resources">
+        <div class="col-md-3 category-resources">
           <img src="{{r.image}}" class="img-responsive">
           <h5>{{r.title | truncate: 140}}</h5>
           <ul class="list-inline">
@@ -54,7 +54,7 @@ layout: page
             <li><small>{{r.nro_pages}} pgs</small></li>
             <li><small>{{r.size}}</small></li>
           </ul>
-          <p>{{r.description | truncate: 140}} <a href="{{ r.link }}" class="read-more">seguir leyendo <i class="fa fa-plus-square-o"></i></a></p>
+          <p>{{r.description}} <a href="{{ r.link }}" class="read-more">seguir leyendo <i class="fa fa-plus-square-o"></i></a></p>
         </div>
         {% endif %}
       {% endfor %}

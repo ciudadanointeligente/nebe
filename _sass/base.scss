@@ -142,7 +142,10 @@ nav {
 
 .navbar-brand h3 {
   margin: 0;
-  text-shadow: 1px 1px 1px #BFC6D1;
+  text-shadow: 1px 1px 1px #FFF;
+  .stycky {
+    text-shadow: 1px 1px 1px #000;
+  }
 }
 
 .nav-bar {
