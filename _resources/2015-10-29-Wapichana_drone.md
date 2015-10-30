@@ -1,8 +1,8 @@
 ---
 title: "Hemos construido un 'drone'"
-description: "¿Pueden los drones ser una herramienta para el cambio positivo en las manos de las comunidades indígenas? ¿Pueden las comunidades utilizarlos para crear mapas y controlar la tala ilegal y la deforestación? Para responder a estas preguntas, viajé a Guyana en octubre y junto con el equipo local de monitoreo <b>FUENTE:</b> [Gregor McLennan](https://www.digital-democracy.org/team/gregor-maclennan/), [Digital Democracy](https://www.digital-democracy.org/blog/we-built-a-drone/)"
-image: http://i.imgur.com/bMZbyhQ.png
-link: https://player.vimeo.com/video/114816953?api=1&player_id=video-iframe&title=0&byline=0&portrait=0
+description: "¿Pueden los drones ser una herramienta para el cambio positivo en las manos de las comunidades indígenas? ¿Pueden las comunidades utilizarlos para crear mapas y controlar la tala ilegal y la deforestación? Para responder a estas preguntas, viajé a Guyana en octubre y junto con el equipo local de monitoreo <br><b>FUENTE:</b> <a href='//www.digital-democracy.org/team/gregor-maclennan/'>Gregor McLennan</a>, <a href='//www.digital-democracy.org/blog/we-built-a-drone/'>Digital Democracy</a>"
+image: //i.imgur.com/bMZbyhQ.png
+link: //vimeo.com/114816953
 duration: 7:39min
 categorie: videos
 ---

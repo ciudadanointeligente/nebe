@@ -19,7 +19,8 @@ layout: page
           <ul class="list-inline">
             <li><small>Duración: {{r.duration}}</small></li>
           </ul>
-          <p>{{r.description}} <a href="{{ r.link }}" class="read-more" target="_blank">ver video <i class="fa fa-plus-square-o"></i></a></p>
+          <p>{{r.description}}</p>
+          <p><a href="{{ r.link }}" class="read-more" target="_blank">ver video <i class="fa fa-plus-square-o"></i></a></p>
         </div>
         {% endif %}
       {% endfor %}
@@ -34,7 +35,8 @@ layout: page
         <div class="col-md-3 category-resources">
           <img src="{{r.image}}" class="img-responsive">
           <h5>{{r.title | truncate: 140}}</h5>
-          <p>{{r.description}} <a href="{{ r.link }}" class="read-more" target="_blank">más información <i class="fa fa-plus-square-o"></i></a></p>
+          <p>{{r.description}}</p>
+          <p><a href="{{ r.link }}" class="read-more" target="_blank">más información <i class="fa fa-plus-square-o"></i></a></p>
         </div>
         {% endif %}
       {% endfor %}
@@ -54,7 +56,8 @@ layout: page
             <li><small>{{r.nro_pages}} pgs</small></li>
             <li><small>{{r.size}}</small></li>
           </ul>
-          <p>{{r.description}} <a href="{{ r.link }}" class="read-more">seguir leyendo <i class="fa fa-plus-square-o"></i></a></p>
+          <p>{{r.description}}</p>
+          <p><a href="{{ r.link }}" class="read-more">seguir leyendo <i class="fa fa-plus-square-o"></i></a></p>
         </div>
         {% endif %}
       {% endfor %}
