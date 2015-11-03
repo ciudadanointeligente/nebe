@@ -37,5 +37,7 @@ Este proyecto tiene gran importancia para el actual gobierno, sobre todo para cu
 
 A través Ende, se busca cubrir el objetivo con tres megaproyectos: al menos 11.000 MW con El Bala, Rositas y la binacional Riberao (río Madera). Una cuarta, Cachuela Esperanza, también de larga data y cuyo estudio de prefactibilidad costó más 8 millones de dólares, ya debía ser ejecutada según el cronograma de Ende. Hasta la fecha no se inició la megaobra y se continúan realizando estudios. Expertos como Wálter Justiniano, Molina y Ribera han señalado en reiteradas oportunidades que no sería competitivo el costo de la energía que pueda generar Cachuela Esperanza. Se estima un costo de 65 dólares el megavatio, cuando el que producen las hidroeléctricas de Brasil no pasa de los 43 dólares (2012).
 
+Lea el reportaje completo [aqui](https://miriamjemio.atavist.com/el-bala-el-alto-costo-socioambiental-de-la-energa)
+
 <b>FUENTE:</b> [Miriam Telma Jemio/La Pública](https://miriamjemio.atavist.com/el-bala-el-alto-costo-socioambiental-de-la-energa)
 <b>FOTO:</b> [Diario Nuevo Sur](http://diarionuevosur.com/index.php/component/blog_calendar/2015/09/05?start=20)
