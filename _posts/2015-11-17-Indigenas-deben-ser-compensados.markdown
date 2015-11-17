@@ -26,7 +26,7 @@ Con este fin, señalaremos algunos de los últimos hechos sucedidos y debidament
 El Congreso, en su informe final del año 2012, hace constar que los Programas de Vigilancia Territorial Indígena han identificado, a julio del 2012, 25 pasivos ambientales no remediados, todas en el lote 1AB. A su vez, la propia empresa Pluspetrol Norte ha informado, a la comisión del Congreso que, entre el 2011 y 2012 se han vertido 2644 barriles de crudo, afectando un área de 22, 510 m2 aduciendo que la causa sería atentados por personas ajenas a su operaciones(1).
 
 <div class="pull-left img-content">
-  <img alt="Lote 1AB" class="img-responsive" src="//i.imgur.com/9bS503D.jpg">
+  <img alt="Lote 1AB" class="img-responsive" src="//i.imgur.com/JDKAuZB.png">
 </div>
 
 Por otro lado, desde el Ejecutivo tenemos, consecuencia de una movilización pacífica de la población quechua del río Pastaza, el año 2011, la constitución de una Comisión Multisectorial mediante Resolución Suprema N°200-2012-PCM. Esta comisión, conformada por diversos organismos administrativos competentes, realizados los estudios técnicos ambientales, emitió tres resoluciones ministeriales en las que se declaró la emergencia ambiental de las tres cuencas (río Corrientes, Pastaza y parte alta del río Tigre)(2) “por existir riesgo significativo a la salud de la población por las elevadas concentraciones de los parámetros físicos, químicos y microbiológicos que superan los estándares ambientales nacionales, los cuales estarían asociados al impacto ambiental ocasionado por la actividad hidrocarburífera en las zonas”.
