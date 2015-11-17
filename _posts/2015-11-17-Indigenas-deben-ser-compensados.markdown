@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "Comunidades indígenas deben ser indemnizadas y compensadas por los daños ambientales"
-description: 'Las comunidades afectadas por 43 años de contaminación por la actividad petrolera en los lotes 1AB y 8 "deben ser indemnizadas, compensadas, o, para mejor comprensión, equilibradas, con el patrimonio del dañador, en este caso, con el patrimonio de la empresa Pluspetrol Norte S.A."'
+description: "Las comunidades afectadas por 43 años de contaminación por la actividad petrolera en los lotes 1AB y 8 'deben ser indemnizadas, compensadas, o, para mejor comprensión, equilibradas, con el patrimonio del dañador, en este caso, con el patrimonio de la empresa Pluspetrol Norte S.A.'"
 image: //i.imgur.com/QZYqJJG.png
 date: 2015-11-17
 categories: blog
