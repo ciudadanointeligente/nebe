@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "Fediquep participará en foros internacionales de DD.HH en Europa"
-description: 'Líder indígena Aurelio Chino Dahua, presidente de la organización indígena FEDIQUEP base de ORPIO y AIDESEP representará a los pueblos indígenas con su participación en el Foro Público "Pluspetrol en Perú y Chevron en Ecuador. Los impactos en las comunidades indígenas y vías de acceso a la justicia y la reparación” que se desarrollará el 24 de noviembre en Amsterdam, Holanda.''
+description: 'Líder indígena Aurelio Chino Dahua, presidente de la organización indígena FEDIQUEP base de ORPIO y AIDESEP representará a los pueblos indígenas con su participación en el Foro Público "Pluspetrol en Perú y Chevron en Ecuador. Los impactos en las comunidades indígenas y vías de acceso a la justicia y la reparación” que se desarrollará el 24 de noviembre en Amsterdam, Holanda.'
 image: //i.imgur.com/1WPuu2X.png
 date: 2015-11-16
 categories: noticias
