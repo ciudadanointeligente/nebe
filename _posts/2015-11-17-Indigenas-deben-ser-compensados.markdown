@@ -53,10 +53,13 @@ A manera de conclusión, las comunidades afectadas por 43 años de contaminació
 <b>Bibliografía:</b>
 
 (1) Congreso de la República del Perú, Comisión de Pueblos, Andinos, Amazónicos y Afroperuanos, Ambiente y Ecología, Grupo de Trabajo Sobre la Situación Indígena de las Cuencas de los Ríos Tigre, Pastaza, Corrientes y Marañón, disponible en http://bit.ly/1H7ik32 01/periodo legislativo 2011 – 2012, p. 126
+
 (2) Resolución Ministerial Nº 370-2013-MINAM, Declaratoria de Emergencia ambiental de la Parte Alta del Rio Tigre. 29 de Noviembre, 2013; Resolución Minnisterial Nº 094-2013-MINAM, Declaratoria de Emergencia ambiental de la cuenca del Rio Pastaza. 22 de Marzo, 2013; Resolución Ministerial Nº 263-2013-MINAM, Declaratoria de Emergencia ambiental de la cuenca del Rio Corrientes. 06 de Setiembre, 2013.
+
 (3) Albert Ruda González, “La tipología de los daños causados por el Prestige”, en María Paz García Rubio (Coordinadora),  La responsabilidad por los daños causados por el hundimiento del Prestige, Iustel, Madrid, Pág. 56
+
 (4) https://www.youtube.com/watch?v=AJz23hZZefM
-—
+
 <b>* Vidal Ccoa Mamani</b>, Quechua puneño; realiza un Doctorado en Derecho Privado Patrimonial de la Universidad de Salamanca – España. Trabajó como asesor de federaciones de comunidades indígenas de la Amazonía.
 
 <b>FUENTE:</b> [Servindi](//servindi.org/actualidad/143685)
