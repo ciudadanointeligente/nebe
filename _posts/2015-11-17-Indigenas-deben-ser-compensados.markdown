@@ -36,7 +36,7 @@ Siendo 34 las comunidades afectadas por la contaminación que genera la activida
 Un video que muestra la realidad:
 
 <div class="text-center">
-	<iframe width="640" height="360" src="https://youtu.be/AJz23hZZefM" frameborder="0" allowfullscreen></iframe>
+	<iframe width="640" height="360" src="https://www.youtube.com/embed/AJz23hZZefM" frameborder="0" allowfullscreen></iframe>
 </div>
 
 Señaladas estas pinceladas de evidencia de daños ambientales, desde el Derecho Civil nos interesa identificar los daños ambientales que vulneran bienes o intereses jurídicos de las personas en su entorno patrimonial y extrapatrimonial.
