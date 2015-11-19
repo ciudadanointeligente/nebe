@@ -33,8 +33,6 @@ Por otro lado, desde el Ejecutivo tenemos, consecuencia de una movilización pac
 
 Siendo 34 las comunidades afectadas por la contaminación que genera la actividad hidrocarburifera en esa zona; cabe mencionar que las comunidades afectadas por la misma causa, ubicadas en las riveras del río Marañón, aún esperan similar declaratoria.
 
-
-
 Un video que muestra la realidad:
 
 <div class="text-center">
