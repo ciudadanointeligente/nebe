@@ -17,6 +17,10 @@ Responsabilidad por los daños ambientales por contaminación y pueblos indígen
 
 Por Vidal Ccoa Mamani*
 
+<div class="pull-left img-content">
+  <img alt="Lote 1AB" class="img-responsive" src="//i.imgur.com/QZYqJJG.png">
+</div>
+
 Desde el ámbito del Derecho civil, para abordar los daños ambientales por más de 43 años en el Lote 1AB y 8, selva norte del Perú, producidos de manera continuada en el territorio de los pueblos indígenas de la amazonia, a estas alturas, de lo único seguro que podemos estar es que existen daños, aunque no sabemos con exactitud la magnitud de estos daños.
 
 Desde el ámbito del Derecho civil, nos interesan aquellos daños ambientales que afectan a la persona, sus bienes patrimoniales y extrapatrimoniales, jurídicamente tutelables. Sabemos que la Responsabilidad civil extracontractual tiene por finalidad la reparación del daño, reparación en el sentido de equilibrar el patrimonio del dañado o perjudicado (las comunidades indígenas) con el patrimonio del dañador (la empresa Pluspetrol Norte S.A.) y por supuesto este daño debe ser cierto y afecte a una persona (natural y jurídica) determinada.
@@ -24,10 +28,6 @@ Desde el ámbito del Derecho civil, nos interesan aquellos daños ambientales qu
 Con este fin, señalaremos algunos de los últimos hechos sucedidos y debidamente documentados, entre ellas tenemos desde el Legislativo dos informes sobre la situación ambiental y social en las cuencas afectadas (Pastaza, Corrientes, Tigre y Marañón) por la actividad petrolera.
 
 El Congreso, en su informe final del año 2012, hace constar que los Programas de Vigilancia Territorial Indígena han identificado, a julio del 2012, 25 pasivos ambientales no remediados, todas en el lote 1AB. A su vez, la propia empresa Pluspetrol Norte ha informado, a la comisión del Congreso que, entre el 2011 y 2012 se han vertido 2644 barriles de crudo, afectando un área de 22, 510 m2 aduciendo que la causa sería atentados por personas ajenas a su operaciones(1).
-
-<div class="pull-left img-content">
-  <img alt="Lote 1AB" class="img-responsive" src="//i.imgur.com/QZYqJJG.png">
-</div>
 
 Por otro lado, desde el Ejecutivo tenemos, consecuencia de una movilización pacífica de la población quechua del río Pastaza, el año 2011, la constitución de una Comisión Multisectorial mediante Resolución Suprema N°200-2012-PCM. Esta comisión, conformada por diversos organismos administrativos competentes, realizados los estudios técnicos ambientales, emitió tres resoluciones ministeriales en las que se declaró la emergencia ambiental de las tres cuencas (río Corrientes, Pastaza y parte alta del río Tigre)(2) “por existir riesgo significativo a la salud de la población por las elevadas concentraciones de los parámetros físicos, químicos y microbiológicos que superan los estándares ambientales nacionales, los cuales estarían asociados al impacto ambiental ocasionado por la actividad hidrocarburífera en las zonas”.
 
