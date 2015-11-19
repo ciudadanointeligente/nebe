@@ -2,7 +2,7 @@
 layout: blog
 title: "Aurelio Chino, una voz de alarma desde la Amazonía"
 description: "Cansados ante la falta de apoyo estatal, indígenas del Amazonas han decidido adoptar nuevas tecnologías para monitorear su territorio y denunciar la destrucción que es provocada por las empresas petroleras y mineras y por la deforestación ilegal. Llevaron su voz y sus experiencias hasta #Ginebra, donde se desarrolló el Foro sobre Empresas y Derechos Humanos."
-image: //i.imgur.com/1rERHFM.png
+image: //i.imgur.com/2ONTz3k.png
 date: 2015-11-19
 categories: noticias
 tags: destacado
