@@ -19,5 +19,3 @@ Esta superficie inédita de frontera petrolera en la historia de Bolivia -ya que
 
 <b>FUENTE:</b>[ANF](//www.noticiasfides.com/economia/nuevo-decreto-de-evo-amplia-la-frontera-petrolera-a-casi-32-millones-de-hectareas-359377/)
 <b>IMAGEN:</b>[Cedib](//www.cedib.org/)
-
-
