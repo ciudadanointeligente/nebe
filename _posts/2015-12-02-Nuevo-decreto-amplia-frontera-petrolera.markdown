@@ -1,6 +1,6 @@
 --
 layout: blog
-title: "Bolivia: Nuevo decreto amplia la frontera petrolera a casi 32 millones de hectareas"
+title: "Bolivia: Nuevo decreto amplía la frontera petrolera a casi 32 millones de hectáreas"
 description: "En tan sólo siete años, de 2005 a 2012, se incrementaron de 11 a 98 las áreas reservadas a Yacimientos Petrolíferos Fiscales Bolivianos (YPFB)."
 image: //i.imgur.com/KIQbnGA.png
 date: 2015-12-02
@@ -18,6 +18,6 @@ El investigador y especialista en temas referidos a modelos extractivistas del C
 Esta superficie inédita de frontera petrolera en la historia de Bolivia -ya que representa aproximadamente un tercio de la superficie total del país- se perfila como una amenaza de muerte hacia territorios indígenas y áreas protegidas, según Campanini.
 
 <b>FUENTE:</b>[ANF](//www.noticiasfides.com/economia/nuevo-decreto-de-evo-amplia-la-frontera-petrolera-a-casi-32-millones-de-hectareas-359377/)
-<b>IMAGEN:</b> [Cedib](//www.cedib.org/)
+<b>IMAGEN:</b>[Cedib](//www.cedib.org/)
 
 
