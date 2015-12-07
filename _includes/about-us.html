@@ -2,11 +2,11 @@
   {% assign count = 0 %}
   {% for community in site.communities %}
     {% if community.published %}
-      {% assign mod = count | modulo:3 %}
+      {% assign mod = count | modulo:4 %}
       {% if mod == 0 %}
         </div><div class="row">
       {% endif %}
-  <div class="col-md-4">
+  <div class="col-md-3">
     {% if community.website %}<a href="{{ community.website }}" target="_blank">{% endif %}
     {% if community.image %}<img class="img-responsive" src="{{ community.image }}"></img>{% endif %}
     {% if community.website %}</a>{% endif %}
