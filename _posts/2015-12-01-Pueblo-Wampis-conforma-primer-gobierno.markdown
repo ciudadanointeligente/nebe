@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: “Pueblo Wampis conforma primer gobierno autónomo indígena del Perú”
+title: "Pueblo Wampis conforma primer gobierno autónomo indígena del Perú"
 description: "Surge para defender territorio ancestral de 1.3 millones de ha de bosques tropicales y contribuir a cumplir compromisos climáticos."
 image: //i.imgur.com/rny40lS.png
 date: 2015-12-01

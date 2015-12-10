@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: “Delegación de AIDESEP marcha a la COP21 con propuestas claras”
+title: "Delegación de AIDESEP marcha a la COP21 con propuestas claras"
 description: "La Comisión Oficial de los Pueblos indígenas de AIDESEP que irá a presentar las propuestas indígenas recogidas de la experiencia de 1809 comunidades indígenas amazónicas en la vigésima primera Conferencia de las Partes de la Convención Marco de las Naciones Unidas sobre el Cambio Climático CMNUCC – COP21 marcha hacia París. La comisión partirá este domingo 29 de noviembre rumbo a Paris dando el alcance a líderes indígenas de la cuenca amazónica y el mundo."
 image: //i.imgur.com/icZvNPC.png
 date: 2015-12-01
