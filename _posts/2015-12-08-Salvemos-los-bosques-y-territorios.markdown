@@ -1,4 +1,4 @@
---
+---
 layout: blog
 title: "Nativos de Madre de Dios llevan reclamos y propuestas a cumbre climática COP21"
 description: "Piden que en su región, así como en la selva central, se deje de priorizar la explotación de oro aluvial, causante de conflictos socioambientales. Plantean que fondos climáticos financien las estrategias propuestas por los pueblos indígenas para la conservación y el uso sostenible de los bosques amazónicos."
@@ -7,6 +7,7 @@ date: 2015-12-08
 categories: noticias
 tags: destacado
 author: Servindi
+---
 
 Servindi, 7 de diciembre, 2015.- Organizaciones indígenas de la región peruana de Madre de Dios, con el respaldo de la nacional Aidesep, entre otras, dieron a conocer la situación de conflictividad que vive su región por causa de una serie de medidas arbitrarias impulsadas por el Gobierno central y el regional.
 

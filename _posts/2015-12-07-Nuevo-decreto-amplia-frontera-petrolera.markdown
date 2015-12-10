@@ -1,4 +1,4 @@
---
+---
 layout: blog
 title: "Bolivia: Nuevo decreto amplía la frontera petrolera a casi 32 millones de hectáreas"
 description: "En tan sólo siete años, de 2005 a 2012, se incrementaron de 11 a 98 las áreas reservadas a Yacimientos Petrolíferos Fiscales Bolivianos (YPFB)."
