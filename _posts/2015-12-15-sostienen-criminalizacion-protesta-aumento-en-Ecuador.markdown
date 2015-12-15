@@ -16,6 +16,7 @@ El documento analiza los casos de Javier Ramírez, presidente de la comunidad de
 Según se lee en el informe, la FIDH pudo comprobar en estos casos, a partir de un visita realizada a inicios de año, la vulneración de garantías judiciales y de protección judicial, en la utilización del derecho penal para neutralizar a los citados líderes, así como a defensores de derechos humanos.
 
 Asimismo dio fe de la notable impunidad de las agresiones de las que han sido víctimas. “La ambigüedad de los tipos penales abre un margen de discrecionalidad y arbitrariedad que se utiliza para procesar a líderes sociales como terroristas”, explica.
+
 <b>Casos emblemáticos</b>
 
 Javier Ramírez es originario de la comunidad de Junín, en resistencia a la explotación minera de cobre y molibdeno en la zona de Íntag, provincia de Imbabura. En la actualidad la Empresa Nacional Minera (ENAMI) busca explotar dicha zona.
@@ -25,10 +26,6 @@ Ramírez, junto a su hermano, fue sometido a un juicio penal y tras diez meses d
 Pepe Acacho, miembro de la Asamblea Nacional en representación de la provincia amazónica de Zamora Chinchipe, participó en el año 2009 en las manifestaciones nacionales contra la Ley de Aguas y la Ley de Minería.
 
 Fue condenado a 12 años de cárcel por terrorismo, por supuestamente instigar el asesinato de uno de sus compañeros. Por el momento está libre, a la espera de que la Corte Nacional de Justicia resuelva un recurso de casación interpuesto.
-
-<div class="pull-leftt img-content">
-  <img alt="Figura 1" class="img-responsive" src="http://i.imgur.com/5S9VKDw.png">
-</div>
 
 Manuel Trujillo, presidente de la comunidad de San Pablo Amalí, provincia de Bolívar, donde la empresa Hidrotambo S.A. construye la central hidroeléctrica San José del Tambo, fue procesado 30 veces incluyendo cargos que van desde actos de violencia y la destrucción de bienes, hasta sabotaje, terrorismo y rebelión, fue amnistiado en el año 2008.
 
@@ -55,6 +52,10 @@ Sobre este último el Estado no solamente ha realizado ejercicios de control a t
 Desde el 2006 la FIDH viene documentando el creciente fenómeno de la criminalización de la protesta social en América.
 
 Puede leer el informe completo [aquí](https://www.fidh.org/IMG/pdf/equateur666espagn2015hd_1_.pdf).
+
+<div class="pull-leftt img-content">
+  <img alt="Figura 1" class="img-responsive" src="http://i.imgur.com/5S9VKDw.png">
+</div>
 
 <b>FUENTE:</b> [Servindi](//servindi.org/actualidad/145570)
 <b>FOTO:</b> [La Hora](//lahora.com.ec/index.php/noticias/show/1101473861/-1/Ecuador_desoye_a_ocho_organismos_internacionales.html)
