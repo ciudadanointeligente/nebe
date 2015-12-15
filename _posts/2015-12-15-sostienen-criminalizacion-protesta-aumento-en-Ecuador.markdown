@@ -12,15 +12,18 @@ author: Servindi
 Así lo dio a conocer el jueves durante la presentación del informe “Criminalización de la protesta social frente a proyectos extractivos en Ecuador”, que elaboró junto con sus organismos miembros en Ecuador: la  Comisión Ecuménica de Derechos Humanos (CEDHU) y la Fundación Regional de Asesoría en Derechos Humanos (INREDH).
 
 El documento analiza los casos de Javier Ramírez, presidente de la comunidad de Junín -Íntag-; Pepe Acacho, dirigente de la nacionalidad indígena Shuar; y Manuel Trujillo, presidente de la organización comunitaria de San Pablo de Amalí.
+
 Según se lee en el informe, la FIDH pudo comprobar en estos casos, a partir de un visita realizada a inicios de año, la vulneración de garantías judiciales y de protección judicial, en la utilización del derecho penal para neutralizar a los citados líderes, así como a defensores de derechos humanos.
 
 Asimismo dio fe de la notable impunidad de las agresiones de las que han sido víctimas. “La ambigüedad de los tipos penales abre un margen de discrecionalidad y arbitrariedad que se utiliza para procesar a líderes sociales como terroristas”, explica.
 <b>Casos emblemáticos</b>
 
 Javier Ramírez es originario de la comunidad de Junín, en resistencia a la explotación minera de cobre y molibdeno en la zona de Íntag, provincia de Imbabura. En la actualidad la Empresa Nacional Minera (ENAMI) busca explotar dicha zona.
+
 Ramírez, junto a su hermano, fue sometido a un juicio penal y tras diez meses de detención fue condenado por delito de rebelión.
 
 Pepe Acacho, miembro de la Asamblea Nacional en representación de la provincia amazónica de Zamora Chinchipe, participó en el año 2009 en las manifestaciones nacionales contra la Ley de Aguas y la Ley de Minería.
+
 Fue condenado a 12 años de cárcel por terrorismo, por supuestamente instigar el asesinato de uno de sus compañeros. Por el momento está libre, a la espera de que la Corte Nacional de Justicia resuelva un recurso de casación interpuesto.
 
 <div class="pull-leftt img-content">
@@ -28,6 +31,7 @@ Fue condenado a 12 años de cárcel por terrorismo, por supuestamente instigar e
 </div>
 
 Manuel Trujillo, presidente de la comunidad de San Pablo Amalí, provincia de Bolívar, donde la empresa Hidrotambo S.A. construye la central hidroeléctrica San José del Tambo, fue procesado 30 veces incluyendo cargos que van desde actos de violencia y la destrucción de bienes, hasta sabotaje, terrorismo y rebelión, fue amnistiado en el año 2008.
+
 Pese a ello, en la actualidad, lleva un año presentándose semanalmente ante las autoridades judiciales sin que se resuelva su situación.
 
 En todos estos casos se constataron violaciones a las garantías judiciales, a la igualdad ante la ley y la obligación de investigar, a las libertades de expresión, participación y derechos políticos, todos derechos consagrados en la Convención Americana de Derechos Humanos (CADH).
