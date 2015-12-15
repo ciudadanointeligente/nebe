@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "Estado deforesta la Amazonía"
-description: "El pasado 24 de noviembre se realizó la mayor incautación de madera de origen ilegal, en la Amazonía peruana.'"
+description: "El pasado 24 de noviembre se realizó la mayor incautación de madera de origen ilegal, en la Amazonía peruana."
 image: //i.imgur.com/NtFmtYz.png
 date: 2015-12-15
 categories: blog
