@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: "Mujeres denuncian ante la CIDH criminalización por el gobierno de Correa"
+title: "Experiencia de Reserva Amarakaeri en REDD Indígena Amazónico"
 description: "REDD+ Indígena Amazónico es una iniciativa que nace de la propia cosmovisión de los pueblos indígenas de la Amazonía, en respuesta al surgimiento del mecanismo de mercado REDD+[1] que es propuesto en la Convención Marco de la Naciones Unidas sobre Cambio Climático (CMNUCC)."
 image: http://i.imgur.com/TeRfPvF.png
 date: 2016-01-04
