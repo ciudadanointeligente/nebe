@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "AIDESEP denuncia incumplimiento en el proceso de implementación del reglamento de la Ley Forestal"
-image: http://i.imgur.com/iTJFECE.png
+image: http://i.imgur.com/USTNLDS.png
 date: 2016-01-04
 categories: noticias
 tags: destacado
