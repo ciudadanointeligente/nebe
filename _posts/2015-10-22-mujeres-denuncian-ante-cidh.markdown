@@ -14,7 +14,7 @@ REDD+ Indígena Amazónico es una iniciativa que nace de la propia cosmovisión 
 RIA más allá del carbono implica poner en valor la importancia de la gestión integral de los territorios indígenas para lograr la vida plena: territorios de los pueblos indígenas como una unidad integral inseparable de la naturaleza, la sociedad y las culturas, que va más allá de la captura de carbono, pero que puede incluirlo.
 
 <div class="text-center">
-	<iframe width="640" height="360" src="<iframe width="854" height="480" src="https://www.youtube.com/embed/jy9KElH-JBM" frameborder="0" allowfullscreen></iframe>
+	<iframe width="854" height="480" src="https://www.youtube.com/embed/jy9KElH-JBM" frameborder="0" allowfullscreen></iframe>
 </div>
 
 La gestión de la Reserva Comunal Amarakaeri (RCA), territorio ancestral de los pueblos indígenas, es conducida directamente por sus beneficiarios en cogestión con el Estado a través del Servicio Nacional de Áreas Naturales Protegidas por el Estado (SERNANP), de acuerdo a un contrato de administración, como una forma organizativa a largo plazo, en el cual se consolidan los conocimientos ancestrales asociados a la conservación y al uso sostenible de los recursos, ejerciendo sus derechos y obligaciones con el Estado, para la administración del Patrimonio de la Nación.  La importancia de la RCA y de las comunidades nativas aledañas en el mantenimiento de las funciones ecosistémicas del bosque, la posicionan como un área de interés para recibir compensaciones por el mantenimiento de éstas funciones del bosque.
