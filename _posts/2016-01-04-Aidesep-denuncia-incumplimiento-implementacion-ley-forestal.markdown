@@ -1,6 +1,7 @@
 ---
 layout: blog
 title: "AIDESEP denuncia incumplimiento en el proceso de implementación del reglamento de la Ley Forestal"
+description: Diversos son los cambios que ha traído el nuevo Reglamento de la Ley Forestal (RLF) en su implementación y estos no han sido socializados adecuadamente.
 image: http://i.imgur.com/USTNLDS.png
 date: 2016-01-04
 categories: noticias
