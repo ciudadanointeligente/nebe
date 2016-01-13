@@ -79,7 +79,7 @@ Y es en esta perspectiva que, desde hace años, se llevan a cabo muchas iniciati
 
 <b>*Ivo Poletto</b>, filósofo, teólogo, científico social y educador popular. Participó en la Comissão Pastoral da Terra, Cáritas Brasileira, Pastorais Sociais.  Actualmente, es asesor nacional del Fórum Mudanças Climáticas e Justiça Social y miembro de la Red Eclesial Pan-Amazónica (REPAM).
 
-<b>Fuente:</b>Artículo parte de la edición 508 (octubre 2015) de la revista [América Latina en Movimiento](http://www.alainet.org/es/articulo/173215) de ALAI que, bajo el título “Cambio climático y Amazonia”, aborda el cambio climático desde la realidad amazónica, principalmente con aportes de integrantes de la Red Eclesial Pan-Amazónica (REPAM).
+<b>Fuente:</b> Artículo parte de la edición 508 (octubre 2015) de la revista [América Latina en Movimiento](http://www.alainet.org/es/articulo/173215) de ALAI que, bajo el título “Cambio climático y Amazonia”, aborda el cambio climático desde la realidad amazónica, principalmente con aportes de integrantes de la Red Eclesial Pan-Amazónica (REPAM). Reproducido en [Servindi](http://servindi.org/actualidad/142889) en noviembre de 2015.
 
 <span class="label label-default">Zona</span> Amazonia.
 
