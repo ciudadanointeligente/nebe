@@ -34,7 +34,7 @@ Basta de agredir el seno de la tierra amazónica para retirar de ella falsa riqu
 
 Plantar árboles en las áreas deforestadas, y no con eucaliptos o pinos, sino con árboles típicos de la Amazonía.
 
-<b>¿Por qué ser y actuar de esta manera</b>
+<b>¿Por qué ser y actuar de esta manera?</b>
 
 Las noticias sobre los fenómenos meteorológicos en todo el planeta son motivo de alarma y preocupación para todas las personas. La propia Amazonía y sus pueblos están sintiendo que el calor aumenta cada vez más y que las crecidas de los ríos están dejando de ser normales. Ya sienten las consecuencias de dos grandes sequías, en 2005 y 2010, con sufrimientos humanos y animales, pero también con la muerte de innumerables árboles de la selva. Y esto seguido por inundaciones muy por encima de los índices tradicionales, causando desastres socioambientales.
 
@@ -60,7 +60,7 @@ La meta mundial, vía la ONU, es evitar que la temperatura aumente más de 2ºC.
 
 Por eso, junto con las luchas ciudadanas en favor de los cambios estructurales, que deben ser definidos e implementados por la COP21, y como fundamentos y mística de estas luchas, es urgente trabajar para un proceso de educación popular que motive a las personas, comunidades, pueblos a asumir con coraje la “conversión ecológica”, sugerida por el Papa Francisco. Se trata de un cambio interior, una liberación del estándar de vida centrado en el consumismo, una nueva manera de percibirse y de ser con la Tierra, donde están, estrechamente vinculados entre sí, los seres humanos, los demás seres vivos, el agua, el suelo y subsuelo y la atmósfera. Asumir la visión de “la ecología integral”, luchando por la superación, al mismo tiempo, de la crisis climática y la crisis social, construyendo sociedades verdaderamente humanas, con relaciones de cooperación entre las personas, comunidades y pueblos, y las relaciones armónicas con la Tierra. Es así que los pueblos indígenas proponen el enfrentamiento de la crisis de paradigma del mundo actual: buscando el Buen Vivir.
 
-Y es en esta perspectiva que, desde hace años, se llevan a cabo muchas iniciativas de organización y articulación de los pueblos amazónicos, especialmente el Foro Social Pan-amazónico, la Articulación por la Convivencia con la Amazonía (ARCA), en Brasil, y la Red Eclesial Pan-Amazónica (REPAM). Nos queda esperar que estos esfuerzos movilicen a los pueblos de la Pan-Amazonía en favor de un proyecto de vida amazónica y convivencia con el bioma.
+Y es en esta perspectiva que, desde hace años, se llevan a cabo muchas iniciativas de organización y articulación de los pueblos amazónicos, especialmente el Foro Social Pan-amazónico, la Articulación por la Convivencia con la Amazonía (ARCA), en Brasil, y la [Red Eclesial Pan-Amazónica (REPAM)](http://redamazonica.org/). Nos queda esperar que estos esfuerzos movilicen a los pueblos de la Pan-Amazonía en favor de un proyecto de vida amazónica y convivencia con el bioma.
 
 <div class="text-center">
   <img alt="Figura 1" class="img-responsive" src="http://i.imgur.com/aPYzeAc.png">
@@ -71,13 +71,12 @@ Y es en esta perspectiva que, desde hace años, se llevan a cabo muchas iniciati
 (1) Ver, por ejemplo, Libro del Génesis 2,7
 (2) Esos largos tiempos del proceso son descritos en la Biblia como “días”, puesto que, en el séptimo, también Dios descansó.
 (3) Los cinco informes del IPCC confirman, con seguridad cada vez más fuerte, que el calentamiento constatado de forma permanente desde la revolución industrial es provocado por acciones humanas, y, por tanto, el cambio climático que afecta de modo especial a los más pobres también tiene causas humanas.
-(4) Ver O futuro climático da Amazônia – Relatório de investigação científica. Antônio Donato Nobre (investigador del INPE). Publicação da ARA, Articulação Regional Amazônica, em 2014. https://mail.google.com/mail/u/0/#search/ant%C3%B4nio+donato+nobre+sobre…
+(4) Ver [O futuro climático da Amazônia – Relatório de investigação científica.](http://www.icv.org.br/site/wp-content/uploads/2014/10/Futuro-Clim%C3%A1tico-da-Amaz%C3%B4nia.pdf) Antônio Donato Nobre (investigador del INPE). Publicação da ARA, Articulação Regional Amazônica, em 2014.
 (5) Ver François Morin. L´Hydre Mondiale. L´Ologopole Bancaire. Ed. Lux, 2015. Citado en el portal OUTRAS PALAVRAS, reproducido en el blog www.facebook.com/ivopoletto el 23/09/2015.
 —
 <b>*Ivo Poletto</b>, filósofo, teólogo, científico social y educador popular. Participó en la Comissão Pastoral da Terra, Cáritas Brasileira, Pastorais Sociais.  Actualmente, es asesor nacional del Fórum Mudanças Climáticas e Justiça Social y miembro de la Red Eclesial Pan-Amazónica (REPAM).
 
 <b>Fuente:</b>Artículo parte de la edición 508 (octubre 2015) de la revista [América Latina en Movimiento](http://www.alainet.org/es/articulo/173215) de ALAI que, bajo el título “Cambio climático y Amazonia”, aborda el cambio climático desde la realidad amazónica, principalmente con aportes de integrantes de la Red Eclesial Pan-Amazónica (REPAM).
-<b>Foto</b>: FEDIQUEP
 
 <span class="label label-default">Zona</span> Amazonia.
 
