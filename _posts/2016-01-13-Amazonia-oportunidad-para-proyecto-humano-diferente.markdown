@@ -69,11 +69,14 @@ Y es en esta perspectiva que, desde hace años, se llevan a cabo muchas iniciati
 <b>Notas:</b>
 
 (1) Ver, por ejemplo, Libro del Génesis 2,7
+
 (2) Esos largos tiempos del proceso son descritos en la Biblia como “días”, puesto que, en el séptimo, también Dios descansó.
 (3) Los cinco informes del IPCC confirman, con seguridad cada vez más fuerte, que el calentamiento constatado de forma permanente desde la revolución industrial es provocado por acciones humanas, y, por tanto, el cambio climático que afecta de modo especial a los más pobres también tiene causas humanas.
+
 (4) Ver [O futuro climático da Amazônia – Relatório de investigação científica.](http://www.icv.org.br/site/wp-content/uploads/2014/10/Futuro-Clim%C3%A1tico-da-Amaz%C3%B4nia.pdf) Antônio Donato Nobre (investigador del INPE). Publicação da ARA, Articulação Regional Amazônica, em 2014.
+
 (5) Ver François Morin. L´Hydre Mondiale. L´Ologopole Bancaire. Ed. Lux, 2015. Citado en el portal OUTRAS PALAVRAS, reproducido en el blog www.facebook.com/ivopoletto el 23/09/2015.
-—
+
 <b>*Ivo Poletto</b>, filósofo, teólogo, científico social y educador popular. Participó en la Comissão Pastoral da Terra, Cáritas Brasileira, Pastorais Sociais.  Actualmente, es asesor nacional del Fórum Mudanças Climáticas e Justiça Social y miembro de la Red Eclesial Pan-Amazónica (REPAM).
 
 <b>Fuente:</b>Artículo parte de la edición 508 (octubre 2015) de la revista [América Latina en Movimiento](http://www.alainet.org/es/articulo/173215) de ALAI que, bajo el título “Cambio climático y Amazonia”, aborda el cambio climático desde la realidad amazónica, principalmente con aportes de integrantes de la Red Eclesial Pan-Amazónica (REPAM).
