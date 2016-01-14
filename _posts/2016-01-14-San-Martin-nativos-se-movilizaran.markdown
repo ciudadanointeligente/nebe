@@ -2,7 +2,7 @@
 layout: blog
 title: "San Martín: Nativos se movilizarán el 1 de marzo si no se cumple con demanda de titulación"
 description: "Indígenas de la región San Martín, en la Amazonía norte de Perú, pusieron como límite el mes de febrero para que el Gobierno Regional emprenda acciones a favor de la titulación de sus comunidades. Sostuvieron que de no hacerlo, el 1 de marzo saldrán en protesta a las calles."
-image:http://i.imgur.com/164Ek1X.png
+image: http://i.imgur.com/164Ek1X.png
 date: 2016-01-13
 categories: noticias
 tags: destacado
