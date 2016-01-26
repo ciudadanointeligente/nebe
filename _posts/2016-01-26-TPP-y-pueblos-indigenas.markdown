@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "El TPP y los pueblos indígenas"
-description: "Indígenas de la región San Martín, en la Amazonía norte de Perú, pusieron como límite el mes de febrero para que el Gobierno Regional emprenda acciones a favor de la titulación de sus comunidades. Sostuvieron que de no hacerlo, el 1 de marzo saldrán en protesta a las calles."
+description: "El próximo 4 de febrero se firma en Auckland, Nueva Zelanda, el Acuerdo Estratégico Transpacífico de Asociación Económica (TPP por sus siglas en inglés)."
 image: http://i.imgur.com/CG57e76.png
 date: 2016-01-26
 categories: noticias
