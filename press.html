@@ -15,7 +15,9 @@ layout: page
     <div class="row">
       {% for post in site.categories.noticias | limit: 3 %}
       <div class="col-md-4 category-news">
+        {% if post.image != nil %}
         <img src="{{post.image}}" class="img-responsive">
+        {% endif %}
         <h4>{{post.title | truncate: 160}}</h4>
         <ul class="list-inline date-news">
           <li>Fecha: {{post.date | date: "%d de %B, %Y" | upcase }}</li>

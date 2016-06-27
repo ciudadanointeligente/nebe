@@ -5,9 +5,11 @@ layout: page
 <script src="{{ site.baseurl }}/js/dirPagination.js"></script>
 
 <section id="news" ng-app="arkakApp">
+  {% if site.news_article.image != nil %}
   <div class="docs-img">
       <img src="{{ site.news_article.image }}">
   </div>
+  {% endif %}
   <div class="container" ng-controller="NewsCtrl">
 
       <div class="row">
