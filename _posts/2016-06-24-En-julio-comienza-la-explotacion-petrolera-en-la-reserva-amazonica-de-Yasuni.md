@@ -2,14 +2,14 @@
 layout: blog
 title: "En julio comienza la explotación petrolera en la reserva amazónica de Yasuní"
 description: Las primeras perforaciones se harán en el límite del parque de Ecuador, en Tiputini, y se prevé el avance hacia el sur, hacia Tambococha e Ishpingo, lo que afectará seriamente el área protegida, sostienen los ambientalistas."
-date: 2016-21-06
+date: 2016-06-21
 categories: noticias
 tags: destacado
 author: Mabel Franco
 ---
 
 "El parque amazónico Yasuní, de Ecuador, reserva mundial de la biosfera, será escenario de explotación petrolera desde julio de 2016. Así lo anunció José Icaza, ministro de Hidrocarburos del gobierno de Rafael Correa.
-La empresa estatal Petroamazonas tiene planificada la perforación de 40 pozos en la zona de Tiputini (bloque ITT), de los que prevé recuperar 166 millones de barriles de crudo. 
+La empresa estatal Petroamazonas tiene planificada la perforación de 40 pozos en la zona de Tiputini (bloque ITT), de los que prevé recuperar 166 millones de barriles de crudo.
 
 Esperanza Martínez, presidenta del colectivo Acción Ecológica, entrevistada por Radio Francia Internacional, considera que esta acción, además de implicar graves riesgos de contaminación, terminará por aislar a los indígenas que habitan esa zona y que paulatinamente han ido perdiendo espacio. Etnocidio, es la palabra de la activista.
 
@@ -24,7 +24,7 @@ Los ecuatorianos habían solicitado un referéndum, pero fue desestimado, pese a
 Ese año, el codirector de la Estación de Biodiversidad Tiputini de la Universidad San Francisco de Quito, David Romo, le dijo a la BBC http://www.bbc.com/mundo/noticias/2013/08/130816_ecuador_yasuni_causas_fracaso_lps que Ecuador había sido incapaz de convencer al mundo de un cambio de la mentalidad de explotación de la naturaleza para el beneficio inmediato.
 "Estábamos como ecuatorianos apostando a que somos una sociedad con una visión bastante innovadora y promotora de la conservación de la naturaleza", pero los países más ricos del planeta no asumieron su "corresponsabilidad" en el problema ambiental, argumentó.
 
-Esperanza Martínez sostiene que la estrategia fue contradictoria y débil, pues se apeló a gobiernos que están comprometidos con la industria petrolera, cuando se pudo acudir a las contribuciones de las sociedades que están interesadas en salvar la vida, “como no lo están los gobiernos”. 
+Esperanza Martínez sostiene que la estrategia fue contradictoria y débil, pues se apeló a gobiernos que están comprometidos con la industria petrolera, cuando se pudo acudir a las contribuciones de las sociedades que están interesadas en salvar la vida, “como no lo están los gobiernos”.
 
 Datos necesarios
 
@@ -34,9 +34,9 @@ Datos necesarios
 
 *  Posee la mayor biodiversidad del mundo, según los científicos del lugar, y es el hogar de la comunidad indígena huaorani. https://es.wikipedia.org/wiki/Huaorani
 
-* Sin embargo, allí también se encuentran algunos de los mayores yacimientos de crudo de Ecuador. 
+* Sin embargo, allí también se encuentran algunos de los mayores yacimientos de crudo de Ecuador.
 
-*  Según expertos, un porcentaje de su superficie contiene actividad petrolera en bloques distantes a la zona del ITT. 
+*  Según expertos, un porcentaje de su superficie contiene actividad petrolera en bloques distantes a la zona del ITT.
 
 *  Un 30% de los ingresos de Ecuador, miembro de la Organización de Países Exportadores de Petróleo (OPEP), provienen de la extracción de crudo. Datos BBC
 
