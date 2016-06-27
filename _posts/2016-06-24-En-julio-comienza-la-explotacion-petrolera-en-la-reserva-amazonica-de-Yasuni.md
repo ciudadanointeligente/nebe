@@ -2,6 +2,7 @@
 layout: blog
 title: "En julio comienza la explotación petrolera en la reserva amazónica de Yasuní"
 description: Las primeras perforaciones se harán en el límite del parque de Ecuador, en Tiputini, y se prevé el avance hacia el sur, hacia Tambococha e Ishpingo, lo que afectará seriamente el área protegida, sostienen los ambientalistas."
+image: http://imgur.com/fcHEn8T
 date: 2016-06-21
 categories: noticias
 tags: destacado
