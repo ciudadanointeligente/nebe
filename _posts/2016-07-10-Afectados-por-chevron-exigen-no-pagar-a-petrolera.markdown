@@ -24,6 +24,8 @@ Los afectados por el trabajo de la petrolera mantienen un litigio contra Chevron
 
 Chevron retiró todos sus activos y bienes del país, por lo que los afectados están siguiendo acciones de ejecución en Brasil, Argentina y Canadá.  En meses pasados la Corte Suprema de Canadá emitió un dictamen mediante la cual  acepta la jurisdicción para que se tramité la homologación de la sentencia ecuatoriana, lo que abre el camino para el cobro del total de la sentencia en ese país.
 
-link: https://www.youtube.com/watch?v=kLogBWXYA3w&feature=youtu.be
+<div class="text-center">
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/oMrVJ0YtgQc" frameborder="0" allowfullscreen></iframe>
+</div>
 
 Mientras evade la justicia ecuatoriana, Chevron ha utilizado el Tratado Bilateral de Inversiones para demandar al Estado ecuatoriano, como resultado de lo cual ganó el caso conocido como Chevron 2, cuya demanda está basada en la no resolución por parte de las cortes ecuatorianas, de juicios comerciales instaurados por la petrolera.  Este juicio, no tiene relación alguna con el juicio ambiental privado que mantienen los afectados ecuatorianos.  Es necesario ratificar que pesa orden de embargo sobre todos los bienes y activos que tiene la petrolera en Ecuador.
