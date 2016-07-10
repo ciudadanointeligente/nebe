@@ -5,7 +5,7 @@ description: "El reciente fallo de un tribunal de Estados Unidos que dictamina q
 image: http://i.imgur.com/ZDq0aoV.jpg
 date: 2016-07-10
 categories:
-  - blog
+  - noticias
 tags: destacado
 author: Arkak Sacha
 ---
