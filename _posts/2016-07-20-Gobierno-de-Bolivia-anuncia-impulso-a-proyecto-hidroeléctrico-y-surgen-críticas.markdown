@@ -21,7 +21,7 @@ El extitular de la Secretaría de la Madre Tierra de la Gobernación de La Paz, 
 
 Indígenas tacanas (josesanos), tsmanés y mosetenes, principalmente, son los que viven dentro las áreas protegidas Madidi y Pilón Lajas. Se trata de más de tres mil personas cuyas comunidades son altamente vulnerables por el estilo de vida que cultivan en medio de la naturaleza. Son poblaciones que fueron diezmadas a lo largo de los siglos por diferentes problemas como epidemias, avasallamientos, persecuciones, la explotación del caucho, entre otros.
 
-El biólogo Marco Octavio Ribera explicó que la inundación prevista alcanzará a las dos áreas protegidas donde también habitan comunidades interculturales (migrantes de tierras altas, principalmente quechuas). Esto significaría la expulsión de más de doscientas familias indígenas y campesinas de sus bosques y tierras tradicionales, las cuales quedarían bajo el agua, teme el biólogo.
+El biólogo boliviano Marco Octavio Ribera explicó que la inundación prevista alcanzará a las dos áreas protegidas donde también habitan comunidades interculturales (migrantes de tierras altas, principalmente quechuas). Esto significaría la expulsión de más de doscientas familias indígenas y campesinas de sus bosques y tierras tradicionales, las cuales quedarían bajo el agua, teme el biólogo.
 Con esa apreciación coinciden investigadores y ambientalistas que en los años 90 rechazaron el proyecto con base en estudios y proyecciones realizadas sobre los impactos sociales y ambientales en ese ecosistema.
 
 Desde las redes sociales se manifestaron activistas en rechazo al proyecto. En Facebook se creó la página No a la represa de El Bala.
