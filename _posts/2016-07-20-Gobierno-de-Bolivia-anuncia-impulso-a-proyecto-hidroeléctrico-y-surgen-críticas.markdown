@@ -3,7 +3,7 @@ layout: blog
 title: "Gobierno de Bolivia anuncia impulso a proyecto hidroeléctrico y surgen críticas"
 description: "Un Decreto Supremo autoriza el estudio a diseño final del proyecto de El Bala, que comprende la construcción de dos represas que amenazan la Amazonia boliviana."
 image: http://imgur.com/a/5rR5N
-date: 2016-20-07
+date: 2016-07-20
 categories: noticias
 tags: destacado
 author: Arkak Sacha
