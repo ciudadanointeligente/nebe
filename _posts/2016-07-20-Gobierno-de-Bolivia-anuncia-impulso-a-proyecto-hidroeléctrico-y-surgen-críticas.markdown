@@ -9,10 +9,6 @@ tags: destacado
 author: Arkak Sacha
 ---
 
-<div class="text-center">
-<iframe width="420" height="315" src="https://www.youtube.com/embed/g9QB_NdvmDo" frameborder="0" allowfullscreen></iframe>
-
-
 Las áreas protegidas Madidi y Pilón Lajas, ubicadas en la Amazonía boliviana, atesoran la mayor riqueza biológica de Sudamérica. Activistas medioambientales y líderes indígenas alertan sobre el alto riesgo que corren estos territorios ante el reciente anuncio del Gobierno de autorizar el estudio a diseño final del proyecto hidroeléctrico de El Bala.
 
 Fue el propio presidente Evo Morales quien realizó el anuncio, tras recibir los resultados de un estudio realizado en el área por la empresa italiana Geodata. La autoridad boliviana apuntó que la magnitud del proyecto podría ser la más grande de Bolivia, ya que constaría de dos plantas: Chepete, que generaría 2.252 megavatios, y El Bala, capaz de generar 425 megavatios.  
@@ -29,3 +25,6 @@ El biólogo boliviano Marco Octavio Ribera explicó que la inundación prevista 
 Con esa apreciación coinciden investigadores y ambientalistas que en los años 90 rechazaron el proyecto con base en estudios y proyecciones realizadas sobre los impactos sociales y ambientales en ese ecosistema.
 
 Desde las redes sociales se manifestaron activistas en rechazo al proyecto. En Facebook se creó la página No a la represa de El Bala.
+
+<div class="text-center">
+<iframe width="420" height="315" src="https://www.youtube.com/embed/g9QB_NdvmDo" frameborder="0" allowfullscreen></iframe>
