@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: "Los asesinatos de activistas por el medio ambiente se dispararon el 2015 con 185 víctimas.markdown"
+title: "Los asesinatos de activistas por el medio ambiente se dispararon el 2015 con 185 víctimas"
 description: "Se trata de la cifra más alta desde que se tiene registro. Brasil es uno de los países con mayor número de casos. El 40 por ciento de los asesinados son indígenas, según el informe publicado este mes por la organización no gubernamental Global Witness."
 image: http://i.imgur.com/6HWUwCH.jpg
 date: 2016-07-28
