@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: "Mercurio: la nueva amenaza para los indígenas de la Amazonia"
+title: "Mercurio: una amenaza para los indígenas de la Amazonia"
 description: "Miles de indígenas de Perú, Brasil, Colombia y Venezuela son afectados por el trabajo de la minería que afecta los ríos amazónicos. Los niños y las mujeres embarazadas son los más afectados."
 image: http://i.imgur.com/WXW66b3.jpg
 date: 2016-11-08
