@@ -32,7 +32,3 @@ Mayor información: [Survial International](http://www.derechoysociedad.org/) pr
 
 <b>FUENTE:</b> [Survival International](https:// http://www.survival.es/)
 <b>FOTO:</b> INPE
-
-<span class="label label-default">Zona</span> Pastaza
-
-<span class="label label-default">Tendencia</span> Inicio de acción judicial
