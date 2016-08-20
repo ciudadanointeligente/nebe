@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: ‘Incendios amenazan con aniquilar a indígenas aislados en Brasil’
+title: "Incendios amenazan con aniquilar a indígenas aislados en Brasil"
 description: 'La tribu awá se halla en riesgo debido a una oleada de incendios forestales. Existe ausencia de equipos gubernamentales para sofocar el fuego.'
 image: http://i.imgur.com/qCPI20n.png
 date: 2016-08-20
