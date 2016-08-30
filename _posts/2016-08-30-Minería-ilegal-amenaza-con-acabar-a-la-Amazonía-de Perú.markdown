@@ -3,7 +3,7 @@ layout: blog
 title: "Minería ilegal amenaza con acabar a la Amazonía de Perú"
 description: "Fotos tomadas por expertos en contaminación ambiental muestran como la explotación ilícita de oro consume una parte importante de la zona boscosa."
 image: http://i.imgur.com/bf40L2A.png
-date: 2016-30-08
+date: 2016-08-30
 categories: noticias
 tags: destacado
 author: TeleSur
