@@ -10,10 +10,13 @@ author: Arkak Sacha
 ---
 
 ¿Sabías que Bolivia es el décimo segundo país con mayor diversidad biológica del planeta, el cuarto en número de especies de mariposas, el octavo en aves y el onceavo en plantas? Y sin embargo, cada 5 minutos se deforesta el equivalente a una cancha de fútbol. La minería y los hidrocarburos representan el 80% de las exportaciones de Bolivia. El sector forestal, el 0,01%.
-Estos son parte de los datos que se pueden encontrar en los cinco documentales del proyecto Planeta Bolivia, una iniciativa que es impulsada en Bolivia y que busca abrir espacios de reflexión sobre los desafíos medioambientales de Bolivia en el siglo XXI. Se trata de cinco documentales que se centran en distintas temáticas como el agua, la tierra, las ciudades y el cambio climático.
-Planeta Bolivia es impulsado por el ex presidente de Bolivia, Carlos Mesa Gisbert, el antropólogo Ramiro Molina y el ambientalista Juan Carlos Enríquez. "No se trata de buscar culpables o responsables. No se trata de hacer predicciones sobre lo que se viene, la idea es colocar en su exacta dimensión la realidad", se lee en la justificación del proyecto.
+Estos son parte de los datos que se pueden encontrar en los cinco documentales del proyecto Planeta Bolivia, una iniciativa que busca abrir espacios de reflexión sobre los desafíos medioambientales de Bolivia en el siglo XXI. 
 
-Además de la difusión de los documentales, el proyecto tiene previsto realizar conversatorios presenciales y virtuales donde se impulsará la participación ciudadana, en la búsqueda de comenzar a generar una agenda medioambiental desde la sociedad.
+Se trata de cinco documentales que se centran en distintas temáticas como el agua, la tierra, la densidad demográfica en las ciudades y el cambio climático.
+
+El proyecto Planeta Bolivia es impulsado por el ex presidente de Bolivia, Carlos D. Mesa Gisbert, el antropólogo Ramiro Molina y el ambientalista Juan Carlos Enríquez. "No se trata de buscar culpables o responsables. No se trata de hacer predicciones sobre lo que se viene, la idea es colocar en su exacta dimensión la realidad", se puede leer en la justificación del proyecto.
+
+Además de la difusión de los cinco documentales, el proyecto tiene previsto realizar conversatorios presenciales y virtuales donde se impulsará la participación ciudadana, en la búsqueda de comenzar a generar una agenda medioambiental desde la sociedad. Para ello se ha aliado a la plataforma digital La Pública.
 
 A continuación, compartimos la versión condensada del primer docuemental, que lleva el nombre del proyecto: Planeta Bolivia.
 
