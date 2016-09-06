@@ -4,8 +4,7 @@ title: "Llanchama, la comunidad amazónica que acabó dividida por el petróleo"
 description: "Ubicada dentro de la reserva natural ecuatoriana del Yasuní, la población entró en conflictos entre los partidarios de la explotación petrolífera y quienes sufren sus consecuencias."
 image: http://i.imgur.com/oYliGZo.png
 date: 2016-09-06
-categories:
-  - blog
+categories: noticias
 tags: destacado
 author: El Diario.es
 ---
