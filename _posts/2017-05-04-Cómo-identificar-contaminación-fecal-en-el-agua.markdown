@@ -2,7 +2,7 @@
 layout: blog
 title: "Cómo identificar contaminación fecal en el agua"
 description: "Un proyecto ejecutado en Ecuador busca evaluar la respuesta a la información sobre la calidad del agua en las localidades altamente afectadas por la contaminación petrolera."
-image: http://i.imgur.com/OReXviR.jpg
+image: http://i.imgur.com/Z1vhJhV.png
 date: 2017-05-04
 categories: noticias
 tags: destacado
